@@ -1,6 +1,6 @@
 <html>
-    <h1>Algorithms</h1>
-    <h3> Solutions to Popular Algorithmic Problems </h3>
+    <h1>Leetcode Problems</h1>
+    <h3> Solutions to Leetcode Algorithmic Problems </h3>
     <div>
         <h2>INDEX :</h2>
     </div>
