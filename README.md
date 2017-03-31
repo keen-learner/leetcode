@@ -1,14 +1,9 @@
-<html>
-    <h1>Leetcode Problems</h1>
-    <h3> Solutions to Leetcode Algorithmic Problems </h3>
-    <div>
-        <h2>INDEX :</h2>
-    </div>
-    <div>
-       <li> <a href="https://github.com/keen-learner/leetcode/tree/master/56-MergeIntervals.cpp">Merge Intervals</a>  (Added 30 March 2017) </li>
-    </div>
-    <div id="counter" align="right">  
-        Count = 1 &nbsp;&nbsp;&nbsp;
-    </div>
-</html>
+# Leetcode Algo Problem Solutions (Count = 1)
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|  #  | Title           |  Solution       | Tag          | Note                  | Added on | 
+|-----|---------------- | --------------- |--------------|-----------------------|----------|
+56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./56-MergeIntervals.cpp) |Sort |used lambda fn; tricky  | 30 March 2017 |
+
 
