@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 4)
+# Leetcode Algo Problem Solutions (Count = 5)
 
 |  #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -6,5 +6,6 @@
 57 | [Insert Intervals](https://leetcode.com/problems/insert-interval/) | [C++](./57-InsertInterval.cpp) | | tricky  | 30 March 2017 |
 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](./112-PathSum.cpp) |Trees DFS, Recursion | | 31 March 2017 |
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [C++](./113-PathSum2.cpp) |Trees DFS, Recursion | | 31 March 2017 |
+75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./75-SortColors.cpp) |Partition, 2 Pointers | | 6 May 2017 |
 
 
