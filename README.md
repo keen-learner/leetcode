@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 6)
+# Leetcode Algo Problem Solutions (Count = 7)
 
 |  #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -8,5 +8,6 @@
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [C++](./113-PathSum2.cpp) |Trees DFS, Recursion | | 31 March 2017 |
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./75-SortColors.cpp) |Partition, 2 Pointers | | 6 May 2017 |
 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./283-MoveZeroes.cpp) |Partition | | 6 May 2017 |
+27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./27-RemoveElement.cpp) |Partition | | 6 May 2017 |
 
 
