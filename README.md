@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 12)
+# Leetcode Algo Problem Solutions (Count = 13)
 
 |  #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -14,5 +14,6 @@
 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./23-MergeKSortedLists.cpp) |LinkedList | | 6 May 2017 |
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](./189-RotateArray.cpp) | | | 6 May 2017 |
 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](./61-RotateList.cpp) | | | 6 May 2017 |
+33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./33-SearchInRotatedSortedArray.cpp) | | | 6 May 2017 |
 
 
