@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 8)
+# Leetcode Algo Problem Solutions (Count = 9)
 
 |  #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -10,5 +10,6 @@
 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./283-MoveZeroes.cpp) |Partition | | 6 May 2017 |
 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./27-RemoveElement.cpp) |Partition | | 6 May 2017 |
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./88-MergeSortedArray.cpp) |Partition | | 6 May 2017 |
+21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./21-MergeTwoSortedLists.cpp) |LinkedList | | 6 May 2017 |
 
 
