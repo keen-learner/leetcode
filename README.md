@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 21)
+# Leetcode Algo Problem Solutions (Count = 22)
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -23,5 +23,6 @@
 19 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./268-MissingNumber.cpp) |  | | 7 June 2017 |
 20 | 287 | [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./287-FindTheDuplicateNumber.cpp) | tricky | | 7 June 2017 |
 21 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [C++](./41-FindTheDuplicateNumber.cpp) | tricky,hard | | 7 June 2017 |
+22 | 442 | [Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [C++](./442-FindAllDuplicatesInAnArray.cpp) | tricky,hard | | 7 June 2017 |
 
 
