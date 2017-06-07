@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 18)
+# Leetcode Algo Problem Solutions (Count = 19)
 
 |  #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -20,5 +20,6 @@
 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](./61-RotateList.cpp) | | | 6 May 2017 |
 33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./33-SearchInRotatedSortedArray.cpp) | Binary Search| | 6 May 2017 |
 81 | [Search In Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [C++](./81-SearchInRotatedSortedArrayII.cpp) | Binary Search | | 6 May 2017 |
+268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./268-MissingNumber.cpp) |  | | 7 June 2017 |
 
 
