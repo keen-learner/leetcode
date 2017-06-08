@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 29)
+# Leetcode Algo Problem Solutions (Count = 30)
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -31,5 +31,6 @@
 27 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./169-MajorityElement.cpp) | tricky | | 8 June 2017 |
 28 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [C++](./229-MajorityElementII.cpp) | tricky, generalise it | | 8 June 2017 |
 29 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./168-ExcelSheetColumnTitle.cpp) | num to excel col  | | 8 June 2017 |
+30 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./171-ExcelSheetColumnNumber.cpp) | excel col to num | | 8 June 2017 |
 
 
