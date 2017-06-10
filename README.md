@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 31)
+# Leetcode Algo Problem Solutions (Count = 32)
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -33,5 +33,6 @@
 29 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](./112-PathSum.cpp) |Trees DFS, Recursion | | 31 March 2017 |
 30 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [C++](./113-PathSumII.cpp) |Trees DFS, Recursion | | 31 March 2017 |
 31 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [C++](./437-PathSumIII.cpp) |Trees DFS, Recursion | | 8 June 2017 |
+32 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [C++](./46-Permutations.cpp) |DFS, Recursion | | 10 June 2017 |
 
 
