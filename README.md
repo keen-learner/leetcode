@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 36)
+# Leetcode Algo Problem Solutions (Count = 37)
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -38,5 +38,6 @@
 34 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++](./31-NextPermutation.cpp) |Tricky, Recursion | | 10 June 2017 |
 35 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [C++](./60-PermutationSequence.cpp) |Tricky | | 10 June 2017 |
 36 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | [C++](./266-PalindromePermutation.cpp) |PAID | | 10 June 2017 |
+37 | 266 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | [C++](./267-PalindromePermutationII.cpp) |PAID | | 10 June 2017 |
 
 
