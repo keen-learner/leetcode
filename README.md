@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 39)
+# Leetcode Algo Problem Solutions (Count = 40)
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -41,5 +41,6 @@
 37 | 266 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | [C++](./267-PalindromePermutationII.cpp) |PAID | | 10 June 2017 |
 38 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [C++](./78-Subsets.cpp) | dfs,recursion | | 10 June 2017 |
 39 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [C++](./90-SubsetsII.cpp) | dfs,recursion,tricky | | 10 June 2017 |
+40 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [C++](./39-CombinationSum.cpp) | dfs,recursion,tricky | | 10 June 2017 |
 
 
