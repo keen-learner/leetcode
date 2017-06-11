@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 40)
+# Leetcode Algo Problem Solutions (Count = 41)
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -42,5 +42,6 @@
 38 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [C++](./78-Subsets.cpp) | dfs,recursion | | 10 June 2017 |
 39 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [C++](./90-SubsetsII.cpp) | dfs,recursion,tricky | | 10 June 2017 |
 40 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [C++](./39-CombinationSum.cpp) | dfs,recursion,tricky | | 10 June 2017 |
+41 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [C++](./40-CombinationSumII.cpp) | dfs,recursion,tricky | | 10 June 2017 |
 
 
