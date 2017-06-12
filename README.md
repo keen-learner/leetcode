@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 44)
+# Leetcode Algo Problem Solutions (Count = 45)
 
  
 ## Group 1 (Arrays, General)
@@ -58,6 +58,8 @@
 02 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++](./236-lowest-common-ancestor-of-a-binary-tree.cpp) |Trees, Recursion | | 4 April 2017 |
 03 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./100-same-tree.cpp) |Trees, Recursion | | 4 April 2017 |
 04 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](./101-symmetric-tree.cpp) |Trees, Recursion | | 4 April 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+05 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [C++](./450-DeleteNodeInABst.cpp) |Trees | | 4 April 2017 |
 
 
 ## Group 6 (Search/ Binary Search)
