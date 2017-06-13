@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 47)
+# Leetcode Algo Problem Solutions (Count = 48)
 
  
 ## Group 1 (Arrays, General)
@@ -60,6 +60,7 @@
 04 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](./101-symmetric-tree.cpp) |Trees, Recursion | | 4 April 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 05 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [C++](./450-DeleteNodeInABst.cpp) |Trees | | 4 April 2017 |
+06 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./173-BinarySearchTreeIterator.cpp) | good Ques. | | 12 April 2017 |
 
 
 ## Group 6 (Search/ Binary Search)
