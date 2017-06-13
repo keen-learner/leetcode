@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 45)
+# Leetcode Algo Problem Solutions (Count = 46)
 
  
 ## Group 1 (Arrays, General)
@@ -90,5 +90,12 @@
 14 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [C++](./216-CombinationSumIII.cpp) | dfs,recursion,tricky | | 10 June 2017 |
 15 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./377-CombinationSumIV.cpp) | dfs,recursion,tricky | | 10 June 2017 |
 16 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [C++](./77-Combinations.cpp) | dfs,recursion,tricky | | 10 June 2017 |
+
+
+## Group 8 (Strings)
+
+|  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
+|-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
+01 | 151 | [Reverse Words In a String ](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](./151-ReverseWordsInAString.cpp) | tricky | | 12 June 2017 |
 
 
