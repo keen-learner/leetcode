@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 48)
+# Leetcode Algo Problem Solutions (Count = 49)
 
  
 ## Group 1 (Arrays, General)
@@ -61,6 +61,7 @@
 -- | -- | -- | -- | -- | -- | -- |
 05 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [C++](./450-DeleteNodeInABst.cpp) |Trees | | 4 April 2017 |
 06 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./173-BinarySearchTreeIterator.cpp) | good Ques. | | 12 April 2017 |
+07 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./94-BinaryTreeInorderTraversal.cpp) | | | 12 April 2017 |
 
 
 ## Group 6 (Search/ Binary Search)
