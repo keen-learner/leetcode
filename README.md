@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 51)
+# Leetcode Algo Problem Solutions (Count = 52)
 
  
 ## Group 1 (Arrays, General)
@@ -64,6 +64,7 @@
 07 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./94-BinaryTreeInorderTraversal.cpp) | | | 12 April 2017 |
 08 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](./144-BinaryTreePreorderTraversal.cpp) | | | 12 April 2017 |
 09 | 144 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./145-BinaryTreePostorderTraversal.cpp) | | | 12 April 2017 |
+10 | 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [C++](./285-InorderSuccessorInBST.cpp) | | | 12 April 2017 |
 
 
 ## Group 6 (Search/ Binary Search)
