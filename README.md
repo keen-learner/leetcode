@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 56)
+# Leetcode Algo Problem Solutions (Count = 57)
 
  
 ## Group 1 (Arrays, General)
@@ -27,6 +27,8 @@
 16 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./54-SpiralMatrix.cpp) | | | 18 June 2017 |
 17 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [C++](./59-SpiralMatrixII.cpp) | | | 18 June 2017 |
 18 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./73-SetMatrixZeroes.cpp) | | | 18 June 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+19 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./1-TwoSum.cpp) | | | 18 June 2017 |
 
 
 ## Group 2 (Partition, 2 Pointers)
