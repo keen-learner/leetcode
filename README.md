@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 57)
+# Leetcode Algo Problem Solutions (Count = 58)
 
  
 ## Group 1 (Arrays, General)
@@ -29,6 +29,7 @@
 18 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./73-SetMatrixZeroes.cpp) | | | 18 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 19 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./1-TwoSum.cpp) | | | 18 June 2017 |
+20 | 15 | [3 Sum](https://leetcode.com/problems/3sum/) | [C++](./15-3Sum.cpp) | tricky | | 18 June 2017 |
 
 
 ## Group 2 (Partition, 2 Pointers)
