@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 54)
+# Leetcode Algo Problem Solutions (Count = 55)
 
  
 ## Group 1 (Arrays, General)
@@ -25,6 +25,7 @@
 -- | -- | -- | -- | -- | -- | -- |
 15 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [C++](./48-RotateImage.cpp) | extra | | 18 June 2017 |
 16 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./54-SpiralMatrix.cpp) | | | 18 June 2017 |
+17 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [C++](./59-SpiralMatrixII.cpp) | | | 18 June 2017 |
 
 
 ## Group 2 (Partition, 2 Pointers)
