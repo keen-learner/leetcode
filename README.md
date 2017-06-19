@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 60)
+# Leetcode Algo Problem Solutions (Count = 61)
 
  
 ## Group 1 (Arrays, General)
@@ -32,6 +32,7 @@
 20 | 15 | [3 Sum](https://leetcode.com/problems/3sum/) | [C++](./15-3Sum.cpp) | tricky | | 18 June 2017 |
 21 | 18 | [4 Sum](https://leetcode.com/problems/4sum/) | [C++](./18-4Sum.cpp) | see multimap solution| | 18 June 2017 |
 22 | 16 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./16-3SumClosest.cpp) | | | 18 June 2017 |
+23 | 259 | [3 Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | [C++](./259-3SumSmaller.cpp) | | | 18 June 2017 |
 
 
 ## Group 2 (Partition, 2 Pointers)
