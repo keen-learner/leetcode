@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 62)
+# Leetcode Algo Problem Solutions (Count = 63)
 
  
 ## Group 1 (Arrays, General)
@@ -117,3 +117,8 @@
 02 | 557 | [Reverse Words In a String III ](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [C++](./557-ReverseWordsInAStringIII.cpp) | tricky | | 12 June 2017 |
 
 
+## Group 9 (Dynamic Programming)
+
+|  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
+|-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
+01 | 72 | [Edit Distance ](https://leetcode.com/problems/edit-distance/) | [C++](./72-EditDistance.cpp) | tricky | | 22 June 2017 |
