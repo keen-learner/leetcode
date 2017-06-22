@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 64)
+# Leetcode Algo Problem Solutions (Count = 65)
 
  
 ## Group 1 (Arrays, General)
@@ -123,3 +123,4 @@
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 72 | [Edit Distance ](https://leetcode.com/problems/edit-distance/) | [C++](./72-EditDistance.cpp) | tricky | | 22 June 2017 |
+02 | 583 | [ Delete Operation for Two Strings ](https://leetcode.com/problems/delete-operation-for-two-strings/) | [C++](./583-DeleteOperationForTwoStrings.cpp) | tricky, similar to 72 | | 22 June 2017 |
