@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 67)
+# Leetcode Algo Problem Solutions (Count = 68)
 
  
 ## Group 1 (Arrays, General)
@@ -88,6 +88,7 @@
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./33-SearchInRotatedSortedArray.cpp) | Binary Search| | 6 May 2017 |
 02 | 81 | [Search In Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [C++](./81-SearchInRotatedSortedArrayII.cpp) | Binary Search | | 6 May 2017 |
+03 | 74 | [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [C++](./74-SearchA2dMatrix.cpp) | Special Search | | 23 June 2017 |
 
 
 ## Group 7 (DFS, recursion)
