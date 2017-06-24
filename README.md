@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 66)
+# Leetcode Algo Problem Solutions (Count = 67)
 
  
 ## Group 1 (Arrays, General)
@@ -46,6 +46,7 @@
 03 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./27-RemoveElement.cpp) |Partition | | 6 May 2017 |
 04 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./88-MergeSortedArray.cpp) |Partition | | 6 May 2017 |
 05 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./26-RemoveDuplicatesFromSortedArray.cpp) | | | 23 June 2017 |
+06 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./80-RemoveDuplicatesFromSortedArrayII.cpp) |tricky | | 23 June 2017 |
 
 
 ## Group 3 (Sort)
