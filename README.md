@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 65)
+# Leetcode Algo Problem Solutions (Count = 66)
 
  
 ## Group 1 (Arrays, General)
@@ -34,6 +34,7 @@
 22 | 16 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./16-3SumClosest.cpp) | | | 18 June 2017 |
 23 | 259 | [3 Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | [C++](./259-3SumSmaller.cpp) | | | 18 June 2017 |
 24 | 454 | [4 Sum II](https://leetcode.com/problems/4sum-ii/) | [C++](./454-4SumII.cpp) | | | 18 June 2017 |
+-- | -- | -- | -- | -- | -- | -- |
 
 
 ## Group 2 (Partition, 2 Pointers)
@@ -44,6 +45,7 @@
 02 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./283-MoveZeroes.cpp) |Partition | | 6 May 2017 |
 03 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./27-RemoveElement.cpp) |Partition | | 6 May 2017 |
 04 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./88-MergeSortedArray.cpp) |Partition | | 6 May 2017 |
+05 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./26-RemoveDuplicatesFromSortedArray.cpp) | | | 23 June 2017 |
 
 
 ## Group 3 (Sort)
