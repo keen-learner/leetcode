@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 70)
+# Leetcode Algo Problem Solutions (Count = 71)
 
  
 ## Group 1 (Arrays, General)
@@ -92,6 +92,7 @@
 04 | 240 | [Search A 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [C++](./240-SearchA2dMatrixII.cpp) | Special Search | | 23 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 05 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C++](./215-KthLargestElementInAnArray.cpp) | Quick Select, Priority Q | | 24 June 2017 |
+06 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [C++](./378-KthSmallestElementInASortedMatrix.cpp) | Priority Q, see binary search approach | | 24 June 2017 |
 
 
 ## Group 7 (DFS, recursion)
