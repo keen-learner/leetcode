@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 72)
+# Leetcode Algo Problem Solutions (Count = 73)
 
  
 ## Group 1 (Arrays, General)
@@ -82,7 +82,7 @@
 10 | 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [C++](./285-InorderSuccessorInBST.cpp) | | | 12 April 2017 |
 
 
-## Group 6 (Search/ Binary Search)
+## Group 6 (Search/ Binary Search/ Priority Queue/ Queue)
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -94,6 +94,7 @@
 05 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C++](./215-KthLargestElementInAnArray.cpp) | Quick Select, Priority Q | | 24 June 2017 |
 06 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [C++](./378-KthSmallestElementInASortedMatrix.cpp) | Priority Q, see binary search approach | | 24 June 2017 |
 07 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./347-TopKFrequentElements.cpp) | Priority Q, Quick Select | | 24 June 2017 |
+08 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [C++](./346-MovingAverageFromDataStream.cpp) | Queue | | 25 June 2017 |
 
 
 ## Group 7 (DFS, recursion)
