@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 77)
+# Leetcode Algo Problem Solutions (Count = 78)
 
  
 ## Group 1 (Arrays, General)
@@ -63,6 +63,7 @@
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./21-MergeTwoSortedLists.cpp) |LinkedList | | 6 May 2017 |
 02 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./23-MergeKSortedLists.cpp) |LinkedList | | 6 May 2017 |
+03 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](./141-LinkedListCycle.cpp) |LinkedList | | 1 July 2017 |
 
 
 ## Group 5 (Trees)
