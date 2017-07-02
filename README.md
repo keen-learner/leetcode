@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 93)
+# Leetcode Algo Problem Solutions (Count = 95)
 
  
 ## Group 1 (Arrays, General)
@@ -80,6 +80,7 @@
 16 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](./82-RemoveDuplicatesFromSortedListII.cpp) |LinkedList| | 1 July 2017 |
 17 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [C++](./234-PalindromeLinkedList.cpp) |LinkedList| | 1 July 2017 |
 18 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [C++](./86-PartitionList.cpp) |LinkedList| | 1 July 2017 |
+19 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./19-RemoveNthNodeFromEndOfList.cpp) |LinkedList| | 1 July 2017 |
 
 
 ## Group 5 (Trees)
