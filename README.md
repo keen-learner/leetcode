@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 86)
+# Leetcode Algo Problem Solutions (Count = 87)
 
  
 ## Group 1 (Arrays, General)
@@ -73,6 +73,7 @@
 09 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [C++](./147-InsertionSortList.cpp) |LinkedList| | 1 July 2017 |
 10 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./160-IntersectionOfTwoLinkedLists.cpp) |LinkedList| | 1 July 2017 |
 11 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [C++](./109-ConvertSortedListToBinarySearchTree.cpp) |LinkedList, tricky| | 1 July 2017 |
+12 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](./328-OddEvenLinkedList.cpp) |LinkedList, tricky| | 1 July 2017 |
 
 
 ## Group 5 (Trees)
