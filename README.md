@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 84)
+# Leetcode Algo Problem Solutions (Count = 85)
 
  
 ## Group 1 (Arrays, General)
@@ -71,6 +71,7 @@
 07 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](./61-RotateList.cpp) |LinkedList, in Group1 | | 6 May 2017 |
 08 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [C++](./148-SortList.cpp) |LinkedList| | 1 July 2017 |
 09 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [C++](./147-InsertionSortList.cpp) |LinkedList| | 1 July 2017 |
+10 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./160-IntersectionOfTwoLinkedLists.cpp) |LinkedList| | 1 July 2017 |
 
 
 ## Group 5 (Trees)
