@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 81)
+# Leetcode Algo Problem Solutions (Count = 82)
 
  
 ## Group 1 (Arrays, General)
@@ -67,6 +67,7 @@
 04 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](./142-LinkedListCycleII.cpp) |LinkedList | | 1 July 2017 |
 05 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./206-ReverseLinkedList.cpp) |LinkedList | | 1 July 2017 |
 06 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [C++](./92-ReverseLinkedListII.cpp) |LinkedList | | 1 July 2017 |
+07 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [C++](./143-ReorderList.cpp) |LinkedList, tricky | | 1 July 2017 |
 
 
 ## Group 5 (Trees)
