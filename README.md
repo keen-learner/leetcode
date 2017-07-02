@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 96)
+# Leetcode Algo Problem Solutions (Count = 97)
 
  
 ## Group 1 (Arrays, General)
@@ -82,6 +82,7 @@
 18 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [C++](./86-PartitionList.cpp) |LinkedList| | 1 July 2017 |
 19 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./19-RemoveNthNodeFromEndOfList.cpp) |LinkedList| | 1 July 2017 |
 20 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./2-AddTwoNumbers.cpp) |LinkedList| | 1 July 2017 |
+21 | 24 | [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./24-SwapNodesInPairs.cpp) |LinkedList|tricky | 1 July 2017 |
 
 
 ## Group 5 (Trees)
