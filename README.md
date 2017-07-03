@@ -66,7 +66,7 @@
 03 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](./141-LinkedListCycle.cpp) |LinkedList | | 1 July 2017 |
 04 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](./142-LinkedListCycleII.cpp) |LinkedList | | 1 July 2017 |
 05 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./206-ReverseLinkedList.cpp) |LinkedList | | 1 July 2017 |
-06 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [C++](./92-ReverseLinkedListII.cpp) |LinkedList | | 1 July 2017 |
+06 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [C++](./92-ReverseLinkedListII.cpp) |LinkedList, tricky | | 1 July 2017 |
 07 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [C++](./143-ReorderList.cpp) |LinkedList, tricky | | 1 July 2017 |
 07 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](./61-RotateList.cpp) |LinkedList, in Group1 | | 6 May 2017 |
 08 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [C++](./148-SortList.cpp) |LinkedList| | 1 July 2017 |
@@ -79,7 +79,7 @@
 15 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](./83-RemoveDuplicatesFromSortedList.cpp) |LinkedList| | 1 July 2017 |
 16 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](./82-RemoveDuplicatesFromSortedListII.cpp) |LinkedList| | 1 July 2017 |
 17 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [C++](./234-PalindromeLinkedList.cpp) |LinkedList| | 1 July 2017 |
-18 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [C++](./86-PartitionList.cpp) |LinkedList| | 1 July 2017 |
+18 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [C++](./86-PartitionList.cpp) |LinkedList, tricky| | 1 July 2017 |
 19 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./19-RemoveNthNodeFromEndOfList.cpp) |LinkedList| | 1 July 2017 |
 20 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./2-AddTwoNumbers.cpp) |LinkedList| | 1 July 2017 |
 21 | 24 | [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./24-SwapNodesInPairs.cpp) |LinkedList|tricky | 1 July 2017 |
@@ -91,15 +91,17 @@
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](./235-lowest-common-ancestor-of-a-binary-search-tree.cpp) |Trees, Recursion | | 4 April 2017 |
 02 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++](./236-lowest-common-ancestor-of-a-binary-tree.cpp) |Trees, Recursion | | 4 April 2017 |
+-- | -- | -- | -- | -- | -- | -- |
 03 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./100-same-tree.cpp) |Trees, Recursion | | 4 April 2017 |
 04 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](./101-symmetric-tree.cpp) |Trees, Recursion | | 4 April 2017 |
+05 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](./98-ValidateBinarySearchTree.cpp) |Trees, Recursion | | 2 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-05 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [C++](./450-DeleteNodeInABst.cpp) |Trees | | 4 April 2017 |
-06 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./173-BinarySearchTreeIterator.cpp) | good Ques. | | 12 April 2017 |
-07 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./94-BinaryTreeInorderTraversal.cpp) | | | 12 April 2017 |
-08 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](./144-BinaryTreePreorderTraversal.cpp) | | | 12 April 2017 |
-09 | 144 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./145-BinaryTreePostorderTraversal.cpp) | | | 12 April 2017 |
-10 | 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [C++](./285-InorderSuccessorInBST.cpp) | | | 12 April 2017 |
+06 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [C++](./450-DeleteNodeInABst.cpp) |Trees | | 4 April 2017 |
+07 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./173-BinarySearchTreeIterator.cpp) | good Ques. | | 12 April 2017 |
+08 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./94-BinaryTreeInorderTraversal.cpp) | | | 12 April 2017 |
+09 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](./144-BinaryTreePreorderTraversal.cpp) | | | 12 April 2017 |
+10 | 144 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./145-BinaryTreePostorderTraversal.cpp) | | | 12 April 2017 |
+11 | 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [C++](./285-InorderSuccessorInBST.cpp) | | | 12 April 2017 |
 
 
 ## Group 6 (Search/ Binary Search/ Priority Queue/ Queue)
