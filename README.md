@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 103)
+# Leetcode Algo Problem Solutions (Count = 104)
 
  
 ## Group 1 (Arrays, General)
@@ -109,6 +109,7 @@
 16 | 314 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [C++](./314-BinaryTreeVerticalOrderTraversal.cpp) | | | 3 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 17 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./104-MaximumDepthOfBinaryTree.cpp) | | | 3 July 2017 |
+18 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C++](./111-MinimumDepthOfBinaryTree.cpp) | | | 3 July 2017 |
 
 
 ## Group 6 (Search/ Binary Search/ Priority Queue/ Queue)
