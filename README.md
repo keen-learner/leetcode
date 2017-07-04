@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 105)
+# Leetcode Algo Problem Solutions (Count = 106)
 
  
 ## Group 1 (Arrays, General)
@@ -111,6 +111,8 @@
 17 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./104-MaximumDepthOfBinaryTree.cpp) | | | 3 July 2017 |
 18 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C++](./111-MinimumDepthOfBinaryTree.cpp) | | | 3 July 2017 |
 19 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C++](./230-KthSmallestElementInABST.cpp) | | | 3 July 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+20 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./108-ConvertSortedArrayToBinarySearchTree.cpp) | | | 3 July 2017 |
 
 
 ## Group 6 (Search/ Binary Search/ Priority Queue/ Queue)
