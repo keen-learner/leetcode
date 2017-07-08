@@ -45,7 +45,7 @@ class Solution1 {
 public:
     vector<vector<int> > subsetsWithDup(vector<int> &nums) {
     sort(nums.begin(), nums.end());
-        vector<std::vector<int> > res;
+    vector<std::vector<int> > res;
     vector<int> vec;
     subsetsWithDup(res, nums, vec, 0);
     return res;
