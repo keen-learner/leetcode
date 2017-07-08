@@ -28,7 +28,7 @@
 17 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [C++](./59-SpiralMatrixII.cpp) | | | 18 June 2017 |
 18 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./73-SetMatrixZeroes.cpp) | | | 18 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-19 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./1-TwoSum.cpp) | | | 18 June 2017 |
+19 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./1-TwoSum.cpp) [Python](./1-TwoSum.py) | | | 18 June 2017 |
 20 | 15 | [3 Sum](https://leetcode.com/problems/3sum/) | [C++](./15-3Sum.cpp) | tricky | | 18 June 2017 |
 21 | 18 | [4 Sum](https://leetcode.com/problems/4sum/) | [C++](./18-4Sum.cpp) | see multimap solution| | 18 June 2017 |
 22 | 16 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./16-3SumClosest.cpp) | | | 18 June 2017 |
