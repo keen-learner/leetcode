@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 108)
+# Leetcode Algo Problem Solutions (Count = 109)
 
  
 ## Group 1 (Arrays, General)
@@ -125,13 +125,14 @@
 02 | 81 | [Search In Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [C++](./81-SearchInRotatedSortedArrayII.cpp) | Binary Search | | 6 May 2017 |
 03 | 74 | [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [C++](./74-SearchA2dMatrix.cpp) | Special Search | | 23 June 2017 |
 04 | 240 | [Search A 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [C++](./240-SearchA2dMatrixII.cpp) | Special Search | | 23 June 2017 |
+05 | 04 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./4-MedianOfTwoSortedArrays.cpp) | Binary Search | | 9 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-05 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C++](./215-KthLargestElementInAnArray.cpp) | Quick Select, Priority Q | | 24 June 2017 |
-06 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [C++](./378-KthSmallestElementInASortedMatrix.cpp) | Priority Q, see binary search approach | | 24 June 2017 |
-07 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./347-TopKFrequentElements.cpp) | Priority Q, Quick Select | | 24 June 2017 |
-08 | 295 | [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [C++](./295-FindMedianFromDataStream.cpp) | Priority Q, Multiset | | 25 June 2017 |
-09 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [C++](./480-SlidingWindowMedian.cpp) | Priority Q, Multiset | | 25 June 2017 |
-10 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [C++](./346-MovingAverageFromDataStream.cpp) | Queue | | 25 June 2017 |
+06 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C++](./215-KthLargestElementInAnArray.cpp) | Quick Select, Priority Q | | 24 June 2017 |
+07 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [C++](./378-KthSmallestElementInASortedMatrix.cpp) | Priority Q, see binary search approach | | 24 June 2017 |
+08 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./347-TopKFrequentElements.cpp) | Priority Q, Quick Select | | 24 June 2017 |
+09 | 295 | [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [C++](./295-FindMedianFromDataStream.cpp) | Priority Q, Multiset | | 25 June 2017 |
+10 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [C++](./480-SlidingWindowMedian.cpp) | Priority Q, Multiset | | 25 June 2017 |
+11 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [C++](./346-MovingAverageFromDataStream.cpp) | Queue | | 25 June 2017 |
 11 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./239-SlidingWindowMaximum.cpp) | Priority Q, Multiset | | 25 June 2017 |
 
 
