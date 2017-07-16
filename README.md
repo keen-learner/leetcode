@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 110)
+# Leetcode Algo Problem Solutions (Count = 111)
 
 
 ## Group 0 (Math)
@@ -6,6 +6,7 @@
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./7-ReverseInteger.cpp) |  | | 16 July 2017 |
+02 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./12-IntegerToRoman.cpp) |  | | 16 July 2017 |
  
 
 ## Group 1 (Arrays, General)
