@@ -1,6 +1,13 @@
-# Leetcode Algo Problem Solutions (Count = 109)
+# Leetcode Algo Problem Solutions (Count = 110)
 
+
+## Group 0 (Math)
+
+|  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
+|-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
+01 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./7-ReverseInteger.cpp) |  | | 16 July 2017 |
  
+
 ## Group 1 (Arrays, General)
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
