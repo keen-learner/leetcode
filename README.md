@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 112)
+# Leetcode Algo Problem Solutions (Count = 113)
 
 
 ## Group 0 (Math)
@@ -64,6 +64,7 @@
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./56-MergeIntervals.cpp) |Sort |used lambda fn; tricky  | 30 March 2017 |
 02 | 57 | [Insert Intervals](https://leetcode.com/problems/insert-interval/) | [C++](./57-InsertInterval.cpp) | | tricky  | 30 March 2017 |
+03 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./179-LargestNumber.cpp) | | tricky  | 16 July 2017 |
 
 
 ## Group 4 (Linked List)
