@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 116)
+# Leetcode Algo Problem Solutions (Count = 117)
 
 
 ## Group 0 (Math)
@@ -193,3 +193,4 @@
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./11-ContainerWithMostWater.cpp) | greedy,nice | | 18 July 2017 |
+02 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./42-TrappingRainWater.cpp) | greedy,tricky | | 18 July 2017 |
