@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 119)
+# Leetcode Algo Problem Solutions (Count = 120)
 
 
 ## Group 0 (Math)
@@ -188,6 +188,7 @@
 03 | 10 | [ Regular Expression Matching ](https://leetcode.com/problems/regular-expression-matching/) | [C++](./10-RegularExpressionMatching.cpp) | | | 28 June 2017 |
 04 | 53 | [ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | [C++](./53-MaximumSubarray.cpp) | | | 18 July 2017 |
 05 | 70 | [ Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/) | [C++](./70-ClimbingStairs.cpp) | | | 18 July 2017 |
+06 | 91 | [ Decode Ways ](https://leetcode.com/problems/decode-ways/) | [C++](./91-DecodeWays.cpp) | | | 18 July 2017 |
 
 
 ## Group 10 (Greedy)
