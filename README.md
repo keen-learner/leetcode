@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 124)
+# Leetcode Algo Problem Solutions (Count = 125)
 
 
 ## Group 0 (Math)
@@ -135,6 +135,7 @@
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 13 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](./35-SearchInsertPosition.cpp) | Binary Search| | 19 July 2017 |
 14 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [C++](./162-FindPeakElement.cpp) | Binary Search| | 19 July 2017 |
+15 | 278 | [First Bad Version](https://leetcode.com/problems/find-bad-version/) | [C++](./278-FirstBadVersion.cpp) | Binary Search| | 19 July 2017 |
 01 | 33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./33-SearchInRotatedSortedArray.cpp) | Binary Search| | 6 May 2017 |
 02 | 81 | [Search In Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [C++](./81-SearchInRotatedSortedArrayII.cpp) | Binary Search | | 6 May 2017 |
 03 | 74 | [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [C++](./74-SearchA2dMatrix.cpp) | Special Search | | 23 June 2017 |
