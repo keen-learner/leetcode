@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 129)
+# Leetcode Algo Problem Solutions (Count = 130)
 
 
 ## Group 0 (Math)
@@ -197,6 +197,7 @@
 04 | 53 | [ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | [C++](./53-MaximumSubarray.cpp) | | | 18 July 2017 |
 05 | 70 | [ Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/) | [C++](./70-ClimbingStairs.cpp) | | | 18 July 2017 |
 06 | 91 | [ Decode Ways ](https://leetcode.com/problems/decode-ways/) | [C++](./91-DecodeWays.cpp) | | | 18 July 2017 |
+07 | 322 | [ Coin Change ](https://leetcode.com/problems/coin-change/) | [C++](./322-CoinChange.cpp) [Java](./java/322-CoinChange.java)| | | 29 July 2017 |
 
 
 ## Group 10 (Greedy)
