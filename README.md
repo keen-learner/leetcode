@@ -130,6 +130,8 @@
 22 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [C++](./117-PopulatingNextRightPointersInEachNodeII.cpp) |very tricky| | 4 July 2017 |
 23 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C++](./105-ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |good| | 25 July 2017 |
 24 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C++](./106-ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp) |good| | 25 July 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+25 | 114 | [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](./114-FlattenBinaryTreeToLinkedList.cpp) |good| | 29 July 2017 |
 
 
 ## Group 6 (Search/ Binary Search/ Priority Queue/ Queue)
