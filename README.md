@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 131)
+# Leetcode Algo Problem Solutions (Count = 132)
 
 
 ## Group 0 (Math)
@@ -216,4 +216,11 @@
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./14-LongestCommonPrefix.cpp) |  | | 19 July 2017 |
 02 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./38-CountAndSay.cpp) |  | | 19 July 2017 |
+
+## Group 12 (Stack)
+
+|  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
+|-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
+01 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [C++](./155-MinStack.cpp) [Java](./java/155-MinStack.java) |  | | 30 July 2017 |
+
 
