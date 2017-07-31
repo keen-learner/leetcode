@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 134)
+# Leetcode Algo Problem Solutions (Count = 135)
 
 
 ## Group 0 (Math)
@@ -201,6 +201,7 @@
 05 | 70 | [ Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/) | [C++](./70-ClimbingStairs.cpp) | | | 18 July 2017 |
 06 | 91 | [ Decode Ways ](https://leetcode.com/problems/decode-ways/) | [C++](./91-DecodeWays.cpp) | | | 18 July 2017 |
 07 | 322 | [ Coin Change ](https://leetcode.com/problems/coin-change/) | [C++](./322-CoinChange.cpp) [Java](./java/322-CoinChange.java)| | | 29 July 2017 |
+08 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](./198-HouseRobber.cpp) [Java](./java/198-HouseRobber.java)| | | 30 July 2017 |
 
 
 ## Group 10 (Greedy)
