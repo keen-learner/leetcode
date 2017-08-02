@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 137)
+# Leetcode Algo Problem Solutions (Count = 138)
 
 
 ## Group 0 (Math)
@@ -204,6 +204,7 @@
 06 | 91 | [ Decode Ways ](https://leetcode.com/problems/decode-ways/) | [C++](./91-DecodeWays.cpp) | | | 18 July 2017 |
 07 | 322 | [ Coin Change ](https://leetcode.com/problems/coin-change/) | [C++](./322-CoinChange.cpp) [Java](./java/322-CoinChange.java)| | | 29 July 2017 |
 08 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](./198-HouseRobber.cpp) [Java](./java/198-HouseRobber.java)| | | 30 July 2017 |
+09 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./152-MaximumProductSubarray.cpp) [Java](./java/152-MaximumProductSubarray.java)| | | 1 August 2017 |
 
 
 ## Group 10 (Greedy)
