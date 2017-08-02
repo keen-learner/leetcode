@@ -5,7 +5,7 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./7-ReverseInteger.cpp) |  | | 16 July 2017 |
+01 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./7-ReverseInteger.cpp) [Java](./java/7-ReverseInteger.java)| good | | 16 July 2017 |
 02 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./12-IntegerToRoman.cpp) |  | | 16 July 2017 |
 03 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./13-RomanToInteger.cpp) |  | | 16 July 2017 |
 04 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](./190-ReverseBits.cpp) [Java](./java/190-ReverseBits.java) |  | | 27 July 2017 |
