@@ -39,10 +39,10 @@
 18 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./73-SetMatrixZeroes.cpp) | | | 18 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 19 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./1-TwoSum.cpp) [Python](./python/1-TwoSum.py) | | | 18 June 2017 |
-20 | 15 | [3 Sum](https://leetcode.com/problems/3sum/) | [C++](./15-3Sum.cpp) | tricky | | 18 June 2017 |
+20 | 15 | [3 Sum](https://leetcode.com/problems/3sum/) | [C++](./15-3Sum.cpp) [Java](./java/15-3Sum.java)| tricky | | 18 June 2017 |
 21 | 18 | [4 Sum](https://leetcode.com/problems/4sum/) | [C++](./18-4Sum.cpp) | see multimap solution| | 18 June 2017 |
 22 | 16 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./16-3SumClosest.cpp) | | | 18 June 2017 |
-23 | 259 | [3 Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | [C++](./259-3SumSmaller.cpp) | | | 18 June 2017 |
+23 | 259 | [3 Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | [C++](./259-3SumSmaller.cpp) |tricky, paid | | 18 June 2017 |
 24 | 454 | [4 Sum II](https://leetcode.com/problems/4sum-ii/) | [C++](./454-4SumII.cpp) | | | 18 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
@@ -51,7 +51,7 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./75-SortColors.cpp) |Partition, 2 Pointers | | 6 May 2017 |
+01 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./75-SortColors.cpp) [Java](./java/75-SortColors.java)|Partition, 2 Pointers | | 6 May 2017 |
 02 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./283-MoveZeroes.cpp) |Partition | | 6 May 2017 |
 03 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./27-RemoveElement.cpp) |Partition | | 6 May 2017 |
 04 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./88-MergeSortedArray.cpp) |Partition | | 6 May 2017 |
