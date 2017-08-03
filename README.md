@@ -53,7 +53,7 @@
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./75-SortColors.cpp) [Java](./java/75-SortColors.java)|Partition, 2 Pointers | | 6 May 2017 |
 02 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./283-MoveZeroes.cpp) [Java](./java/283-MoveZeroes.java)|Partition | | 6 May 2017 |
-03 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./27-RemoveElement.cpp) |Partition | | 6 May 2017 |
+03 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./27-RemoveElement.cpp) [Java](./java/27-RemoveElement.java)|Partition | | 6 May 2017 |
 04 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./88-MergeSortedArray.cpp) |Partition | | 6 May 2017 |
 05 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./26-RemoveDuplicatesFromSortedArray.cpp) | | | 23 June 2017 |
 06 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./80-RemoveDuplicatesFromSortedArrayII.cpp) |tricky | | 23 June 2017 |
