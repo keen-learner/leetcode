@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 138)
+# Leetcode Algo Problem Solutions (Count = 139)
 
 
 ## Group 0 (Math)
@@ -190,6 +190,7 @@
 02 | 557 | [Reverse Words In a String III ](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [C++](./557-ReverseWordsInAStringIII.cpp) | tricky | | 12 June 2017 |
 03 | 161 | [One Edit Distance ](https://leetcode.com/problems/one-edit-distance/) | [C++](./161-OneEditDistance.cpp) | tricky, paid | | 12 June 2017 |
 04 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./3-LongestSubstringWithoutRepeatingCharacters.cpp) [Java](./java/3-LongestSubstringWithoutRepeatingCharacters.java)| tricky | | 30 July 2017 |
+05 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./409-LongestPalindrome.cpp) [Java](./java/3-LongestPalindrome.java)| | | 11 August 2017 |
 
 
 ## Group 9 (Dynamic Programming)
