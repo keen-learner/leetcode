@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 139)
+# Leetcode Algo Problem Solutions (Count = 140)
 
 
 ## Group 0 (Math)
@@ -190,7 +190,7 @@
 02 | 557 | [Reverse Words In a String III ](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [C++](./557-ReverseWordsInAStringIII.cpp) | tricky | | 12 June 2017 |
 03 | 161 | [One Edit Distance ](https://leetcode.com/problems/one-edit-distance/) | [C++](./161-OneEditDistance.cpp) | tricky, paid | | 12 June 2017 |
 04 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./3-LongestSubstringWithoutRepeatingCharacters.cpp) [Java](./java/3-LongestSubstringWithoutRepeatingCharacters.java)| tricky | | 30 July 2017 |
-05 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./409-LongestPalindrome.cpp) [Java](./java/3-LongestPalindrome.java)| | | 11 August 2017 |
+05 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./409-LongestPalindrome.cpp) [Java](./java/409-LongestPalindrome.java)| | | 11 August 2017 |
 
 
 ## Group 9 (Dynamic Programming)
@@ -230,5 +230,6 @@
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [C++](./155-MinStack.cpp) [Java](./java/155-MinStack.java) |  | | 30 July 2017 |
 02 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [C++](./150-EvaluateReversePolishNotation.cpp) [Java](./java/150-EvaluateReversePolishNotation.java) |  | | 30 July 2017 |
+03 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./20-ValidParentheses.cpp) [Java](./java/20-ValidParentheses.java) |  | | 11 August 2017 |
 
 
