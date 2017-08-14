@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 140)
+# Leetcode Algo Problem Solutions (Count = 142)
 
 
 ## Group 0 (Math)
@@ -213,7 +213,7 @@
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./11-ContainerWithMostWater.cpp) | greedy,nice | | 18 July 2017 |
-02 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./42-TrappingRainWater.cpp) | greedy,tricky | | 18 July 2017 |
+02 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./42-TrappingRainWater.cpp) | greedy,difficult | | 18 July 2017 |
 03 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./55-JumpGame.cpp) | greedy,tricky | | 25 July 2017 |
 
 
@@ -231,5 +231,14 @@
 01 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [C++](./155-MinStack.cpp) [Java](./java/155-MinStack.java) |  | | 30 July 2017 |
 02 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [C++](./150-EvaluateReversePolishNotation.cpp) [Java](./java/150-EvaluateReversePolishNotation.java) |  | | 30 July 2017 |
 03 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./20-ValidParentheses.cpp) [Java](./java/20-ValidParentheses.java) |  | | 11 August 2017 |
+
+
+## Group 13 (bfs breadth first search)
+
+|  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
+|-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
+01 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [C++](./207-CourseSchedule.cpp) |  | | 14 August 2017 |
+02 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [C++](./210-CourseScheduleII.cpp) |  | | 14 August 2017 |
+
 
 
