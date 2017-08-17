@@ -22,7 +22,7 @@
 05 | 448 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](./448-FindAllNumbersDisappearedInAnArray.cpp) | similar to 442 | | 7 June 2017 |
 06 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./217-ContainsDuplicate.cpp) |  | | 8 June 2017 |
 07 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [C++](./219-ContainsDuplicateII.cpp) |  | | 8 June 2017 |
-08 | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [C++](./220-ContainsDuplicateIII.cpp) |  | | 8 June 2017 |
+08 | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [C++](./220-ContainsDuplicateIII.cpp) [Java](./java/220-ContainsDuplicateIII.java)|tricky, hard| | 8 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 09 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./169-MajorityElement.cpp) | tricky | | 8 June 2017 |
 10 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [C++](./229-MajorityElementII.cpp) | tricky, generalise it | | 8 June 2017 |
