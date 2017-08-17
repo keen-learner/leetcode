@@ -16,7 +16,7 @@
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./268-MissingNumber.cpp) |  | | 7 June 2017 |
-02 | 287 | [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./287-FindTheDuplicateNumber.cpp) | tricky | | 7 June 2017 |
+02 | 287 | [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./287-FindTheDuplicateNumber.cpp) [Java](./java/287-FindTheDuplicateNumber.java)| tricky | | 7 June 2017 |
 03 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [C++](./41-FindTheDuplicateNumber.cpp) | tricky,hard | | 7 June 2017 |
 04 | 442 | [Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [C++](./442-FindAllDuplicatesInAnArray.cpp) | tricky,hard | | 7 June 2017 |
 05 | 448 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](./448-FindAllNumbersDisappearedInAnArray.cpp) | similar to 442 | | 7 June 2017 |
