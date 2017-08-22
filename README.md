@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 144)
+# Leetcode Algo Problem Solutions (Count = 145)
 
 
 ## Group 0 (Math)
@@ -135,6 +135,7 @@
 24 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C++](./106-ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp) |good| | 25 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 25 | 114 | [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](./114-FlattenBinaryTreeToLinkedList.cpp) [Java](./java/114-FlattenBinaryTreeToLinkedList.java)|good| | 29 July 2017 |
+26 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [C++](./530-MinimumAbsoluteDifferenceInBST.cpp) |good, inorder traversal| | 22 August 2017 |
 
 
 ## Group 6 (Search/ Binary Search/ Priority Queue/ Queue)
