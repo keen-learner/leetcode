@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 148)
+# Leetcode Algo Problem Solutions (Count = 149)
 
 
 ## Group 0 (Math)
@@ -204,6 +204,7 @@
 08 | 438 | [Find All Anagrams In a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [C++](./438-FindAllAnagramsInAString.cpp) | sliding window, tricky | | 20 August 2017 |
 09 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./76-MinimumWindowSubstring.cpp) | sliding window, tricky | | 23 August 2017 |
 10 | 567 | [Permutation In String](https://leetcode.com/problems/permutation-in-string/) | [C++](./567-PermutationInString.cpp) | sliding window, tricky | | 23 August 2017 |
+11 | 340 | [Longest Substring with At Most K Distinct Characters ](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [C++](./340-LongestSubstringWithAtMostKDistinctCharacters.cpp) | sliding window, tricky |paid | 23 August 2017 |
 
 
 ## Group 9 (Dynamic Programming)

@@ -18,6 +18,32 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int res = 0;
+        if(s.size() == 0) return res;
+        unordered_map<char, int> m;        
+        int begin = 0;
+        int end = 0;
+        int counter = 0; //tracks duplicates
+        while(end < s.size()) {
+            ++m[s[end]];
+            if(m[s[end]] > 1) ++counter;
+            
+            while(counter > 0) {
+                if(m[s[begin]]>1) --counter;
+                --m[s[begin]];
+                ++begin;
+            }
+            res = max(res, end-begin+1);
+            ++end;    
+        }
+        return res;
+    }
+};
+
+// Time 0(n), Space O(d) d-char set size
+class Solution1 {
+public:
+    int lengthOfLongestSubstring(string s) {
+        int res = 0;
         unordered_map<char, int> m;        
         const int n = s.size();
         int start = 0;
