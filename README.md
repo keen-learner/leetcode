@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 145)
+# Leetcode Algo Problem Solutions (Count = 146)
 
 
 ## Group 0 (Math)
@@ -195,6 +195,7 @@
 04 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./3-LongestSubstringWithoutRepeatingCharacters.cpp) [Java](./java/3-LongestSubstringWithoutRepeatingCharacters.java)| tricky | | 30 July 2017 |
 05 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./409-LongestPalindrome.cpp) [Java](./java/409-LongestPalindrome.java)| | | 11 August 2017 |
 06 | 438 | [Find All Anagrams In a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [C++](./438-FindAllAnagramsInAString.cpp) | | | 20 August 2017 |
+07 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./76-MinimumWindowSubstring.cpp) | | | 23 August 2017 |
 
 
 ## Group 9 (Dynamic Programming)
