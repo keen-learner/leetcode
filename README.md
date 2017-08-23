@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 146)
+# Leetcode Algo Problem Solutions (Count = 147)
 
 
 ## Group 0 (Math)
@@ -57,8 +57,11 @@
 02 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./283-MoveZeroes.cpp) [Java](./java/283-MoveZeroes.java)|Partition | | 6 May 2017 |
 03 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./27-RemoveElement.cpp) [Java](./java/27-RemoveElement.java)|Partition | | 6 May 2017 |
 04 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./88-MergeSortedArray.cpp) [Java](./java/88-MergeSortedArray.java)|Partition | | 6 May 2017 |
+-- | -- | -- | -- | -- | -- | -- |
 05 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./26-RemoveDuplicatesFromSortedArray.cpp) | [Java](./java/26-RemoveDuplicatesFromSortedArray.java)| | 23 June 2017 |
 06 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./80-RemoveDuplicatesFromSortedArrayII.cpp) [Java](./java/80-RemoveDuplicatesFromSortedArrayII.java)|tricky | | 23 June 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+07 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./209-MinimumSizeSubarraySum.cpp) | sliding window, tricky | | 23 August 2017 |
 
 
 ## Group 3 (Sort)
@@ -189,13 +192,17 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 151 | [Reverse Words In a String ](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](./151-ReverseWordsInAString.cpp) | tricky | | 12 June 2017 |
-02 | 557 | [Reverse Words In a String III ](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [C++](./557-ReverseWordsInAStringIII.cpp) | tricky | | 12 June 2017 |
-03 | 161 | [One Edit Distance ](https://leetcode.com/problems/one-edit-distance/) | [C++](./161-OneEditDistance.cpp) | tricky, paid | | 12 June 2017 |
-04 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./3-LongestSubstringWithoutRepeatingCharacters.cpp) [Java](./java/3-LongestSubstringWithoutRepeatingCharacters.java)| tricky | | 30 July 2017 |
-05 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./409-LongestPalindrome.cpp) [Java](./java/409-LongestPalindrome.java)| | | 11 August 2017 |
-06 | 438 | [Find All Anagrams In a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [C++](./438-FindAllAnagramsInAString.cpp) | | | 20 August 2017 |
-07 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./76-MinimumWindowSubstring.cpp) | | | 23 August 2017 |
+01 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./14-LongestCommonPrefix.cpp) |  | | 19 July 2017 |
+02 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./38-CountAndSay.cpp) |  | | 19 July 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+03 | 151 | [Reverse Words In a String ](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](./151-ReverseWordsInAString.cpp) | tricky | | 12 June 2017 |
+04 | 557 | [Reverse Words In a String III ](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [C++](./557-ReverseWordsInAStringIII.cpp) | tricky | | 12 June 2017 |
+05 | 161 | [One Edit Distance ](https://leetcode.com/problems/one-edit-distance/) | [C++](./161-OneEditDistance.cpp) | tricky, paid | | 12 June 2017 |
+06 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./409-LongestPalindrome.cpp) [Java](./java/409-LongestPalindrome.java)| | | 11 August 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+07 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./3-LongestSubstringWithoutRepeatingCharacters.cpp) [Java](./java/3-LongestSubstringWithoutRepeatingCharacters.java)| sliding window, tricky | | 30 July 2017 |
+08 | 438 | [Find All Anagrams In a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [C++](./438-FindAllAnagramsInAString.cpp) | sliding window, tricky | | 20 August 2017 |
+09 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./76-MinimumWindowSubstring.cpp) | sliding window, tricky | | 23 August 2017 |
 
 
 ## Group 9 (Dynamic Programming)
@@ -222,15 +229,7 @@
 03 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./55-JumpGame.cpp) | greedy,tricky | | 25 July 2017 |
 
 
-## Group 11 (Strings)
-
-|  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
-|-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./14-LongestCommonPrefix.cpp) |  | | 19 July 2017 |
-02 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./38-CountAndSay.cpp) |  | | 19 July 2017 |
-
-
-## Group 12 (Stack)
+## Group 11 (Stack)
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -239,7 +238,7 @@
 03 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./20-ValidParentheses.cpp) [Java](./java/20-ValidParentheses.java) |  | | 11 August 2017 |
 
 
-## Group 13 (bfs breadth first search)
+## Group 12 (bfs breadth first search)
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
