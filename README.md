@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 150)
+# Leetcode Algo Problem Solutions (Count = 151)
 
 
 ## Group 0 (Math)
@@ -9,6 +9,7 @@
 02 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./12-IntegerToRoman.cpp) [Java](./java/12-IntegerToRoman.java)|  | | 16 July 2017 |
 03 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./13-RomanToInteger.cpp) [Java](./java/13-RomanToInteger.java)|  | | 16 July 2017 |
 04 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](./190-ReverseBits.cpp) [Java](./java/190-ReverseBits.java) |  | | 27 July 2017 |
+05 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./9-PalindromeNumber.cpp) |  | | 24 August 2017 |
  
 
 ## Group 1 (Arrays, General)
