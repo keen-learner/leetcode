@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 152)
+# Leetcode Algo Problem Solutions (Count = 153)
 
 
 ## Group 0 (Math)
@@ -202,12 +202,13 @@
 -- | -- | -- | -- | -- | -- | -- |
 06 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./409-LongestPalindrome.cpp) [Java](./java/409-LongestPalindrome.java)| | | 11 August 2017 |
 07 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./5-LongestPalindromicSubstring.cpp) | | | 24 August 2017 |
+08 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [C++](./647-PalindromicSubstrings.cpp) | | | 24 August 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-08 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./3-LongestSubstringWithoutRepeatingCharacters.cpp) [Java](./java/3-LongestSubstringWithoutRepeatingCharacters.java)| sliding window, tricky | | 30 July 2017 |
-09 | 438 | [Find All Anagrams In a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [C++](./438-FindAllAnagramsInAString.cpp) | sliding window, tricky | | 20 August 2017 |
-10 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./76-MinimumWindowSubstring.cpp) | sliding window, tricky | | 23 August 2017 |
-11 | 567 | [Permutation In String](https://leetcode.com/problems/permutation-in-string/) | [C++](./567-PermutationInString.cpp) | sliding window, tricky | | 23 August 2017 |
-12 | 340 | [Longest Substring with At Most K Distinct Characters ](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [C++](./340-LongestSubstringWithAtMostKDistinctCharacters.cpp) | sliding window, tricky |paid | 23 August 2017 |
+09 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./3-LongestSubstringWithoutRepeatingCharacters.cpp) [Java](./java/3-LongestSubstringWithoutRepeatingCharacters.java)| sliding window, tricky | | 30 July 2017 |
+10 | 438 | [Find All Anagrams In a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [C++](./438-FindAllAnagramsInAString.cpp) | sliding window, tricky | | 20 August 2017 |
+11 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./76-MinimumWindowSubstring.cpp) | sliding window, tricky | | 23 August 2017 |
+12 | 567 | [Permutation In String](https://leetcode.com/problems/permutation-in-string/) | [C++](./567-PermutationInString.cpp) | sliding window, tricky | | 23 August 2017 |
+13 | 340 | [Longest Substring with At Most K Distinct Characters ](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [C++](./340-LongestSubstringWithAtMostKDistinctCharacters.cpp) | sliding window, tricky |paid | 23 August 2017 |
 
 
 ## Group 9 (Dynamic Programming)
