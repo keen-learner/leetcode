@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 153)
+# Leetcode Algo Problem Solutions (Count = 154)
 
 
 ## Group 0 (Math)
@@ -137,9 +137,10 @@
 22 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [C++](./117-PopulatingNextRightPointersInEachNodeII.cpp) |very tricky| | 4 July 2017 |
 23 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C++](./105-ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |good| | 25 July 2017 |
 24 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C++](./106-ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp) |good| | 25 July 2017 |
+25 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [C++](./297-SerializeAndDeserializeBinaryTree.cpp) |good| | 30 August 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-25 | 114 | [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](./114-FlattenBinaryTreeToLinkedList.cpp) [Java](./java/114-FlattenBinaryTreeToLinkedList.java)|good| | 29 July 2017 |
-26 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [C++](./530-MinimumAbsoluteDifferenceInBST.cpp) |good, inorder traversal| | 22 August 2017 |
+26 | 114 | [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](./114-FlattenBinaryTreeToLinkedList.cpp) [Java](./java/114-FlattenBinaryTreeToLinkedList.java)|good| | 29 July 2017 |
+27 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [C++](./530-MinimumAbsoluteDifferenceInBST.cpp) |good, inorder traversal| | 22 August 2017 |
 
 
 ## Group 6 (Search/ Binary Search/ Priority Queue/ Queue)
