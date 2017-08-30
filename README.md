@@ -1,7 +1,7 @@
 # Leetcode Algo Problem Solutions (Count = 154)
 
 # Index
-  01. [Math](01-math) 
+  01. [Math](#01-math) 
   02. [Arrays, General]() 
   03. [Partition, 2 Pointers]() 
   04. [Sort]() 
