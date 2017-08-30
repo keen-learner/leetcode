@@ -2,19 +2,19 @@
 
 # Index
   01. [Math](#01-math) 
-  02. [Arrays, General]() 
-  03. [Partition, 2 Pointers]() 
-  04. [Sort]() 
-  05. [LinkedList]() 
-  06. [Trees]() 
-  07. [Search, Binary Search]() 
-  08. [Queue, Priority Queue]() 
-  09. [DFS, Recursion]() 
-  10. [Strings]() 
-  11. [Dynamic Programming]() 
-  12. [Greedy]() 
-  13. [Stack]() 
-  14. [BFS]() 
+  02. [Arrays, General](#02-arrays-general) 
+  03. [Partition, 2 Pointers](#03-partition-2-pointers) 
+  04. [Sort](#04-sort) 
+  05. [LinkedList](#05-linkedlist) 
+  06. [Trees](#06-trees) 
+  07. [Search, Binary Search](#07-search-binary-search) 
+  08. [Queue, Priority Queue](#08-queue-priority-queue) 
+  09. [DFS, Recursion](#09-dfs-recursion) 
+  10. [Strings](#10-strings) 
+  11. [Dynamic Programming](#11-dynamic-programming) 
+  12. [Greedy](#12-greedy) 
+  13. [Stack](#13-stack) 
+  14. [BFS](#14-bfs) 
 
 ## 01. Math
 
