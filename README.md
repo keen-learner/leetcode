@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 155)
+# Leetcode Algo Problem Solutions (Count = 156)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
@@ -15,6 +15,7 @@
   12. [Greedy (Count = 03)](#12-greedy) 
   13. [Stack (Count = 04)](#13-stack) 
   14. [BFS (Count = 02)](#14-bfs) 
+  15. [Miscellaneous (Count = 01)](#15-miscellaneous) 
 
 ## 01. Math
 
@@ -273,5 +274,12 @@
 01 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [C++](./207-CourseSchedule.cpp) |  | | 14 August 2017 |
 02 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [C++](./210-CourseScheduleII.cpp) [Java](./java/210-CourseScheduleII.java) |  | | 14 August 2017 |
 
+
+
+## 15. Miscellaneous 
+
+|  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
+|-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
+01 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [C++](./146-LRUCache.cpp) |tricky| | 30 August 2017 |
 
 
