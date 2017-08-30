@@ -280,6 +280,6 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [C++](./146-LRUCache.cpp) |tricky| | 30 August 2017 |
+01 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [C++](./146-LRUCache.cpp) ||:boom::boom::boom::boom::boom: | 30 August 2017 |
 
 
