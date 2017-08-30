@@ -27,7 +27,7 @@
 05 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./9-PalindromeNumber.cpp) | good | | 24 August 2017 |
  
 
-## Group 1 (Arrays, General)
+## 02. Arrays, General
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -65,7 +65,7 @@
 -- | -- | -- | -- | -- | -- | -- |
 
 
-## Group 2 (Partition, 2 Pointers)
+## 03. Partition, 2 Pointers
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -80,7 +80,7 @@
 07 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./209-MinimumSizeSubarraySum.cpp) | sliding window, tricky | | 23 August 2017 |
 
 
-## Group 3 (Sort)
+## 04. Sort
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -92,7 +92,7 @@
 06 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./165-CompareVersionNumbers.cpp) [Java](./java/165-CompareVersionNumbers.java)| | good sorting practice  | 1 August 2017 |
 
 
-## Group 4 (Linked List)
+## 05. LinkedList
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -120,7 +120,7 @@
 21 | 24 | [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./24-SwapNodesInPairs.cpp) |LinkedList|tricky | 1 July 2017 |
 
 
-## Group 5 (Trees)
+## 06. Trees
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -158,7 +158,7 @@
 27 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [C++](./530-MinimumAbsoluteDifferenceInBST.cpp) |good, inorder traversal| | 22 August 2017 |
 
 
-## Group 6 (Search/ Binary Search/ Priority Queue/ Queue)
+## 07. Search, Binary Search
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -172,7 +172,7 @@
 08 | 04 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./4-MedianOfTwoSortedArrays.cpp) | Binary Search | | 9 July 2017 |
 
 
-## Group 6 (Queue, Priority Queue)
+## 08. Queue, Priority Queue
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -185,7 +185,7 @@
 07 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./239-SlidingWindowMaximum.cpp) | Priority Q, Multiset | | 25 June 2017 |
 
 
-## Group 7 (DFS, recursion)
+## 09. DFS, recursion
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -210,7 +210,7 @@
 18 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [C++](./77-Combinations.cpp) | dfs,recursion,tricky | | 10 June 2017 |
 
 
-## Group 8 (Strings)
+## 10. Strings
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -232,7 +232,7 @@
 13 | 340 | [Longest Substring with At Most K Distinct Characters ](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [C++](./340-LongestSubstringWithAtMostKDistinctCharacters.cpp) | sliding window, tricky |paid | 23 August 2017 |
 
 
-## Group 9 (Dynamic Programming)
+## 11. Dynamic Programming
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -247,7 +247,7 @@
 09 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./152-MaximumProductSubarray.cpp) [Java](./java/152-MaximumProductSubarray.java)| | | 1 August 2017 |
 
 
-## Group 10 (Greedy)
+## 12. Greedy
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -256,7 +256,7 @@
 03 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./55-JumpGame.cpp) | greedy,tricky | | 25 July 2017 |
 
 
-## Group 11 (Stack)
+## 13. Stack
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
@@ -266,7 +266,7 @@
 04 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [C++](./32-LongestValidParentheses.cpp) |  | | 23 August 2017 |
 
 
-## Group 12 (bfs breadth first search)
+## 14. BFS 
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
