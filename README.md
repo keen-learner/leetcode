@@ -224,7 +224,7 @@
 -- | -- | -- | -- | -- | -- | -- |
 06 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./409-LongestPalindrome.cpp) [Java](./java/409-LongestPalindrome.java)| | | 11 August 2017 |
 07 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./5-LongestPalindromicSubstring.cpp) | | | 24 August 2017 |
-08 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [C++](./647-PalindromicSubstrings.cpp) | | | 24 August 2017 |
+08 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [C++](./647-PalindromicSubstrings.cpp) [Java](./java/647-PalindromicSubstrings.java)| :star::star::star::star::star:| | 24 August 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 09 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./3-LongestSubstringWithoutRepeatingCharacters.cpp) [Java](./java/3-LongestSubstringWithoutRepeatingCharacters.java)| :boom::boom::boom::boom::boom:| sliding window| 30 July 2017 |
 10 | 438 | [Find All Anagrams In a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [C++](./438-FindAllAnagramsInAString.cpp) [Java](./java/438-FindAllAnagramsInAString.java)|:boom::boom::boom::boom::boom:| sliding window| 20 August 2017 |
