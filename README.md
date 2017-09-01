@@ -232,7 +232,7 @@
 12 | 567 | [Permutation In String](https://leetcode.com/problems/permutation-in-string/) | [C++](./567-PermutationInString.cpp) | sliding window, tricky | | 23 August 2017 |
 13 | 340 | [Longest Substring with At Most K Distinct Characters ](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [C++](./340-LongestSubstringWithAtMostKDistinctCharacters.cpp) | sliding window, tricky |paid | 23 August 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-14 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [C++](./139-WordBreak.cpp) |:boom::boom::boom::boom::boom: || 30 August 2017 |
+14 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [C++](./139-WordBreak.cpp) [Java](./java/139-WordBreak.java)|:boom::boom::boom::boom::boom: || 30 August 2017 |
 15 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](./49-GroupAnagrams.cpp) [Java](./java/49-GroupAnagrams.java)| :star::star::star:|| 1 September 2017 |
 
 
