@@ -197,7 +197,7 @@
 05 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./129-SumRootToLeafNumbers.cpp) [Java](./java/129-SumRootToLeafNumbers.java)|Trees DFS, Recursion | | 30 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 06 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [C++](./46-Permutations.cpp) [Java](./java/46-Permutations.java)| :star::star::star:| DFS, Recursion| 10 June 2017 |
-07 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [C++](./47-PermutationsII.cpp) |:star::star::star::star::star: | DFS, Recursion| 10 June 2017 |
+07 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [C++](./47-PermutationsII.cpp) [Java](./java/47-PermutationsII.java)|:star::star::star::star::star: | DFS, Recursion| 10 June 2017 |
 08 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++](./31-NextPermutation.cpp) | | DFS, Recursion| 10 June 2017 |
 09 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [C++](./60-PermutationSequence.cpp) |Tricky | | 10 June 2017 |
 10 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | [C++](./266-PalindromePermutation.cpp) |PAID | | 10 June 2017 |
