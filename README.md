@@ -207,7 +207,7 @@
 14 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [C++](./39-CombinationSum.cpp) [Java](./java/39-CombinationSum.java)|:star::star::star::star::star: | dfs,recursion,tricky| 10 June 2017 |
 15 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [C++](./40-CombinationSumII.cpp) [Java](./java/40-CombinationSumII.java)|:star::star::star::star::star: | dfs,recursion,tricky| 10 June 2017 |
 16 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [C++](./216-CombinationSumIII.cpp) [Java](./java/216-CombinationSumIII.java)|:star::star::star::star::star:| dfs,recursion,tricky| 10 June 2017 |
-17 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./377-CombinationSumIV.cpp) |:star::star::star::star::star:| DP, dfs,recursion,tricky| 10 June 2017 |
+17 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./377-CombinationSumIV.cpp) [Java](./java/377-CombinationSumIV.java)|:star::star::star::star::star:| DP, dfs,recursion,tricky| 10 June 2017 |
 18 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [C++](./77-Combinations.cpp) | dfs,recursion,tricky | | 10 June 2017 |
 
 
