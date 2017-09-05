@@ -126,7 +126,7 @@
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](./235-LowestCommonAncestorOfABinarySearchTree.cpp) [Java](./java/235-LowestCommonAncestorOfABinarySearchTree.java)| :star::star::star:| Trees, Recursion| 4 April 2017 |
-02 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++](./236-lowest-common-ancestor-of-a-binary-tree.cpp) |Trees, Recursion | | 4 April 2017 |
+02 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++](./236-LowestCommonAncestorOfABinaryTree.cpp) [Java](./java/236-LowestCommonAncestorOfABinaryTree.java)| :star::star::star::star::star:| Trees, Recursion| 4 April 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 03 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./100-SameTree.cpp) [Python](./python/100-SameTree.py) |Trees, Recursion | | 4 April 2017 |
 04 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](./101-SymmetricTree.cpp) |Trees, Recursion | | 4 April 2017 |
