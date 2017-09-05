@@ -125,7 +125,7 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](./235-lowest-common-ancestor-of-a-binary-search-tree.cpp) |Trees, Recursion | | 4 April 2017 |
+01 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](./235-LowestCommonAncestorOfABinarySearchTree.cpp) [Java](./java/235-LowestCommonAncestorOfABinarySearchTree.java)| :star::star::star:| Trees, Recursion| 4 April 2017 |
 02 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++](./236-lowest-common-ancestor-of-a-binary-tree.cpp) |Trees, Recursion | | 4 April 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 03 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./100-SameTree.cpp) [Python](./python/100-SameTree.py) |Trees, Recursion | | 4 April 2017 |
@@ -190,9 +190,9 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](./112-PathSum.cpp) |Trees DFS, Recursion | | 31 March 2017 |
-02 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [C++](./113-PathSumII.cpp) |Trees DFS, Recursion | | 31 March 2017 |
-03 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [C++](./437-PathSumIII.cpp) |Trees DFS, Recursion | | 8 June 2017 |
+01 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](./112-PathSum.cpp) | | Trees DFS, Recursion| 31 March 2017 |
+02 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [C++](./113-PathSumII.cpp) | | Trees DFS, Recursion| 31 March 2017 |
+03 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [C++](./437-PathSumIII.cpp) | | Trees DFS, Recursion| 8 June 2017 |
 04 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./124-BinaryTreeMaximumPathSum.cpp) [Java](./java/124-BinaryTreeMaximumPathSum.java)|Trees DFS, Recursion | | 30 July 2017 |
 05 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./129-SumRootToLeafNumbers.cpp) [Java](./java/129-SumRootToLeafNumbers.java)|Trees DFS, Recursion | | 30 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
@@ -207,7 +207,7 @@
 14 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [C++](./39-CombinationSum.cpp) [Java](./java/39-CombinationSum.java)|:star::star::star::star::star: | dfs,recursion,tricky| 10 June 2017 |
 15 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [C++](./40-CombinationSumII.cpp) [Java](./java/40-CombinationSumII.java)|:star::star::star::star::star: | dfs,recursion,tricky| 10 June 2017 |
 16 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [C++](./216-CombinationSumIII.cpp) [Java](./java/216-CombinationSumIII.java)|:star::star::star::star::star:| dfs,recursion,tricky| 10 June 2017 |
-17 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./377-CombinationSumIV.cpp) [Java](./java/377-CombinationSumIV.java)|:star::star::star::star::star:| DP, dfs,recursion,tricky| 10 June 2017 |
+17 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./377-CombinationSumIV.cpp) [Java](./java/377-CombinationSumIV.java)|:boom::boom::boom::boom::boom:| DP, dfs,recursion,follow up tricky| 10 June 2017 |
 18 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [C++](./77-Combinations.cpp) | dfs,recursion,tricky | | 10 June 2017 |
 
 
