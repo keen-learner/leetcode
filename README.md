@@ -129,7 +129,7 @@
 02 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++](./236-LowestCommonAncestorOfABinaryTree.cpp) [Java](./java/236-LowestCommonAncestorOfABinaryTree.java)| :star::star::star::star::star:| Trees, Recursion| 4 April 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 03 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./100-SameTree.cpp) [Java](./java/100-SameTree.java) [Python](./python/100-SameTree.py) | :star::star::star:| Trees, Recursion| 4 April 2017 |
-04 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](./101-SymmetricTree.cpp) |Trees, Recursion | | 4 April 2017 |
+04 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](./101-SymmetricTree.cpp) [Java](./java/101-SymmetricTree.java)|:star::star::star::star::star:| Trees, Recursion| 4 April 2017 |
 05 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](./98-ValidateBinarySearchTree.cpp) |Trees, Recursion | | 2 July 2017 |
 06 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C++](./110-BalancedBinaryTree.cpp) |Trees, Recursion | | 2 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
