@@ -8,7 +8,7 @@ If two nodes are in the same row and column, the order should be from left to ri
 Examples: 
 Given binary tree [3,9,20,null,null,15,7]
 
-  3
+     3
     / \
    9 20
      / \
@@ -23,11 +23,11 @@ Return its vertical order traversal as:
  ]
 Given binary tree [3,9,20,4,5,2,7] ,
 
-  _3_
+    _3_
     / \
-   9 20
+   9  20
   / \ / \
- 4 5 2 7
+ 4  5 2 7
 Return its vertical order traversal as:
 
   [
