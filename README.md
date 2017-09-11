@@ -156,8 +156,8 @@
 25 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C++](./106-ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp) [Java](./java/106-ConstructBinaryTreeFromInorderAndPostorderTraversal.java)|:boom::boom::boom:| NOTE: Binary tree, not BST | 25 July 2017 |
 26 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [C++](./297-SerializeAndDeserializeBinaryTree.cpp) |good| | 30 August 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-27 | 114 | [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](./114-FlattenBinaryTreeToLinkedList.cpp) [Java](./java/114-FlattenBinaryTreeToLinkedList.java)|good| | 29 July 2017 |
-28 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [C++](./530-MinimumAbsoluteDifferenceInBST.cpp) |good, inorder traversal| | 22 August 2017 |
+27 | 114 | [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](./114-FlattenBinaryTreeToLinkedList.cpp) [Java](./java/114-FlattenBinaryTreeToLinkedList.java)|:boom::boom::boom::boom::boom:| | 29 July 2017 |
+28 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [C++](./530-MinimumAbsoluteDifferenceInBST.cpp) [Java](./java/530-MinimumAbsoluteDifferenceInBST.java)|:star::star::star::star::star:|good, inorder traversal| 22 August 2017 |
 
 
 ## 07. Search, Binary Search
