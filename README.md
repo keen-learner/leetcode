@@ -146,7 +146,7 @@
 -- | -- | -- | -- | -- | -- | -- |
 17 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./104-MaximumDepthOfBinaryTree.cpp) [Java](./java/104-MaximumDepthOfBinaryTree.java)| :star::star::star:| | 3 July 2017 |
 18 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C++](./111-MinimumDepthOfBinaryTree.cpp) [Java](./java/111-MinimumDepthOfBinaryTree.java)| :star::star::star::star::star:| | 3 July 2017 |
-19 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C++](./230-KthSmallestElementInABST.cpp) | | | 3 July 2017 |
+19 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C++](./230-KthSmallestElementInABST.cpp) [Java](./java/230-KthSmallestElementInABST.java)| :star::star::star::star::star:| | 3 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 20 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./108-ConvertSortedArrayToBinarySearchTree.cpp) | | | 3 July 2017 |
 21 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [C++](./116-PopulatingNextRightPointersInEachNode.cpp) |very tricky | | 4 July 2017 |
