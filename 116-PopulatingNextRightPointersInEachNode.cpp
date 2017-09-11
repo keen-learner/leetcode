@@ -50,6 +50,29 @@ public:
         while(root) { // this loop goes level by level, done till root, do for root's children and all those nodes at their level
             TreeLinkNode* curr = root;
             while(curr) { // this loop, actually doing this level, for curr and all curr->next
+                // if checks needed, for case of single node
+                if (curr->left) {
+                    curr->left->next = curr->right;
+                }
+                if (curr->right) {
+                    curr->right->next = curr->next?curr->next->left:NULL;
+                }
+                curr = curr->next;
+            }
+            root = root->left;
+        }
+    }
+};
+
+// same as 117. Populating Next Right Pointers in Each Node II
+class Solution1 {
+public:
+    void connect(TreeLinkNode *root) {
+        if(!root) return;
+        root->next = NULL;
+        while(root) { // this loop goes level by level, done till root, do for root's children and all those nodes at their level
+            TreeLinkNode* curr = root;
+            while(curr) { // this loop, actually doing this level, for curr and all curr->next
                 if (curr->left) {
                     curr->left->next = curr->right?curr->right:getLeftMostFromNextLevel(curr);
                 }
