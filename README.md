@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 158)
+# Leetcode Algo Problem Solutions (Count = 159)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
@@ -6,7 +6,7 @@
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 21)](#05-linkedlist) 
-  06. [Trees (Count = 27)](#06-trees) 
+  06. [Trees (Count = 28)](#06-trees) 
   07. [Search, Binary Search (Count = 08)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 07)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 18)](#09-dfs-recursion) 
@@ -129,34 +129,35 @@
 02 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++](./236-LowestCommonAncestorOfABinaryTree.cpp) [Java](./java/236-LowestCommonAncestorOfABinaryTree.java)| :star::star::star::star::star:| Trees, Recursion| 4 April 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 03 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./100-SameTree.cpp) [Java](./java/100-SameTree.java) [Python](./python/100-SameTree.py) | :star::star::star:| Trees, Recursion| 4 April 2017 |
-04 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](./101-SymmetricTree.cpp) [Java](./java/101-SymmetricTree.java)|:star::star::star::star::star:| Trees, Recursion| 4 April 2017 |
-05 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](./98-ValidateBinarySearchTree.cpp) [Java](./java/98-ValidateBinarySearchTree.java)|:star::star::star::star::star:| Trees, Recursion| 2 July 2017 |
-06 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C++](./110-BalancedBinaryTree.cpp) [Java](./java/110-BalancedBinaryTree.java)| :star::star::star::star::star:|Trees, Recursion| 2 July 2017 |
+04 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](./226-InvertBinaryTree.cpp) [Java](./java/226-InvertBinaryTree.java) |:star::star::star:| Trees, Recursion| 10 September 2017 |
+05 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](./101-SymmetricTree.cpp) [Java](./java/101-SymmetricTree.java)|:star::star::star::star::star:| Trees, Recursion| 4 April 2017 |
+06 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](./98-ValidateBinarySearchTree.cpp) [Java](./java/98-ValidateBinarySearchTree.java)|:star::star::star::star::star:| Trees, Recursion| 2 July 2017 |
+07 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C++](./110-BalancedBinaryTree.cpp) [Java](./java/110-BalancedBinaryTree.java)| :star::star::star::star::star:|Trees, Recursion| 2 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-07 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [C++](./450-DeleteNodeInABst.cpp) |Trees | | 4 April 2017 |
-08 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./173-BinarySearchTreeIterator.cpp) [Java](./java/173-BinarySearchTreeIterator.java)| :boom::boom::boom::boom::boom: | | 12 April 2017 |
-09 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./94-BinaryTreeInorderTraversal.cpp) | | | 12 April 2017 |
-10 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](./144-BinaryTreePreorderTraversal.cpp) | | | 12 April 2017 |
-11 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./145-BinaryTreePostorderTraversal.cpp) | | | 12 April 2017 |
-12 | 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [C++](./285-InorderSuccessorInBST.cpp) |:star::star::star::star::star:| | 12 April 2017 |
-13 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C++](./102-BinaryTreeLevelOrderTraversal.cpp) [Java](./java/102-BinaryTreeLevelOrderTraversal.java)| | | 3 July 2017 |
-14 | 103 | [Binary Tree ZigZag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [C++](./103-BinaryTreeZigzagLevelOrderTraversal.cpp) [Java](./java/103-BinaryTreeZigzagLevelOrderTraversal.java)| | | 3 July 2017 |
-15 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [C++](./107-BinaryTreeLevelOrderTraversalII.cpp) [Java](./java/107-BinaryTreeLevelOrderTraversalII.java)| :star::star::star:| | 3 July 2017 |
-16 | 314 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [C++](./314-BinaryTreeVerticalOrderTraversal.cpp) |:boom::boom::boom::boom::boom:| good; uses level order traversal| 3 July 2017 |
+08 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [C++](./450-DeleteNodeInABst.cpp) |Trees | | 4 April 2017 |
+09 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./173-BinarySearchTreeIterator.cpp) [Java](./java/173-BinarySearchTreeIterator.java)| :boom::boom::boom::boom::boom: | | 12 April 2017 |
+10 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./94-BinaryTreeInorderTraversal.cpp) | | | 12 April 2017 |
+11 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](./144-BinaryTreePreorderTraversal.cpp) | | | 12 April 2017 |
+12 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./145-BinaryTreePostorderTraversal.cpp) | | | 12 April 2017 |
+13 | 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [C++](./285-InorderSuccessorInBST.cpp) |:star::star::star::star::star:| | 12 April 2017 |
+14 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C++](./102-BinaryTreeLevelOrderTraversal.cpp) [Java](./java/102-BinaryTreeLevelOrderTraversal.java)| | | 3 July 2017 |
+15 | 103 | [Binary Tree ZigZag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [C++](./103-BinaryTreeZigzagLevelOrderTraversal.cpp) [Java](./java/103-BinaryTreeZigzagLevelOrderTraversal.java)| | | 3 July 2017 |
+16 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [C++](./107-BinaryTreeLevelOrderTraversalII.cpp) [Java](./java/107-BinaryTreeLevelOrderTraversalII.java)| :star::star::star:| | 3 July 2017 |
+17 | 314 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [C++](./314-BinaryTreeVerticalOrderTraversal.cpp) |:boom::boom::boom::boom::boom:| good; uses level order traversal| 3 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-17 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./104-MaximumDepthOfBinaryTree.cpp) [Java](./java/104-MaximumDepthOfBinaryTree.java)| :star::star::star:| | 3 July 2017 |
-18 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C++](./111-MinimumDepthOfBinaryTree.cpp) [Java](./java/111-MinimumDepthOfBinaryTree.java)| :star::star::star::star::star:| | 3 July 2017 |
-19 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C++](./230-KthSmallestElementInABST.cpp) [Java](./java/230-KthSmallestElementInABST.java)| :star::star::star::star::star:| | 3 July 2017 |
+18 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./104-MaximumDepthOfBinaryTree.cpp) [Java](./java/104-MaximumDepthOfBinaryTree.java)| :star::star::star:| | 3 July 2017 |
+19 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C++](./111-MinimumDepthOfBinaryTree.cpp) [Java](./java/111-MinimumDepthOfBinaryTree.java)| :star::star::star::star::star:| | 3 July 2017 |
+20 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C++](./230-KthSmallestElementInABST.cpp) [Java](./java/230-KthSmallestElementInABST.java)| :star::star::star::star::star:| | 3 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-20 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./108-ConvertSortedArrayToBinarySearchTree.cpp) | | | 3 July 2017 |
-21 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [C++](./116-PopulatingNextRightPointersInEachNode.cpp) |very tricky | | 4 July 2017 |
-22 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [C++](./117-PopulatingNextRightPointersInEachNodeII.cpp) |very tricky| | 4 July 2017 |
-23 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C++](./105-ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |good| | 25 July 2017 |
-24 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C++](./106-ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp) |good| | 25 July 2017 |
-25 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [C++](./297-SerializeAndDeserializeBinaryTree.cpp) |good| | 30 August 2017 |
+21 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./108-ConvertSortedArrayToBinarySearchTree.cpp) | | | 3 July 2017 |
+22 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [C++](./116-PopulatingNextRightPointersInEachNode.cpp) |very tricky | | 4 July 2017 |
+23 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [C++](./117-PopulatingNextRightPointersInEachNodeII.cpp) |very tricky| | 4 July 2017 |
+24 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C++](./105-ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |good| | 25 July 2017 |
+25 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C++](./106-ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp) |good| | 25 July 2017 |
+26 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [C++](./297-SerializeAndDeserializeBinaryTree.cpp) |good| | 30 August 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-26 | 114 | [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](./114-FlattenBinaryTreeToLinkedList.cpp) [Java](./java/114-FlattenBinaryTreeToLinkedList.java)|good| | 29 July 2017 |
-27 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [C++](./530-MinimumAbsoluteDifferenceInBST.cpp) |good, inorder traversal| | 22 August 2017 |
+27 | 114 | [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](./114-FlattenBinaryTreeToLinkedList.cpp) [Java](./java/114-FlattenBinaryTreeToLinkedList.java)|good| | 29 July 2017 |
+28 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [C++](./530-MinimumAbsoluteDifferenceInBST.cpp) |good, inorder traversal| | 22 August 2017 |
 
 
 ## 07. Search, Binary Search
