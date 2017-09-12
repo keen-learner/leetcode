@@ -39,7 +39,7 @@
 05 | 448 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](./448-FindAllNumbersDisappearedInAnArray.cpp) | similar to 442 | | 7 June 2017 |
 06 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./217-ContainsDuplicate.cpp) |  | | 8 June 2017 |
 07 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [C++](./219-ContainsDuplicateII.cpp) |  | | 8 June 2017 |
-08 | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [C++](./220-ContainsDuplicateIII.cpp) [Java](./java/220-ContainsDuplicateIII.java)|tricky, hard| | 8 June 2017 |
+08 | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [C++](./220-ContainsDuplicateIII.cpp) [Java](./java/220-ContainsDuplicateIII.java)|:boom::boom::boom::boom::boom:| | 8 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 09 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./169-MajorityElement.cpp) | tricky | | 8 June 2017 |
 10 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [C++](./229-MajorityElementII.cpp) | tricky, generalise it | | 8 June 2017 |
@@ -76,7 +76,7 @@
 04 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./88-MergeSortedArray.cpp) [Java](./java/88-MergeSortedArray.java)|Partition | | 6 May 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 05 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./26-RemoveDuplicatesFromSortedArray.cpp) | [Java](./java/26-RemoveDuplicatesFromSortedArray.java)| | 23 June 2017 |
-06 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./80-RemoveDuplicatesFromSortedArrayII.cpp) [Java](./java/80-RemoveDuplicatesFromSortedArrayII.java)|tricky | | 23 June 2017 |
+06 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./80-RemoveDuplicatesFromSortedArrayII.cpp) [Java](./java/80-RemoveDuplicatesFromSortedArrayII.java)| :boom::boom::boom::boom::boom:| | 23 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 07 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./209-MinimumSizeSubarraySum.cpp) | sliding window, tricky | | 23 August 2017 |
 
@@ -89,7 +89,7 @@
 02 | 57 | [Insert Intervals](https://leetcode.com/problems/insert-interval/) | [C++](./57-InsertInterval.cpp) | | tricky  | 30 March 2017 |
 03 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./179-LargestNumber.cpp) [Java](./java/179-LargestNumber.java)| | tricky  | 16 July 2017 |
 04 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [C++](./252-MeetingRooms.cpp) | | find presence of overlapping interval, paid  | 16 July 2017 |
-05 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [C++](./253-MeetingRoomsII.cpp) | | good, paid  | 16 July 2017 |
+05 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [C++](./253-MeetingRoomsII.cpp) | |:boom::boom::boom::boom::boom:| 16 July 2017 |
 06 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./165-CompareVersionNumbers.cpp) [Java](./java/165-CompareVersionNumbers.java)| | good sorting practice  | 1 August 2017 |
 
 
@@ -104,7 +104,7 @@
 05 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./206-ReverseLinkedList.cpp) [Java](./java/206-ReverseLinkedList.java) [Python](./python/206-ReverseLinkedList.py) |LinkedList | | 1 July 2017 |
 06 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [C++](./92-ReverseLinkedListII.cpp) |LinkedList, tricky | | 1 July 2017 |
 07 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [C++](./143-ReorderList.cpp) |LinkedList, tricky | | 1 July 2017 |
-07 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](./61-RotateList.cpp) |LinkedList, in Group1 | | 6 May 2017 |
+07 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](./61-RotateList.cpp) [Java](./java/61-RotateList.java)| | LinkedList, in Group1| 6 May 2017 |
 08 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [C++](./148-SortList.cpp) |LinkedList| | 1 July 2017 |
 09 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [C++](./147-InsertionSortList.cpp) |LinkedList| | 1 July 2017 |
 10 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./160-IntersectionOfTwoLinkedLists.cpp) |LinkedList| | 1 July 2017 |
@@ -192,7 +192,7 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](./112-PathSum.cpp) | | Trees DFS, Recursion| 31 March 2017 |
+01 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](./112-PathSum.cpp) [Java](./java/112-PathSum.java)|:star::star::star::star::star:| Trees DFS, Recursion| 31 March 2017 |
 02 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [C++](./113-PathSumII.cpp) | | Trees DFS, Recursion| 31 March 2017 |
 03 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [C++](./437-PathSumIII.cpp) | | Trees DFS, Recursion| 8 June 2017 |
 04 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./124-BinaryTreeMaximumPathSum.cpp) [Java](./java/124-BinaryTreeMaximumPathSum.java)|Trees DFS, Recursion | | 30 July 2017 |
