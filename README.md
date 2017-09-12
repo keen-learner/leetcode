@@ -164,7 +164,7 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](./35-SearchInsertPosition.cpp) | Binary Search| | 19 July 2017 |
+01 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](./35-SearchInsertPosition.cpp) [Java](./java/35-SearchInsertPosition.java)|:star::star::star:|Binary Search| 19 July 2017 |
 02 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [C++](./162-FindPeakElement.cpp) |:boom::boom::boom::boom::boom:|Binary Search| 19 July 2017 |
 03 | 278 | [First Bad Version](https://leetcode.com/problems/find-bad-version/) | [C++](./278-FirstBadVersion.cpp) | Binary Search| | 19 July 2017 |
 04 | 33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./33-SearchInRotatedSortedArray.cpp) | Binary Search| | 6 May 2017 |
