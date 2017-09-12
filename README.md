@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 159)
+# Leetcode Algo Problem Solutions (Count = 160)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
@@ -7,7 +7,7 @@
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 21)](#05-linkedlist) 
   06. [Trees (Count = 28)](#06-trees) 
-  07. [Search, Binary Search (Count = 08)](#07-search-binary-search) 
+  07. [Search, Binary Search (Count = 09)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 07)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 18)](#09-dfs-recursion) 
   10. [Strings (Count = 15)](#10-strings) 
@@ -165,13 +165,14 @@
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](./35-SearchInsertPosition.cpp) | Binary Search| | 19 July 2017 |
-02 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [C++](./162-FindPeakElement.cpp) | Binary Search| | 19 July 2017 |
+02 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [C++](./162-FindPeakElement.cpp) |:boom::boom::boom::boom::boom:|Binary Search| 19 July 2017 |
 03 | 278 | [First Bad Version](https://leetcode.com/problems/find-bad-version/) | [C++](./278-FirstBadVersion.cpp) | Binary Search| | 19 July 2017 |
 04 | 33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./33-SearchInRotatedSortedArray.cpp) | Binary Search| | 6 May 2017 |
 05 | 81 | [Search In Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [C++](./81-SearchInRotatedSortedArrayII.cpp) | Binary Search | | 6 May 2017 |
 06 | 74 | [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [C++](./74-SearchA2dMatrix.cpp) [Java](./java/74-SearchA2dMatrix.java) | Special Search | | 23 June 2017 |
 07 | 240 | [Search A 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [C++](./240-SearchA2dMatrixII.cpp) [Java](./java/240-SearchA2dMatrixII.java)| Special Search | | 23 June 2017 |
 08 | 04 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./4-MedianOfTwoSortedArrays.cpp) | Binary Search | | 9 July 2017 |
+09 | 34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [C++](./34-SearchForARange.cpp) |:boom::boom::boom::boom::boom:| Binary Search, own lower bound and upper bound implementation| 11 September 2017 |
 
 
 ## 08. Queue, Priority Queue
