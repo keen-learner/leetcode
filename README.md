@@ -97,7 +97,7 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./21-MergeTwoSortedLists.cpp) |LinkedList | | 6 May 2017 |
+01 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./21-MergeTwoSortedLists.cpp) [Java](./java/21-MergeTwoSortedLists.java)|:star::star::star::star::star:|iterative and recursive solutions | 6 May 2017 |
 02 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./23-MergeKSortedLists.cpp) |LinkedList | | 6 May 2017 |
 03 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](./141-LinkedListCycle.cpp) |LinkedList | | 1 July 2017 |
 04 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](./142-LinkedListCycleII.cpp) |LinkedList | | 1 July 2017 |
@@ -195,8 +195,8 @@
 01 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](./112-PathSum.cpp) [Java](./java/112-PathSum.java)|:star::star::star::star::star:| Trees DFS, Recursion| 31 March 2017 |
 02 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [C++](./113-PathSumII.cpp) [Java](./java/113-PathSumII.java)| :boom::boom::boom:| Trees DFS, Recursion| 31 March 2017 |
 03 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [C++](./437-PathSumIII.cpp) [Java](./java/437-PathSumIII.java)|:boom::boom::boom:| Trees DFS, Recursion| 8 June 2017 |
-04 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./124-BinaryTreeMaximumPathSum.cpp) [Java](./java/124-BinaryTreeMaximumPathSum.java)|Trees DFS, Recursion | | 30 July 2017 |
-05 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./129-SumRootToLeafNumbers.cpp) [Java](./java/129-SumRootToLeafNumbers.java)|Trees DFS, Recursion | | 30 July 2017 |
+04 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./124-BinaryTreeMaximumPathSum.cpp) [Java](./java/124-BinaryTreeMaximumPathSum.java)|:boom::boom::boom::boom::boom: | Trees DFS, Recursion| 30 July 2017 |
+05 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./129-SumRootToLeafNumbers.cpp) [Java](./java/129-SumRootToLeafNumbers.java)| :boom::boom::boom::boom::boom:| Trees DFS, Recursion| 30 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 06 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [C++](./46-Permutations.cpp) [Java](./java/46-Permutations.java)| :star::star::star:| DFS, Recursion| 10 June 2017 |
 07 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [C++](./47-PermutationsII.cpp) [Java](./java/47-PermutationsII.java)|:star::star::star::star::star: | DFS, Recursion| 10 June 2017 |
