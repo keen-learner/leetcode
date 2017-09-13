@@ -101,8 +101,8 @@
 02 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./23-MergeKSortedLists.cpp) [Java](./java/23-MergeKSortedLists.java)|:boom::boom::boom:| | 6 May 2017 |
 03 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](./141-LinkedListCycle.cpp) [Java](./java/141-LinkedListCycle.java)|:star::star::star:| | 1 July 2017 |
 04 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](./142-LinkedListCycleII.cpp) [Java](./java/142-LinkedListCycleII.java) :boom::boom::boom:| | 1 July 2017 |
-05 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./206-ReverseLinkedList.cpp) [Java](./java/206-ReverseLinkedList.java) [Python](./python/206-ReverseLinkedList.py) |LinkedList | | 1 July 2017 |
-06 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [C++](./92-ReverseLinkedListII.cpp) |LinkedList, tricky | | 1 July 2017 |
+05 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./206-ReverseLinkedList.cpp) [Java](./java/206-ReverseLinkedList.java) [Python](./python/206-ReverseLinkedList.py) | :star::star::star::star::star:|recursive and iterative | 1 July 2017 |
+06 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [C++](./92-ReverseLinkedListII.cpp) [Java](./java/92-ReverseLinkedListII.java)|:boom::boom::boom:|tricky, reverse b/w m and n, case m ==1, see Java solution | 1 July 2017 |
 07 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [C++](./143-ReorderList.cpp) |LinkedList, tricky | | 1 July 2017 |
 07 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](./61-RotateList.cpp) [Java](./java/61-RotateList.java)| | LinkedList, in Group1| 6 May 2017 |
 08 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [C++](./148-SortList.cpp) |LinkedList| | 1 July 2017 |
