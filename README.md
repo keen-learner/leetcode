@@ -113,7 +113,7 @@
 13 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](./237-DeleteNodeInALinkedList.cpp) |LinkedList| | 1 July 2017 |
 14 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](./203-RemoveLinkedListElements.cpp) |LinkedList| | 1 July 2017 |
 15 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](./83-RemoveDuplicatesFromSortedList.cpp) [Java](./java/83-RemoveDuplicatesFromSortedList.java)|:star::star::star::star::star:| | 1 July 2017 |
-16 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](./82-RemoveDuplicatesFromSortedListII.cpp) |LinkedList| | 1 July 2017 |
+16 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](./82-RemoveDuplicatesFromSortedListII.cpp) [Java](./java/82-RemoveDuplicatesFromSortedListII.java)|:boom::boom::boom:|tricky| 1 July 2017 |
 17 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [C++](./234-PalindromeLinkedList.cpp) |LinkedList| | 1 July 2017 |
 18 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [C++](./86-PartitionList.cpp) |LinkedList, tricky| | 1 July 2017 |
 19 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./19-RemoveNthNodeFromEndOfList.cpp) |LinkedList| | 1 July 2017 |
