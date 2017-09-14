@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 161)
+# Leetcode Algo Problem Solutions (Count = 162)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
@@ -11,7 +11,7 @@
   08. [Queue, Priority Queue (Count = 07)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 18)](#09-dfs-recursion) 
   10. [Strings (Count = 15)](#10-strings) 
-  11. [Dynamic Programming (Count = 10)](#11-dynamic-programming) 
+  11. [Dynamic Programming (Count = 11)](#11-dynamic-programming) 
   12. [Greedy (Count = 03)](#12-greedy) 
   13. [Stack (Count = 04)](#13-stack) 
   14. [BFS (Count = 02)](#14-bfs) 
@@ -245,13 +245,14 @@
 01 | 72 | [Edit Distance ](https://leetcode.com/problems/edit-distance/) | [C++](./72-EditDistance.cpp) [Java](./java/72-EditDistance.java)|:boom::boom::boom::boom::boom:| | 22 June 2017 |
 02 | 583 | [ Delete Operation for Two Strings ](https://leetcode.com/problems/delete-operation-for-two-strings/) | [C++](./583-DeleteOperationForTwoStrings.cpp) [Java](./java/583-DeleteOperationForTwoStrings.java)|:boom::boom::boom::boom::boom:| tricky, similar to 72| 22 June 2017 |
 03 | 10 | [ Regular Expression Matching ](https://leetcode.com/problems/regular-expression-matching/) | [C++](./10-RegularExpressionMatching.cpp) [Java](./java/10-RegularExpressionMatching.java)|:boom::boom::boom::boom::boom:| | 28 June 2017 |
-04 | 53 | [ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | [C++](./53-MaximumSubarray.cpp) | | | 18 July 2017 |
-05 | 70 | [ Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/) | [C++](./70-ClimbingStairs.cpp) | | | 18 July 2017 |
-06 | 91 | [ Decode Ways ](https://leetcode.com/problems/decode-ways/) | [C++](./91-DecodeWays.cpp) | | | 18 July 2017 |
-07 | 322 | [ Coin Change ](https://leetcode.com/problems/coin-change/) | [C++](./322-CoinChange.cpp) [Java](./java/322-CoinChange.java)| | | 29 July 2017 |
-08 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](./198-HouseRobber.cpp) [Java](./java/198-HouseRobber.java)| | | 30 July 2017 |
-09 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./152-MaximumProductSubarray.cpp) [Java](./java/152-MaximumProductSubarray.java)| | | 1 August 2017 |
-10 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./416-PartitionEqualSubsetSum.cpp) [Java](./java/416-PartitionEqualSubsetSum.java)|:boom::boom::boom:|see subset sum problem, like 0-1 knapsack, see O(n) space soln | 13 September 2017 |
+04 | 44 | [ Wildcard Matching ](https://leetcode.com/problems/wildcard-matching/) | [C++](./44-WildcardMatching.cpp) [Java](./java/44-WildcardMatching.java)|:boom::boom::boom::boom::boom:| | 14 September 2017 |
+05 | 53 | [ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | [C++](./53-MaximumSubarray.cpp) | | | 18 July 2017 |
+06 | 70 | [ Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/) | [C++](./70-ClimbingStairs.cpp) | | | 18 July 2017 |
+07 | 91 | [ Decode Ways ](https://leetcode.com/problems/decode-ways/) | [C++](./91-DecodeWays.cpp) | | | 18 July 2017 |
+08 | 322 | [ Coin Change ](https://leetcode.com/problems/coin-change/) | [C++](./322-CoinChange.cpp) [Java](./java/322-CoinChange.java)| | | 29 July 2017 |
+09 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](./198-HouseRobber.cpp) [Java](./java/198-HouseRobber.java)| | | 30 July 2017 |
+10 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./152-MaximumProductSubarray.cpp) [Java](./java/152-MaximumProductSubarray.java)| | | 1 August 2017 |
+11 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./416-PartitionEqualSubsetSum.cpp) [Java](./java/416-PartitionEqualSubsetSum.java)|:boom::boom::boom:|see subset sum problem, like 0-1 knapsack, see O(n) space soln | 13 September 2017 |
 
 
 ## 12. Greedy
