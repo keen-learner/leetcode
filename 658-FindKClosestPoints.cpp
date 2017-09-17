@@ -19,6 +19,7 @@ class Solution {
 public:
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
         // also check k == 0 case
+        if(k == 0) return {};
         if(arr.size() < k) return arr;
         int index = binarySearch(arr, x); // index = 1st elem >= x
         int i = index-1;
