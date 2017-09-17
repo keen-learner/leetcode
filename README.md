@@ -1,12 +1,12 @@
-# Leetcode Algo Problem Solutions (Count = 163)
+# Leetcode Algo Problem Solutions (Count = 165)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
   02. [Arrays, General (Count = 25)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
-  05. [LinkedList (Count = 21)](#05-linkedlist) 
-  06. [Trees (Count = 28)](#06-trees) 
+  05. [LinkedList (Count = 22)](#05-linkedlist) 
+  06. [Trees (Count = 29)](#06-trees) 
   07. [Search, Binary Search (Count = 09)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 07)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 18)](#09-dfs-recursion) 
@@ -119,6 +119,7 @@
 19 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./19-RemoveNthNodeFromEndOfList.cpp) |LinkedList| | 1 July 2017 |
 20 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./2-AddTwoNumbers.cpp) |LinkedList| | 1 July 2017 |
 21 | 24 | [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./24-SwapNodesInPairs.cpp) |LinkedList|tricky | 1 July 2017 |
+22 | 138 | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./138-CopyListWithRandomPointer.cpp) [Java](./java/138-CopyListWithRandomPointer.java)|:boom::boom::boom::boom::boom:|tricky | 15 September 2017 |
 
 
 ## 06. Trees
@@ -158,6 +159,7 @@
 -- | -- | -- | -- | -- | -- | -- |
 27 | 114 | [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](./114-FlattenBinaryTreeToLinkedList.cpp) [Java](./java/114-FlattenBinaryTreeToLinkedList.java)|:boom::boom::boom::boom::boom:| | 29 July 2017 |
 28 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [C++](./530-MinimumAbsoluteDifferenceInBST.cpp) [Java](./java/530-MinimumAbsoluteDifferenceInBST.java)|:star::star::star::star::star:|good, inorder traversal| 22 August 2017 |
+29 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [C++](./654-MaximumBinaryTree.cpp) [Java](./java/654-MaximumBinaryTree.java)|:star::star::star::star::star:|like 108| 16 September 2017 |
 
 
 ## 07. Search, Binary Search
