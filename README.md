@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 166)
+# Leetcode Algo Problem Solutions (Count = 167)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
@@ -7,7 +7,7 @@
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
   06. [Trees (Count = 29)](#06-trees) 
-  07. [Search, Binary Search (Count = 09)](#07-search-binary-search) 
+  07. [Search, Binary Search (Count = 10)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 07)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 18)](#09-dfs-recursion) 
   10. [Strings (Count = 15)](#10-strings) 
@@ -89,7 +89,7 @@
 02 | 57 | [Insert Intervals](https://leetcode.com/problems/insert-interval/) | [C++](./57-InsertInterval.cpp) | | tricky  | 30 March 2017 |
 03 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./179-LargestNumber.cpp) [Java](./java/179-LargestNumber.java)| | tricky  | 16 July 2017 |
 04 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [C++](./252-MeetingRooms.cpp) | | find presence of overlapping interval, paid  | 16 July 2017 |
-05 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [C++](./253-MeetingRoomsII.cpp) | |:boom::boom::boom::boom::boom:| 16 July 2017 |
+05 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [C++](./253-MeetingRoomsII.cpp) | :boom::boom::boom::boom::boom:|custom sorting | 16 July 2017 |
 06 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./165-CompareVersionNumbers.cpp) [Java](./java/165-CompareVersionNumbers.java)| | good sorting practice  | 1 August 2017 |
 
 
@@ -175,6 +175,7 @@
 07 | 240 | [Search A 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [C++](./240-SearchA2dMatrixII.cpp) [Java](./java/240-SearchA2dMatrixII.java)| Special Search | | 23 June 2017 |
 08 | 04 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./4-MedianOfTwoSortedArrays.cpp) | Binary Search | | 9 July 2017 |
 09 | 34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [C++](./34-SearchForARange.cpp) |:boom::boom::boom::boom::boom:| Binary Search, own lower bound and upper bound implementation| 11 September 2017 |
+10 | 658 | [Find K Closest Points](https://leetcode.com/problems/find-k-closest-elements/) | [C++](./658-FindKClosestPoints.cpp) |:boom::boom::boom::boom::boom:| Binary Search| 17 September 2017 |
 
 
 ## 08. Queue, Priority Queue
