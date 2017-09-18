@@ -1,8 +1,8 @@
-# Leetcode Algo Problem Solutions (Count = 173)
+# Leetcode Algo Problem Solutions (Count = 174)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
-  02. [Arrays, General (Count = 27)](#02-arrays-general) 
+  02. [Arrays, General (Count = 28)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
@@ -67,6 +67,7 @@
 26 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [C++](./674-LongestContinuousIncreasingSubsequence.cpp) [Java](./java/674-LongestContinuousIncreasingSubsequence.java)| :star::star::star::star::star:| | 16 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 27 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./121-BestTimeToBuyAndSellStock.cpp) [Java](./java/121-BestTimeToBuyAndSellStock.java)|:boom::boom::boom:|only 1 transaction, if delta prices given then equals max contiguous subarray | 16 September 2017 |
+28 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./122-BestTimeToBuyAndSellStockII.cpp) [Java](./java/122-BestTimeToBuyAndSellStockII.java)|:boom::boom::boom:|any no.of txns, we want all positive deltas | 16 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
