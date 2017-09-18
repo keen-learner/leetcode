@@ -1,8 +1,8 @@
-# Leetcode Algo Problem Solutions (Count = 169)
+# Leetcode Algo Problem Solutions (Count = 170)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
-  02. [Arrays, General (Count = 25)](#02-arrays-general) 
+  02. [Arrays, General (Count = 26)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
@@ -63,6 +63,8 @@
 24 | 454 | [4 Sum II](https://leetcode.com/problems/4sum-ii/) | [C++](./454-4SumII.cpp) | | | 18 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 25 | 532 | [K Diff Pairs In An Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [C++](./532-K-diffPairsInAnArray.cpp) | | | 22 August 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+26 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [C++](./674-LongestContinuousIncreasingSubsequence.cpp) [Java](./674-LongestContinuousIncreasingSubsequence.java)| :star::star::star::star::star:| | 16 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
