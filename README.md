@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 170)
+# Leetcode Algo Problem Solutions (Count = 172)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
@@ -11,7 +11,7 @@
   08. [Queue, Priority Queue (Count = 07)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 18)](#09-dfs-recursion) 
   10. [Strings (Count = 15)](#10-strings) 
-  11. [Dynamic Programming (Count = 12)](#11-dynamic-programming) 
+  11. [Dynamic Programming (Count = 14)](#11-dynamic-programming) 
   12. [Greedy (Count = 03)](#12-greedy) 
   13. [Stack (Count = 04)](#13-stack) 
   14. [BFS (Count = 03)](#14-bfs-graph) 
@@ -261,6 +261,8 @@
 10 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./152-MaximumProductSubarray.cpp) [Java](./java/152-MaximumProductSubarray.java)| | | 1 August 2017 |
 11 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./416-PartitionEqualSubsetSum.cpp) [Java](./java/416-PartitionEqualSubsetSum.java)|:boom::boom::boom::boom::boom:|see subset sum problem, like 0-1 knapsack, see O(n) space soln | 13 September 2017 |
 12 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [C++](./64-MinimumPathSum.cpp) [Java](./java/64-MinimumPathSum.java)|:boom::boom::boom:|| 13 September 2017 |
+13 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C++](./300-LongestIncreasingSubsequence.cpp) [Java](./java/300-LongestIncreasingSubsequence.java)|:boom::boom::boom:|| 16 September 2017 |
+14 | 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [C++](./673-NumberOfLongestIncreasingSubsequence.cpp) [Java](./java/673-NumberOfLongestIncreasingSubsequence.java)|:boom::boom::boom:|| 16 September 2017 |
 
 
 ## 12. Greedy
