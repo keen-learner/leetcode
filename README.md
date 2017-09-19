@@ -1,8 +1,8 @@
-# Leetcode Algo Problem Solutions (Count = 174)
+# Leetcode Algo Problem Solutions (Count = 175)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
-  02. [Arrays, General (Count = 28)](#02-arrays-general) 
+  02. [Arrays, General (Count = 29)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
@@ -68,6 +68,7 @@
 -- | -- | -- | -- | -- | -- | -- |
 27 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./121-BestTimeToBuyAndSellStock.cpp) [Java](./java/121-BestTimeToBuyAndSellStock.java)|:boom::boom::boom:|only 1 transaction, if delta prices given then equals max contiguous subarray | 16 September 2017 |
 28 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./122-BestTimeToBuyAndSellStockII.cpp) [Java](./java/122-BestTimeToBuyAndSellStockII.java)|:boom::boom::boom:|any no.of txns, we want all positive deltas | 16 September 2017 |
+29 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [C++](./188-BestTimeToBuyAndSellStockIV.cpp) [Java](./java/188-BestTimeToBuyAndSellStockIV.java)|:boom::boom::boom::boom::boom:|atmost k txns | 16 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
@@ -264,8 +265,10 @@
 10 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./152-MaximumProductSubarray.cpp) [Java](./java/152-MaximumProductSubarray.java)| | | 1 August 2017 |
 11 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./416-PartitionEqualSubsetSum.cpp) [Java](./java/416-PartitionEqualSubsetSum.java)|:boom::boom::boom::boom::boom:|see subset sum problem, like 0-1 knapsack, see O(n) space soln | 13 September 2017 |
 12 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [C++](./64-MinimumPathSum.cpp) [Java](./java/64-MinimumPathSum.java)|:boom::boom::boom:|| 13 September 2017 |
+-- | -- | -- | -- | -- | -- | -- |
 13 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C++](./300-LongestIncreasingSubsequence.cpp) [Java](./java/300-LongestIncreasingSubsequence.java)|:boom::boom::boom:|| 16 September 2017 |
 14 | 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [C++](./673-NumberOfLongestIncreasingSubsequence.cpp) [Java](./java/673-NumberOfLongestIncreasingSubsequence.java)|:boom::boom::boom:|| 16 September 2017 |
+-- | -- | -- | -- | -- | -- | -- |
 
 
 ## 12. Greedy
