@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 177)
+# Leetcode Algo Problem Solutions (Count = 178)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
@@ -13,7 +13,7 @@
   10. [Strings (Count = 15)](#10-strings) 
   11. [Dynamic Programming (Count = 14)](#11-dynamic-programming) 
   12. [Greedy (Count = 03)](#12-greedy) 
-  13. [Stack (Count = 04)](#13-stack) 
+  13. [Stack (Count = 05)](#13-stack) 
   14. [BFS (Count = 03)](#14-bfs-graph) 
   15. [Miscellaneous (Count = 01)](#15-miscellaneous) 
 
@@ -290,6 +290,7 @@
 02 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [C++](./150-EvaluateReversePolishNotation.cpp) [Java](./java/150-EvaluateReversePolishNotation.java) |  | | 30 July 2017 |
 03 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./20-ValidParentheses.cpp) [Java](./java/20-ValidParentheses.java) |  | | 11 August 2017 |
 04 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [C++](./32-LongestValidParentheses.cpp) | :boom::boom::boom::boom::boom: | | 23 August 2017 |
+05 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [C++](./71-SimplifyPath.cpp) [Java](./java/71-SimplifyPath.java)|:boom::boom::boom::boom::boom:| | 16 September 2017 |
 
 
 ## 14. BFS, graph 
