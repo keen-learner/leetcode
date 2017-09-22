@@ -1,8 +1,8 @@
-# Leetcode Algo Problem Solutions (Count = 178)
+# Leetcode Algo Problem Solutions (Count = 179)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
-  02. [Arrays, General (Count = 31)](#02-arrays-general) 
+  02. [Arrays, General (Count = 32)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
@@ -71,6 +71,8 @@
 29 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [C++](./188-BestTimeToBuyAndSellStockIV.cpp) [Java](./java/188-BestTimeToBuyAndSellStockIV.java)|:boom::boom::boom::boom::boom:|atmost k txns | 16 September 2017 |
 30 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](./123-BestTimeToBuyAndSellStockIII.cpp) [Java](./java/123-BestTimeToBuyAndSellStockIII.java)|:boom::boom::boom::boom::boom:|same as 188, k = 2 and atmost k txns | 16 September 2017 |
 31 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./309-BestTimeToBuyAndSellStockWithCooldown.cpp) [Java](./java/309-BestTimeToBuyAndSellStockWithCooldown.java)|:boom::boom::boom::boom::boom:|with cooldown | 16 September 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+32 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C++](./384-ShuffleAnArray.cpp) [Java](./java/384-ShuffleAnArray.java)|:boom::boom::boom::boom::boom:|Concept | 21 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
