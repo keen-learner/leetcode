@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 179)
+# Leetcode Algo Problem Solutions (Count = 180)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
@@ -6,7 +6,7 @@
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
-  06. [Trees (Count = 31)](#06-trees) 
+  06. [Trees (Count = 32)](#06-trees) 
   07. [Search, Binary Search (Count = 10)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 07)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 18)](#09-dfs-recursion) 
@@ -172,6 +172,7 @@
 29 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [C++](./654-MaximumBinaryTree.cpp) [Java](./java/654-MaximumBinaryTree.java)|:star::star::star::star::star:|like 108| 16 September 2017 |
 30 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [C++](./563-BinaryTreeTilt.cpp) [Java](./java/563-BinaryTreeTilt.java)|:star::star::star::star::star:| | 16 September 2017 |
 31 | 671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/binary-tree-tilt/) | [C++](./671-SecondMinimumNodeInABinaryTree.cpp) [Java](./java/671-SecondMinimumNodeInABinaryTree.java)|:boom::boom::boom::boom::boom:| | 16 September 2017 |
+32 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [C++](./652-FindDuplicateSubtrees.cpp) [Java](./java/652-FindDuplicateSubtrees.java)|:boom::boom::boom::boom::boom:| | 21 September 2017 |
 
 
 ## 07. Search, Binary Search

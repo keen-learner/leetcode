@@ -25,12 +25,8 @@ public:
             return res;
         }
 
-        for (int left = 0, right = matrix[0].size() - 1,
-
-                 top = 0, bottom = matrix.size() - 1;
-
+        for (int left = 0, right = matrix[0].size() - 1, top = 0, bottom = matrix.size() - 1;
              left <= right && top <= bottom;
-
              ++left, --right, ++top, --bottom) {
 
             for (int j = left; j <= right; ++j) {
