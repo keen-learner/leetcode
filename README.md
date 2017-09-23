@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 181)
+# Leetcode Algo Problem Solutions (Count = 182)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
@@ -7,7 +7,7 @@
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
   06. [Trees (Count = 33)](#06-trees) 
-  07. [Search, Binary Search (Count = 10)](#07-search-binary-search) 
+  07. [Search, Binary Search (Count = 11)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 07)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 18)](#09-dfs-recursion) 
   10. [Strings (Count = 15)](#10-strings) 
@@ -190,6 +190,7 @@
 08 | 04 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./4-MedianOfTwoSortedArrays.cpp) | Binary Search | | 9 July 2017 |
 09 | 34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [C++](./34-SearchForARange.cpp) |:boom::boom::boom::boom::boom:| Binary Search, own lower bound and upper bound implementation| 11 September 2017 |
 10 | 658 | [Find K Closest Points](https://leetcode.com/problems/find-k-closest-elements/) | [C++](./658-FindKClosestPoints.cpp) |:boom::boom::boom::boom::boom:| Binary Search| 17 September 2017 |
+11 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](./153-FindMinimumInRotatedSortedArray.cpp) [Java](./java/153-FindMinimumInRotatedSortedArray.java)|:boom::boom::boom::boom::boom:| Binary Search| 22 September 2017 |
 
 
 ## 08. Queue, Priority Queue
@@ -212,7 +213,7 @@
 01 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](./112-PathSum.cpp) [Java](./java/112-PathSum.java)|:star::star::star::star::star:| Trees DFS, Recursion| 31 March 2017 |
 02 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [C++](./113-PathSumII.cpp) [Java](./java/113-PathSumII.java)| :boom::boom::boom:| Trees DFS, Recursion| 31 March 2017 |
 03 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [C++](./437-PathSumIII.cpp) [Java](./java/437-PathSumIII.java)|:boom::boom::boom:| Trees DFS, Recursion| 8 June 2017 |
-04 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./124-BinaryTreeMaximumPathSum.cpp) [Java](./java/124-BinaryTreeMaximumPathSum.java)|:boom::boom::boom::boom::boom: | Trees DFS, Recursion| 30 July 2017 |
+04 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./124-BinaryTreeMaximumPathSum.cpp) [Java](./java/124-BinaryTreeMaximumPathSum.java)|:boom::boom::boom::boom::boom: | see: [http://www.geeksforgeeks.org/find-maximum-path-sum-two-leaves-binary-tree/] Trees DFS, Recursion| 30 July 2017 |
 05 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./129-SumRootToLeafNumbers.cpp) [Java](./java/129-SumRootToLeafNumbers.java)| :boom::boom::boom::boom::boom:| Trees DFS, Recursion| 30 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 06 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [C++](./46-Permutations.cpp) [Java](./java/46-Permutations.java)| :star::star::star:| DFS, Recursion| 10 June 2017 |
