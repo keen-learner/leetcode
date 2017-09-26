@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 183)
+# Leetcode Algo Problem Solutions (Count = 184)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
@@ -6,7 +6,7 @@
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
-  06. [Trees (Count = 33)](#06-trees) 
+  06. [Trees (Count = 34)](#06-trees) 
   07. [Search, Binary Search (Count = 12)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 07)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 18)](#09-dfs-recursion) 
@@ -174,6 +174,7 @@
 31 | 671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/binary-tree-tilt/) | [C++](./671-SecondMinimumNodeInABinaryTree.cpp) [Java](./java/671-SecondMinimumNodeInABinaryTree.java)|:boom::boom::boom::boom::boom:| | 16 September 2017 |
 32 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [C++](./652-FindDuplicateSubtrees.cpp) [Java](./java/652-FindDuplicateSubtrees.java)|:boom::boom::boom::boom::boom:| | 21 September 2017 |
 33 | 669 | [Trim A Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [C++](./669-TrimABinarySearchTree.cpp) [Java](./java/669-TrimABinarySearchTree.java)|:boom::boom::boom::boom::boom:|deleting node in c++ makes it tricky | 21 September 2017 |
+34 | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [C++](./270-ClosestBinarySearchTreeValue.cpp) |:boom::boom::boom:|paid| 22 September 2017 |
 
 
 ## 07. Search, Binary Search
