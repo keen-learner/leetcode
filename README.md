@@ -263,6 +263,7 @@
 16 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./8-StringToIntegerAtoi.cpp) [Java](./java/8-StringToIntegerAtoi.java)| :boom::boom::boom:|see test cases:leading space, sign, overflow| 27 September 2017 |
 17 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./28-ImplementStrStr.cpp) [Java](./java/28-ImplementStrStr.java)|:boom::boom::boom::boom::boom:|see KMP Algo and the test cases | 27 September 2017 |
 18 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C++](./205-IsomorphicStrings.cpp) [Java](./java/205-IsomorphicStrings.java)|:boom::boom::boom::boom::boom:| | 27 September 2017 |
+19 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./290-WordPattern.cpp) [Java](./java/290-WordPattern.java)|:boom::boom::boom::boom::boom:| | 27 September 2017 |
 
 
 ## 11. Dynamic Programming
