@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 193)
+# Leetcode Algo Problem Solutions (Count = 194)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
@@ -6,7 +6,7 @@
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
-  06. [Trees (Count = 35)](#06-trees) 
+  06. [Trees (Count = 36)](#06-trees) 
   07. [Search, Binary Search (Count = 12)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 07)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 20)](#09-dfs-recursion) 
@@ -179,6 +179,7 @@
 33 | 669 | [Trim A Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [C++](./669-TrimABinarySearchTree.cpp) [Java](./java/669-TrimABinarySearchTree.java)|:boom::boom::boom::boom::boom:|deleting node in c++ makes it tricky | 21 September 2017 |
 34 | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [C++](./270-ClosestBinarySearchTreeValue.cpp) |:boom::boom::boom:|paid| 22 September 2017 |
 35 | 272 | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) | [C++](./272-ClosestBinarySearchTreeValueII.cpp) |:boom::boom::boom::boom::boom:|paid| 25 September 2017 |
+36 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) | [C++](./617-MergeTwoBinaryTrees.cpp) [Java](./java/617-MergeTwoBinaryTrees.java)|:star::star::star::star::star:|| 27 September 2017 |
 
 
 ## 07. Search, Binary Search
