@@ -1,7 +1,7 @@
-# Leetcode Algo Problem Solutions (Count = 195)
+# Leetcode Algo Problem Solutions (Count = 196)
 
 # Index
-  01. [Math (Count = 06)](#01-math) 
+  01. [Math (Count = 07)](#01-math) 
   02. [Arrays, General (Count = 35)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
@@ -27,6 +27,7 @@
 04 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](./190-ReverseBits.cpp) [Java](./java/190-ReverseBits.java) |  | | 27 July 2017 |
 05 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./9-PalindromeNumber.cpp) | good | | 24 August 2017 |
 06 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./29-DivideTwoIntegers.cpp) [Java](./java/29-DivideTwoIntegers.java)| :boom::boom::boom::boom::boom:|tricky | 27 September 2017 |
+07 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](./43-MultiplyStrings.cpp) [Java](./java/43-MultiplyStrings.java)| :boom::boom::boom::boom::boom:|tricky | 27 September 2017 |
  
 
 ## 02. Arrays, General
