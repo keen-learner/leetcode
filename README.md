@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 190)
+# Leetcode Algo Problem Solutions (Count = 191)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
@@ -10,7 +10,7 @@
   07. [Search, Binary Search (Count = 12)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 07)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 18)](#09-dfs-recursion) 
-  10. [Strings (Count = 17)](#10-strings) 
+  10. [Strings (Count = 18)](#10-strings) 
   11. [Dynamic Programming (Count = 14)](#11-dynamic-programming) 
   12. [Greedy (Count = 03)](#12-greedy) 
   13. [Stack (Count = 05)](#13-stack) 
@@ -262,6 +262,7 @@
 15 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](./49-GroupAnagrams.cpp) [Java](./java/49-GroupAnagrams.java)| :star::star::star:|| 1 September 2017 |
 16 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./8-StringToIntegerAtoi.cpp) [Java](./java/8-StringToIntegerAtoi.java)| :boom::boom::boom:|see test cases:leading space, sign, overflow| 27 September 2017 |
 17 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./28-ImplementStrStr.cpp) [Java](./java/28-ImplementStrStr.java)|:boom::boom::boom::boom::boom:|see KMP Algo and the test cases | 27 September 2017 |
+18 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C++](./205-IsomorphicStrings.cpp) [Java](./java/205-IsomorphicStrings.java)|:boom::boom::boom::boom::boom:| | 27 September 2017 |
 
 
 ## 11. Dynamic Programming
