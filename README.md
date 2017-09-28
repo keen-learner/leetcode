@@ -1,7 +1,7 @@
-# Leetcode Algo Problem Solutions (Count = 201)
+# Leetcode Algo Problem Solutions (Count = 202)
 
 # Index
-  01. [Math (Count = 10)](#01-math) 
+  01. [Math (Count = 11)](#01-math) 
   02. [Arrays, General (Count = 35)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
@@ -31,6 +31,7 @@
 08 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [C++](./66-PlusOne.cpp) [Java](./java/66-PlusOne.java)| :star::star::star::star::star:|tricky | 27 September 2017 |
 09 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./191-NumberOf1Bits.cpp) [Java](./java/191-NumberOf1Bits.java)| :star::star::star::star::star:| | 27 September 2017 |
 10 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](./461-HammingDistance.cpp) [Java](./java/461-HammingDistance.java)| :star::star::star::star::star:| | 28 September 2017 |
+11 | 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [C++](./477-TotalHammingDistance.cpp) [Java](./java/477-TotalHammingDistance.java)|:boom::boom::boom:|nice approach | 28 September 2017 |
  
 
 ## 02. Arrays, General
