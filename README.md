@@ -1,7 +1,7 @@
-# Leetcode Algo Problem Solutions (Count = 204)
+# Leetcode Algo Problem Solutions (Count = 205)
 
 # Index
-  01. [Math (Count = 11)](#01-math) 
+  01. [Math (Count = 12)](#01-math) 
   02. [Arrays, General (Count = 35)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
@@ -32,6 +32,7 @@
 09 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./191-NumberOf1Bits.cpp) [Java](./java/191-NumberOf1Bits.java)| :star::star::star::star::star:| | 27 September 2017 |
 10 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](./461-HammingDistance.cpp) [Java](./java/461-HammingDistance.java)| :star::star::star::star::star:| | 28 September 2017 |
 11 | 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [C++](./477-TotalHammingDistance.cpp) [Java](./java/477-TotalHammingDistance.java)|:boom::boom::boom:|nice approach | 28 September 2017 |
+12 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [C++](./633-SumOfSquareNumbers.cpp) [Java](./java/633-SumOfSquareNumbers.java)|:star::star::star::star::star:|cases less 0/equal 0/1/2 | 28 September 2017 |
  
 
 ## 02. Arrays, General
@@ -206,7 +207,7 @@
 12 | 658 | [Find K Closest Points](https://leetcode.com/problems/find-k-closest-elements/) | [C++](./658-FindKClosestPoints.cpp) |:boom::boom::boom::boom::boom:| Binary Search| 17 September 2017 |
 13 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](./69-Sqrtx.cpp) [Java](./java/69-Sqrtx.java)|:boom::boom::boom::boom::boom:| Binary Search, last of N approach| 27 September 2017 |
 14 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [C++](./374-GuessNumberHigherOrLower.cpp) [Java](./java/374-GuessNumberHigherOrLower.java)|:star::star::star::star::star:| Binary Search, see 375| 28 September 2017 |
-15 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [C++](./367-ValidPerfectSquare.cpp) [Java](./java/367-ValidPerfectSquare.java)|:star::star::star::star::star:| Binary Search, see cases n <0 and =0 and =1| 28 September 2017 |
+15 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [C++](./367-ValidPerfectSquare.cpp) [Java](./java/367-ValidPerfectSquare.java)|:star::star::star::star::star:| Binary Search, see cases n is 0 and is 0 and is 1| 28 September 2017 |
 
 
 ## 08. Queue, Priority Queue
