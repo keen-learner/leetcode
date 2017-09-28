@@ -1,7 +1,7 @@
-# Leetcode Algo Problem Solutions (Count = 196)
+# Leetcode Algo Problem Solutions (Count = 197)
 
 # Index
-  01. [Math (Count = 07)](#01-math) 
+  01. [Math (Count = 08)](#01-math) 
   02. [Arrays, General (Count = 35)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
@@ -28,6 +28,7 @@
 05 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./9-PalindromeNumber.cpp) | good | | 24 August 2017 |
 06 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./29-DivideTwoIntegers.cpp) [Java](./java/29-DivideTwoIntegers.java)| :boom::boom::boom::boom::boom:|tricky | 27 September 2017 |
 07 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](./43-MultiplyStrings.cpp) [Java](./java/43-MultiplyStrings.java)| :boom::boom::boom::boom::boom:|tricky | 27 September 2017 |
+08 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [C++](./66-PlusOne.cpp) [Java](./java/66-PlusOne.java)| :star::star::star::star::star:|tricky | 27 September 2017 |
  
 
 ## 02. Arrays, General
