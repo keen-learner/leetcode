@@ -1,8 +1,8 @@
-# Leetcode Algo Problem Solutions (Count = 185)
+# Leetcode Algo Problem Solutions (Count = 188)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
-  02. [Arrays, General (Count = 32)](#02-arrays-general) 
+  02. [Arrays, General (Count = 35)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
@@ -61,18 +61,21 @@
 22 | 16 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./16-3SumClosest.cpp) | | | 18 June 2017 |
 23 | 259 | [3 Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | [C++](./259-3SumSmaller.cpp) |tricky, paid | | 18 June 2017 |
 24 | 454 | [4 Sum II](https://leetcode.com/problems/4sum-ii/) | [C++](./454-4SumII.cpp) | | | 18 June 2017 |
+25 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./167-TwoSumII.cpp) | | | 27 September 2017 |
+26 | 170 | [Two Sum III - Data structure design ](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [C++](./170-TwoSumIII.cpp) | | | 27 September 2017 |
+27 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [C++](./653-TwoSumIV.cpp) | | | 27 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-25 | 532 | [K Diff Pairs In An Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [C++](./532-K-diffPairsInAnArray.cpp) | | | 22 August 2017 |
+28 | 532 | [K Diff Pairs In An Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [C++](./532-K-diffPairsInAnArray.cpp) | | | 22 August 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-26 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [C++](./674-LongestContinuousIncreasingSubsequence.cpp) [Java](./java/674-LongestContinuousIncreasingSubsequence.java)| :star::star::star::star::star:| | 16 September 2017 |
+29 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [C++](./674-LongestContinuousIncreasingSubsequence.cpp) [Java](./java/674-LongestContinuousIncreasingSubsequence.java)| :star::star::star::star::star:| | 16 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-27 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./121-BestTimeToBuyAndSellStock.cpp) [Java](./java/121-BestTimeToBuyAndSellStock.java)|:boom::boom::boom:|only 1 transaction, if delta prices given then equals max contiguous subarray | 16 September 2017 |
-28 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./122-BestTimeToBuyAndSellStockII.cpp) [Java](./java/122-BestTimeToBuyAndSellStockII.java)|:boom::boom::boom:|any no.of txns, we want all positive deltas | 16 September 2017 |
-29 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [C++](./188-BestTimeToBuyAndSellStockIV.cpp) [Java](./java/188-BestTimeToBuyAndSellStockIV.java)|:boom::boom::boom::boom::boom:|atmost k txns | 16 September 2017 |
-30 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](./123-BestTimeToBuyAndSellStockIII.cpp) [Java](./java/123-BestTimeToBuyAndSellStockIII.java)|:boom::boom::boom::boom::boom:|same as 188, k = 2 and atmost k txns | 16 September 2017 |
-31 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./309-BestTimeToBuyAndSellStockWithCooldown.cpp) [Java](./java/309-BestTimeToBuyAndSellStockWithCooldown.java)|:boom::boom::boom::boom::boom:|with cooldown | 16 September 2017 |
+30 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./121-BestTimeToBuyAndSellStock.cpp) [Java](./java/121-BestTimeToBuyAndSellStock.java)|:boom::boom::boom:|only 1 transaction, if delta prices given then equals max contiguous subarray | 16 September 2017 |
+31 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./122-BestTimeToBuyAndSellStockII.cpp) [Java](./java/122-BestTimeToBuyAndSellStockII.java)|:boom::boom::boom:|any no.of txns, we want all positive deltas | 16 September 2017 |
+32 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [C++](./188-BestTimeToBuyAndSellStockIV.cpp) [Java](./java/188-BestTimeToBuyAndSellStockIV.java)|:boom::boom::boom::boom::boom:|atmost k txns | 16 September 2017 |
+33 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](./123-BestTimeToBuyAndSellStockIII.cpp) [Java](./java/123-BestTimeToBuyAndSellStockIII.java)|:boom::boom::boom::boom::boom:|same as 188, k = 2 and atmost k txns | 16 September 2017 |
+34 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./309-BestTimeToBuyAndSellStockWithCooldown.cpp) [Java](./java/309-BestTimeToBuyAndSellStockWithCooldown.java)|:boom::boom::boom::boom::boom:|with cooldown | 16 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-32 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C++](./384-ShuffleAnArray.cpp) [Java](./java/384-ShuffleAnArray.java)|:boom::boom::boom::boom::boom:|Concept | 21 September 2017 |
+35 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C++](./384-ShuffleAnArray.cpp) [Java](./java/384-ShuffleAnArray.java)|:boom::boom::boom::boom::boom:|Concept | 21 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
