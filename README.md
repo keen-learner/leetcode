@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 192)
+# Leetcode Algo Problem Solutions (Count = 193)
 
 # Index
   01. [Math (Count = 05)](#01-math) 
@@ -9,7 +9,7 @@
   06. [Trees (Count = 35)](#06-trees) 
   07. [Search, Binary Search (Count = 12)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 07)](#08-queue-priority-queue) 
-  09. [DFS, Recursion (Count = 19)](#09-dfs-recursion) 
+  09. [DFS, Recursion (Count = 20)](#09-dfs-recursion) 
   10. [Strings (Count = 18)](#10-strings) 
   11. [Dynamic Programming (Count = 14)](#11-dynamic-programming) 
   12. [Greedy (Count = 03)](#12-greedy) 
@@ -236,6 +236,7 @@
 17 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./377-CombinationSumIV.cpp) [Java](./java/377-CombinationSumIV.java)|:boom::boom::boom::boom::boom:| DP, dfs,recursion,follow up tricky| 10 June 2017 |
 18 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [C++](./77-Combinations.cpp) | dfs,recursion,tricky | | 10 June 2017 |
 19 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C++](./22-GenerateParentheses.cpp) |:boom::boom::boom: | dfs,recursion,tricky| 27 September 2017 |
+20 | 17 | Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](./17-LetterCombinationsOfAPhoneNumber.cpp) |:boom::boom::boom: | dfs,recursion,tricky| 27 September 2017 |
 
 
 ## 10. Strings
