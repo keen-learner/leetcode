@@ -1,8 +1,8 @@
-# Leetcode Algo Problem Solutions (Count = 205)
+# Leetcode Algo Problem Solutions (Count = 206)
 
 # Index
   01. [Math (Count = 12)](#01-math) 
-  02. [Arrays, General (Count = 35)](#02-arrays-general) 
+  02. [Arrays, General (Count = 36)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
@@ -83,6 +83,8 @@
 34 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./309-BestTimeToBuyAndSellStockWithCooldown.cpp) [Java](./java/309-BestTimeToBuyAndSellStockWithCooldown.java)|:boom::boom::boom::boom::boom:|with cooldown | 16 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 35 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C++](./384-ShuffleAnArray.cpp) [Java](./java/384-ShuffleAnArray.java)|:boom::boom::boom::boom::boom:|Concept | 21 September 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+36 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/) | [C++](./293-FlipGame.cpp) |:boom::boom::boom:| paid | 28 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
