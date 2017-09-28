@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 197)
+# Leetcode Algo Problem Solutions (Count = 198)
 
 # Index
   01. [Math (Count = 08)](#01-math) 
@@ -7,7 +7,7 @@
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
   06. [Trees (Count = 36)](#06-trees) 
-  07. [Search, Binary Search (Count = 12)](#07-search-binary-search) 
+  07. [Search, Binary Search (Count = 13)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 07)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 20)](#09-dfs-recursion) 
   10. [Strings (Count = 18)](#10-strings) 
@@ -201,6 +201,7 @@
 10 | 04 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./4-MedianOfTwoSortedArrays.cpp) | Binary Search | | 9 July 2017 |
 11 | 34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [C++](./34-SearchForARange.cpp) |:boom::boom::boom::boom::boom:| Binary Search, own lower bound and upper bound implementation| 11 September 2017 |
 12 | 658 | [Find K Closest Points](https://leetcode.com/problems/find-k-closest-elements/) | [C++](./658-FindKClosestPoints.cpp) |:boom::boom::boom::boom::boom:| Binary Search| 17 September 2017 |
+13 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](./69-Sqrtx.cpp) [Java](./java/69-Sqrtx.java)|:boom::boom::boom::boom::boom:| Binary Search, last of N approach| 27 September 2017 |
 
 
 ## 08. Queue, Priority Queue
