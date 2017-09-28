@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 203)
+# Leetcode Algo Problem Solutions (Count = 204)
 
 # Index
   01. [Math (Count = 11)](#01-math) 
@@ -7,7 +7,7 @@
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
   06. [Trees (Count = 36)](#06-trees) 
-  07. [Search, Binary Search (Count = 14)](#07-search-binary-search) 
+  07. [Search, Binary Search (Count = 15)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 07)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 20)](#09-dfs-recursion) 
   10. [Strings (Count = 20)](#10-strings) 
@@ -206,6 +206,7 @@
 12 | 658 | [Find K Closest Points](https://leetcode.com/problems/find-k-closest-elements/) | [C++](./658-FindKClosestPoints.cpp) |:boom::boom::boom::boom::boom:| Binary Search| 17 September 2017 |
 13 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](./69-Sqrtx.cpp) [Java](./java/69-Sqrtx.java)|:boom::boom::boom::boom::boom:| Binary Search, last of N approach| 27 September 2017 |
 14 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [C++](./374-GuessNumberHigherOrLower.cpp) [Java](./java/374-GuessNumberHigherOrLower.java)|:star::star::star::star::star:| Binary Search, see 375| 28 September 2017 |
+15 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [C++](./367-ValidPerfectSquare.cpp) [Java](./java/367-ValidPerfectSquare.java)|:star::star::star::star::star:| Binary Search, see cases n <0 and =0 and =1| 28 September 2017 |
 
 
 ## 08. Queue, Priority Queue
