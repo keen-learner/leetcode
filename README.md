@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 209)
+# Leetcode Algo Problem Solutions (Count = 210)
 
 # Index
   01. [Math (Count = 12)](#01-math) 
@@ -6,7 +6,7 @@
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
-  06. [Trees (Count = 37)](#06-trees) 
+  06. [Trees (Count = 38)](#06-trees) 
   07. [Search, Binary Search (Count = 15)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 08)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 20)](#09-dfs-recursion) 
@@ -190,6 +190,7 @@
 35 | 272 | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) | [C++](./272-ClosestBinarySearchTreeValueII.cpp) |:boom::boom::boom::boom::boom:|paid| 25 September 2017 |
 36 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) | [C++](./617-MergeTwoBinaryTrees.cpp) [Java](./java/617-MergeTwoBinaryTrees.java)|:star::star::star::star::star:|| 27 September 2017 |
 37 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [C++](./199-BinaryTreeRightSideView.cpp) [Java](./java/199-BinaryTreeRightSideView.java)|:boom::boom::boom:|| 29 September 2017 |
+38 | 366 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) | [C++](./366-FindLeavesOfBinaryTree.cpp) |:boom::boom::boom::boom::boom:|paid| 29 September 2017 |
 
 
 ## 07. Search, Binary Search
