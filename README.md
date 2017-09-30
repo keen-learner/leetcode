@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 217)
+# Leetcode Algo Problem Solutions (Count = 218)
 
 # Index
   01. [Math (Count = 12)](#01-math) 
@@ -10,7 +10,7 @@
   07. [Search, Binary Search (Count = 15)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 08)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 20)](#09-dfs-recursion) 
-  10. [Strings (Count = 24)](#10-strings) 
+  10. [Strings (Count = 25)](#10-strings) 
   11. [Dynamic Programming (Count = 14)](#11-dynamic-programming) 
   12. [Greedy (Count = 03)](#12-greedy) 
   13. [Stack (Count = 05)](#13-stack) 
@@ -291,6 +291,7 @@
 22 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./387-FirstUniqueCharacterInAString.cpp) |:star::star::star::star::star:| | 27 September 2017 |
 23 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./389-FindTheDifference.cpp) |:star::star::star::star::star:| | 27 September 2017 |
 24 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./344-ReverseString.cpp) |:star::star::star:| | 27 September 2017 |
+25 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./345-ReverseVowelsOfAString.cpp) |:star::star::star:| | 27 September 2017 |
 
 
 ## 11. Dynamic Programming
