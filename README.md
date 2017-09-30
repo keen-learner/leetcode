@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 211)
+# Leetcode Algo Problem Solutions (Count = 212)
 
 # Index
   01. [Math (Count = 12)](#01-math) 
@@ -6,7 +6,7 @@
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
-  06. [Trees (Count = 39)](#06-trees) 
+  06. [Trees (Count = 40)](#06-trees) 
   07. [Search, Binary Search (Count = 15)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 08)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 20)](#09-dfs-recursion) 
@@ -192,6 +192,7 @@
 37 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [C++](./199-BinaryTreeRightSideView.cpp) [Java](./java/199-BinaryTreeRightSideView.java)|:boom::boom::boom:| see dfs approach| 29 September 2017 |
 38 | 366 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) | [C++](./366-FindLeavesOfBinaryTree.cpp) |:boom::boom::boom::boom::boom:|paid| 29 September 2017 |
 39 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C++](./543-DiameterOfBinaryTree.cpp) [Java](./java/543-DiameterOfBinaryTree.java)|:boom::boom::boom:|see path sum problems| 29 September 2017 |
+40 | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [C++](./501-FindModeInBinarySearchTree.cpp) [Java](./java/501-FindModeInBinarySearchTree.java)|:boom::boom::boom:|| 29 September 2017 |
 
 
 ## 07. Search, Binary Search
