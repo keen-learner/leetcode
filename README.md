@@ -1,8 +1,8 @@
-# Leetcode Algo Problem Solutions (Count = 218)
+# Leetcode Algo Problem Solutions (Count = 220)
 
 # Index
   01. [Math (Count = 12)](#01-math) 
-  02. [Arrays, General (Count = 36)](#02-arrays-general) 
+  02. [Arrays, General (Count = 38)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
@@ -84,7 +84,10 @@
 -- | -- | -- | -- | -- | -- | -- |
 35 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C++](./384-ShuffleAnArray.cpp) [Java](./java/384-ShuffleAnArray.java)|:boom::boom::boom::boom::boom:|Concept | 21 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-36 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/) | [C++](./293-FlipGame.cpp) |:boom::boom::boom:| paid | 28 September 2017 |
+36 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./349-IntersectionOfTwoArrays.cpp) |:star::star::star:|return common elemnents, hash, 2 pointers and sort approach | 30 September 2017 |
+37 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./350-IntersectionOfTwoArraysII.cpp) |:star::star::star:| | 30 September 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+38 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/) | [C++](./293-FlipGame.cpp) |:boom::boom::boom:| paid | 28 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
