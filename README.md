@@ -1,7 +1,7 @@
-# Leetcode Algo Problem Solutions (Count = 220)
+# Leetcode Algo Problem Solutions (Count = 221)
 
 # Index
-  01. [Math (Count = 12)](#01-math) 
+  01. [Math (Count = 13)](#01-math) 
   02. [Arrays, General (Count = 38)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
@@ -26,13 +26,14 @@
 03 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./13-RomanToInteger.cpp) [Java](./java/13-RomanToInteger.java)|  | | 16 July 2017 |
 04 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](./190-ReverseBits.cpp) [Java](./java/190-ReverseBits.java) |  | | 27 July 2017 |
 05 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./9-PalindromeNumber.cpp) | good | | 24 August 2017 |
-06 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./29-DivideTwoIntegers.cpp) [Java](./java/29-DivideTwoIntegers.java)| :boom::boom::boom::boom::boom:|tricky | 27 September 2017 |
+06 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./29-DivideTwoIntegers.cpp) [Java](./java/29-DivideTwoIntegers.java)| :boom::boom::boom::boom::boom:|tricky, see 371 | 27 September 2017 |
 07 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](./43-MultiplyStrings.cpp) [Java](./java/43-MultiplyStrings.java)| :boom::boom::boom::boom::boom:|tricky | 27 September 2017 |
 08 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [C++](./66-PlusOne.cpp) [Java](./java/66-PlusOne.java)| :star::star::star::star::star:|tricky | 27 September 2017 |
 09 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./191-NumberOf1Bits.cpp) [Java](./java/191-NumberOf1Bits.java)| :star::star::star::star::star:| | 27 September 2017 |
 10 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](./461-HammingDistance.cpp) [Java](./java/461-HammingDistance.java)| :star::star::star::star::star:| | 28 September 2017 |
 11 | 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [C++](./477-TotalHammingDistance.cpp) [Java](./java/477-TotalHammingDistance.java)|:boom::boom::boom:|nice approach | 28 September 2017 |
 12 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [C++](./633-SumOfSquareNumbers.cpp) [Java](./java/633-SumOfSquareNumbers.java)|:star::star::star::star::star:|cases less 0/equal 0/1/2 | 28 September 2017 |
+13 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./371-SumOfTwoIntegers.cpp) |:boom::boom::boom:|[https://discuss.leetcode.com/topic/50315/a-summary-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently], see 29 | 30 September 2017 |
  
 
 ## 02. Arrays, General
