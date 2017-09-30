@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 214)
+# Leetcode Algo Problem Solutions (Count = 215)
 
 # Index
   01. [Math (Count = 12)](#01-math) 
@@ -10,7 +10,7 @@
   07. [Search, Binary Search (Count = 15)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 08)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 20)](#09-dfs-recursion) 
-  10. [Strings (Count = 21)](#10-strings) 
+  10. [Strings (Count = 22)](#10-strings) 
   11. [Dynamic Programming (Count = 14)](#11-dynamic-programming) 
   12. [Greedy (Count = 03)](#12-greedy) 
   13. [Stack (Count = 05)](#13-stack) 
@@ -288,6 +288,7 @@
 19 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./290-WordPattern.cpp) [Java](./java/290-WordPattern.java)|:boom::boom::boom::boom::boom:| | 27 September 2017 |
 20 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./125-ValidPalindrome.cpp) [Java](./java/125-ValidPalindrome.java)|:boom::boom::boom:| | 27 September 2017 |
 21 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./242-ValidAnagram.cpp) |:star::star::star::star::star:|hash and sort approach | 27 September 2017 |
+22 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./387-FirstUniqueCharacterInAString.cpp) |:star::star::star::star::star:| | 27 September 2017 |
 
 
 ## 11. Dynamic Programming
