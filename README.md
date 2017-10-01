@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 221)
+# Leetcode Algo Problem Solutions (Count = 222)
 
 # Index
   01. [Math (Count = 13)](#01-math) 
@@ -7,7 +7,7 @@
   04. [Sort (Count = 06)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
   06. [Trees (Count = 42)](#06-trees) 
-  07. [Search, Binary Search (Count = 15)](#07-search-binary-search) 
+  07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 08)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 20)](#09-dfs-recursion) 
   10. [Strings (Count = 25)](#10-strings) 
@@ -220,6 +220,7 @@
 13 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](./69-Sqrtx.cpp) [Java](./java/69-Sqrtx.java)|:boom::boom::boom::boom::boom:| Binary Search, last of N approach| 27 September 2017 |
 14 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [C++](./374-GuessNumberHigherOrLower.cpp) [Java](./java/374-GuessNumberHigherOrLower.java)|:star::star::star::star::star:| Binary Search, see 375| 28 September 2017 |
 15 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [C++](./367-ValidPerfectSquare.cpp) [Java](./java/367-ValidPerfectSquare.java)|:star::star::star::star::star:| Binary Search, see cases n is 0 and is 0 and is 1| 28 September 2017 |
+16 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [C++](./540-SingleElementInASortedArray.cpp) [Java](./java/540-SingleElementInASortedArray.java)|:boom::boom::boom:| Binary Search, tricky, see single number problems| 30 September 2017 |
 
 
 ## 08. Queue, Priority Queue
