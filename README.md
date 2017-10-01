@@ -1,7 +1,7 @@
-# Leetcode Algo Problem Solutions (Count = 222)
+# Leetcode Algo Problem Solutions (Count = 223)
 
 # Index
-  01. [Math (Count = 13)](#01-math) 
+  01. [Math (Count = 14)](#01-math) 
   02. [Arrays, General (Count = 38)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 06)](#04-sort) 
@@ -34,6 +34,7 @@
 11 | 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [C++](./477-TotalHammingDistance.cpp) [Java](./java/477-TotalHammingDistance.java)|:boom::boom::boom:|nice approach | 28 September 2017 |
 12 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [C++](./633-SumOfSquareNumbers.cpp) [Java](./java/633-SumOfSquareNumbers.java)|:star::star::star::star::star:|cases less 0/equal 0/1/2 | 28 September 2017 |
 13 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./371-SumOfTwoIntegers.cpp) |:boom::boom::boom:|[https://discuss.leetcode.com/topic/50315/a-summary-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently], see 29 | 30 September 2017 |
+14 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C++](./136-SingleNumber.cpp) |:star::star::star:| | 30 September 2017 |
  
 
 ## 02. Arrays, General
