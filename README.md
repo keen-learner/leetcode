@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 226)
+# Leetcode Algo Problem Solutions (Count = 227)
 
 # Index
   01. [Math (Count = 14)](#01-math) 
@@ -15,7 +15,7 @@
   12. [Greedy (Count = 03)](#12-greedy) 
   13. [Stack (Count = 05)](#13-stack) 
   14. [BFS (Count = 03)](#14-bfs-graph) 
-  15. [Miscellaneous (Count = 01)](#15-miscellaneous) 
+  15. [Miscellaneous (Count = 02)](#15-miscellaneous) 
 
 ## 01. Math
 
@@ -360,5 +360,6 @@
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [C++](./146-LRUCache.cpp) |:boom::boom::boom::boom::boom: || 30 August 2017 |
+02 | 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++](./315-CountOfSmallerNumbersAfterSelf.cpp) [Java](./java/315-CountOfSmallerNumbersAfterSelf.java)|:boom::boom::boom::boom::boom: |see BST, BIT approach too| 30 September 2017 |
 
 

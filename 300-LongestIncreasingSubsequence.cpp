@@ -10,8 +10,6 @@ Your algorithm should run in O(n2) complexity.
 
 Follow up: Could you improve it to O(n log n) time complexity?
 
-Credits:
-Special thanks to @pbrother for adding this problem and creating all test cases.
 
 */
 
