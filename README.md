@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 232)
+# Leetcode Algo Problem Solutions (Count = 233)
 
 # Index
   01. [Math (Count = 14)](#01-math) 
@@ -11,7 +11,7 @@
   08. [Queue, Priority Queue (Count = 08)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 20)](#09-dfs-recursion) 
   10. [Strings (Count = 25)](#10-strings) 
-  11. [Dynamic Programming (Count = 17)](#11-dynamic-programming) 
+  11. [Dynamic Programming (Count = 18)](#11-dynamic-programming) 
   12. [Greedy (Count = 03)](#12-greedy) 
   13. [Stack (Count = 05)](#13-stack) 
   14. [BFS (Count = 03)](#14-bfs-graph) 
@@ -326,7 +326,8 @@
 15 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [C++](./62-UniquePaths.cpp) |:boom::boom::boom:|| 3 October 2017 |
 16 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C++](./63-UniquePathsII.cpp) |:boom::boom::boom:|| 3 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-17 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [C++](./221-MaximalSquare.cpp) |:boom::boom::boom:|| 5 October 2017 |
+17 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [C++](./221-MaximalSquare.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
+18 | 84 | [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./84-LargestRectangleInHistogram.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
