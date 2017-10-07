@@ -1,8 +1,8 @@
-# Leetcode Algo Problem Solutions (Count = 240)
+# Leetcode Algo Problem Solutions (Count = 241)
 
 # Index
   01. [Math (Count = 14)](#01-math) 
-  02. [Arrays, General (Count = 40)](#02-arrays-general) 
+  02. [Arrays, General (Count = 41)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 07)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
@@ -92,6 +92,8 @@
 39 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./350-IntersectionOfTwoArraysII.cpp) |:star::star::star:| | 30 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 40 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/) | [C++](./293-FlipGame.cpp) |:boom::boom::boom:| paid | 28 September 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+41 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./560-SubarraySumEqualsK.cpp) |:boom::boom::boom:|  | 6 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
