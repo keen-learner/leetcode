@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 234)
+# Leetcode Algo Problem Solutions (Count = 235)
 
 # Index
   01. [Math (Count = 14)](#01-math) 
@@ -14,7 +14,7 @@
   11. [Dynamic Programming (Count = 19)](#11-dynamic-programming) 
   12. [Greedy (Count = 03)](#12-greedy) 
   13. [Stack (Count = 05)](#13-stack) 
-  14. [BFS (Count = 03)](#14-bfs-graph) 
+  14. [BFS, Graph (Count = 04)](#14-bfs-graph) 
   15. [Miscellaneous (Count = 04)](#15-miscellaneous) 
 
 ## 01. Math
@@ -329,6 +329,9 @@
 17 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [C++](./221-MaximalSquare.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
 18 | 84 | [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./84-LargestRectangleInHistogram.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
 19 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [C++](./85-MaximalRectangle.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
+19 | 0 | [Maximum sum rectangle in a 2D matrix](http://www.geeksforgeeks.org/dynamic-programming-set-27-max-sum-rectangle-in-a-2d-matrix/) | [C++](./0-MaximumSumRectangleIn2DMatrix.cpp) |:boom::boom::boom::boom::boom:|Dynamic Programming, Kadane Algo| 5 October 2017 |
+19 | 0 | [Largest rectangular sub-matrix whose sum is 0](http://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/) | [C++](./0-LargestRectangularSubMatrixWhoseSumIs0.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
+19 | 0 | [Largest area rectangular sub-matrix with equal number of 1’s and 0’s](http://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/) | [C++](./0-LargestRectangularSubMatrixWithEqual1And0.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
@@ -359,6 +362,7 @@
 01 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [C++](./207-CourseSchedule.cpp) |  | | 14 August 2017 |
 02 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [C++](./210-CourseScheduleII.cpp) [Java](./java/210-CourseScheduleII.java) | :boom::boom::boom::boom::boom: | | 14 August 2017 |
 03 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [C++](./133-CloneGraph.cpp) [Java](./java/133-CloneGraph.java) | :boom::boom::boom::boom::boom: | | 17 September 2017 |
+04 | 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [C++](./361-GraphValidTree.cpp) | :boom::boom::boom::boom::boom: | | 6 October 2017 |
 
 
 
