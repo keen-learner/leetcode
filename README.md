@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 239)
+# Leetcode Algo Problem Solutions (Count = 240)
 
 # Index
   01. [Math (Count = 14)](#01-math) 
@@ -13,7 +13,7 @@
   10. [Strings (Count = 25)](#10-strings) 
   11. [Dynamic Programming (Count = 19)](#11-dynamic-programming) 
   12. [Greedy (Count = 03)](#12-greedy) 
-  13. [Stack (Count = 05)](#13-stack) 
+  13. [Stack (Count = 06)](#13-stack) 
   14. [BFS, Graph, Union Find (Count = 07)](#14-bfs-graph) 
   15. [Miscellaneous (Count = 04)](#15-miscellaneous) 
 
@@ -354,6 +354,7 @@
 03 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./20-ValidParentheses.cpp) [Java](./java/20-ValidParentheses.java) |  | | 11 August 2017 |
 04 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [C++](./32-LongestValidParentheses.cpp) | :boom::boom::boom::boom::boom: | | 23 August 2017 |
 05 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [C++](./71-SimplifyPath.cpp) [Java](./java/71-SimplifyPath.java)|:boom::boom::boom::boom::boom:| | 16 September 2017 |
+06 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](./232-ImplementQueueUsingStacks.cpp) |:boom::boom::boom:| | 6 October 2017 |
 
 
 ## 14. BFS, graph, Union Find 
