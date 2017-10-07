@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 236)
+# Leetcode Algo Problem Solutions (Count = 237)
 
 # Index
   01. [Math (Count = 14)](#01-math) 
@@ -14,7 +14,7 @@
   11. [Dynamic Programming (Count = 19)](#11-dynamic-programming) 
   12. [Greedy (Count = 03)](#12-greedy) 
   13. [Stack (Count = 05)](#13-stack) 
-  14. [BFS, Graph, Union Find (Count = 05)](#14-bfs-graph) 
+  14. [BFS, Graph, Union Find (Count = 06)](#14-bfs-graph) 
   15. [Miscellaneous (Count = 04)](#15-miscellaneous) 
 
 ## 01. Math
@@ -363,7 +363,8 @@
 02 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [C++](./210-CourseScheduleII.cpp) [Java](./java/210-CourseScheduleII.java) | :boom::boom::boom::boom::boom: | | 14 August 2017 |
 03 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [C++](./133-CloneGraph.cpp) [Java](./java/133-CloneGraph.java) | :boom::boom::boom::boom::boom: | | 17 September 2017 |
 04 | 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [C++](./361-GraphValidTree.cpp) | :boom::boom::boom::boom::boom: | | 6 October 2017 |
-05 | 547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) | [C++](./547-FriendCircles.cpp) | :boom::boom::boom::boom::boom: | | 6 October 2017 |
+05 | 547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) | [C++](./547-FriendCircles.cpp) [Java](./java/547-FriendCircles.java)| :boom::boom::boom::boom::boom: | | 6 October 2017 |
+06 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./200-NumberOfIslands.cpp) | :boom::boom::boom::boom::boom: | | 6 October 2017 |
 
 
 
