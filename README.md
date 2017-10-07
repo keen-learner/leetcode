@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 237)
+# Leetcode Algo Problem Solutions (Count = 238)
 
 # Index
   01. [Math (Count = 14)](#01-math) 
@@ -14,7 +14,7 @@
   11. [Dynamic Programming (Count = 19)](#11-dynamic-programming) 
   12. [Greedy (Count = 03)](#12-greedy) 
   13. [Stack (Count = 05)](#13-stack) 
-  14. [BFS, Graph, Union Find (Count = 06)](#14-bfs-graph) 
+  14. [BFS, Graph, Union Find (Count = 07)](#14-bfs-graph) 
   15. [Miscellaneous (Count = 04)](#15-miscellaneous) 
 
 ## 01. Math
@@ -365,6 +365,7 @@
 04 | 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [C++](./361-GraphValidTree.cpp) | :boom::boom::boom::boom::boom: | | 6 October 2017 |
 05 | 547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) | [C++](./547-FriendCircles.cpp) [Java](./java/547-FriendCircles.java)| :boom::boom::boom::boom::boom: | | 6 October 2017 |
 06 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./200-NumberOfIslands.cpp) | :boom::boom::boom::boom::boom: | | 6 October 2017 |
+07 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C++](./79-WordSearch.cpp) | :boom::boom::boom::boom::boom: | | 7 October 2017 |
 
 
 
