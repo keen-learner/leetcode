@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 238)
+# Leetcode Algo Problem Solutions (Count = 239)
 
 # Index
   01. [Math (Count = 14)](#01-math) 
@@ -8,7 +8,7 @@
   05. [LinkedList (Count = 22)](#05-linkedlist) 
   06. [Trees (Count = 42)](#06-trees) 
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
-  08. [Queue, Priority Queue (Count = 08)](#08-queue-priority-queue) 
+  08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 20)](#09-dfs-recursion) 
   10. [Strings (Count = 25)](#10-strings) 
   11. [Dynamic Programming (Count = 19)](#11-dynamic-programming) 
@@ -239,6 +239,7 @@
 06 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [C++](./346-MovingAverageFromDataStream.cpp) | Queue | | 25 June 2017 |
 07 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./239-SlidingWindowMaximum.cpp) | Priority Q, Multiset | | 25 June 2017 |
 08 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [C++](./373-FindKPairsWithSmallestSums.cpp) | :boom::boom::boom::boom::boom: | Priority Q, very tricky| 29 September 2017 |
+09 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [C++](./225-ImplementStackUsingQueues.cpp) | :boom::boom::boom::boom::boom: | | 6 October 2017 |
 
 
 ## 09. DFS, recursion
