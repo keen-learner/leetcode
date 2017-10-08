@@ -1,8 +1,8 @@
-# Leetcode Algo Problem Solutions (Count = 242)
+# Leetcode Algo Problem Solutions (Count = 243)
 
 # Index
   01. [Math (Count = 14)](#01-math) 
-  02. [Arrays, General (Count = 42)](#02-arrays-general) 
+  02. [Arrays, General (Count = 43)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 07)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
@@ -95,6 +95,7 @@
 -- | -- | -- | -- | -- | -- | -- |
 41 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./560-SubarraySumEqualsK.cpp) |:boom::boom::boom:|  | 6 October 2017 |
 42 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./523-ContinuousSubarraySum.cpp) |:boom::boom::boom:|  | 6 October 2017 |
+43 | 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [C++](./325-MaximumSizeSubarraySumEqualsK.cpp) |:boom::boom::boom::boom::boom:|  | 6 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
