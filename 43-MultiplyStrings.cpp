@@ -15,23 +15,44 @@ class Solution {
 public:
   string multiply(string num1, string num2) {
     int M = num1.size();
-    int N = num2.size();
-    int base = 10;
+        int N = num2.size();
+
     string result(M + N, '0');
-    
     for (int i = M - 1; i >= 0; --i) {
       int carry = 0;
-      int x = num1[i] - '0';
+      for (int j = N - 1; j >= 0; --j) {
+                int temp = (result[i+j+1]-'0') + (num1[i]-'0')*(num2[j]-'0') + carry;
+        carry = temp / 10;
+        result[i + j + 1] = '0' + (temp%10);
+      }
+      result[i] += carry;
+    }
+    while (!result.empty() && result.front() == '0') {
+      result.erase(result.begin());
+    }
+    return result.empty() ? string("0") : result;
+  }
+};
+
+class Solution1 {
+public:
+  string multiply(string num1, string num2) {
+    int M = num1.size();
+        int N = num2.size();
+        int base = 10;
+    string result(M + N, '0');
+    for (int i = M - 1; i >= 0; --i) {
+      int carry = 0;
+            int x = num1[i] - '0';
       for (int j = N - 1; j >= 0; --j) {
         int y = num2[j] - '0';
-        int z = x * y + carry + result[i + j + 1] - '0';
+                int z = x * y + carry + result[i + j + 1] - '0';
         carry = z / base;
         z %= base;
         result[i + j + 1] = '0' + z;
       }
       result[i] += carry;
     }
-    
     while (!result.empty() && result.front() == '0') {
       result.erase(result.begin());
     }
