@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 243)
+# Leetcode Algo Problem Solutions (Count = 244)
 
 # Index
   01. [Math (Count = 14)](#01-math) 
@@ -9,7 +9,7 @@
   06. [Trees (Count = 42)](#06-trees) 
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue) 
-  09. [DFS, Recursion (Count = 20)](#09-dfs-recursion) 
+  09. [DFS, Recursion (Count = 21)](#09-dfs-recursion) 
   10. [Strings (Count = 25)](#10-strings) 
   11. [Dynamic Programming (Count = 19)](#11-dynamic-programming) 
   12. [Greedy (Count = 03)](#12-greedy) 
@@ -222,7 +222,7 @@
 07 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [C++](./154-FindMinimumInRotatedSortedArrayII.cpp) [Java](./java/154-FindMinimumInRotatedSortedArrayII.java)|:boom::boom::boom::boom::boom:| Binary Search| 22 September 2017 |
 08 | 74 | [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [C++](./74-SearchA2dMatrix.cpp) [Java](./java/74-SearchA2dMatrix.java) |:boom::boom::boom::boom::boom:|Special Search| 23 June 2017 |
 09 | 240 | [Search A 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [C++](./240-SearchA2dMatrixII.cpp) [Java](./java/240-SearchA2dMatrixII.java)|:boom::boom::boom::boom::boom:|Special Search| 23 June 2017 |
-10 | 04 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./4-MedianOfTwoSortedArrays.cpp) | Binary Search | | 9 July 2017 |
+10 | 04 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./4-MedianOfTwoSortedArrays.cpp) |:boom::boom::boom::boom::boom:| Binary Search| 9 July 2017 |
 11 | 34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [C++](./34-SearchForARange.cpp) |:boom::boom::boom::boom::boom:| Binary Search, own lower bound and upper bound implementation| 11 September 2017 |
 12 | 658 | [Find K Closest Points](https://leetcode.com/problems/find-k-closest-elements/) | [C++](./658-FindKClosestPoints.cpp) |:boom::boom::boom::boom::boom:| Binary Search| 17 September 2017 |
 13 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](./69-Sqrtx.cpp) [Java](./java/69-Sqrtx.java)|:boom::boom::boom::boom::boom:| Binary Search, last of N approach| 27 September 2017 |
@@ -271,6 +271,7 @@
 18 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [C++](./77-Combinations.cpp) | dfs,recursion,tricky | | 10 June 2017 |
 19 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C++](./22-GenerateParentheses.cpp) |:boom::boom::boom: | dfs,recursion,tricky| 27 September 2017 |
 20 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](./17-LetterCombinationsOfAPhoneNumber.cpp) |:boom::boom::boom: | dfs,recursion,tricky| 27 September 2017 |
+21 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [C++](./494-TargetSum.cpp) |:boom::boom::boom: | dfs,recursion, DP approach -subset sum also| 11 October 2017 |
 
 
 ## 10. Strings
