@@ -382,7 +382,7 @@
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [C++](./146-LRUCache.cpp) |:boom::boom::boom::boom::boom: || 30 August 2017 |
-02 | 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++](./315-CountOfSmallerNumbersAfterSelf.cpp) [Java](./java/315-CountOfSmallerNumbersAfterSelf.java)|:boom::boom::boom::boom::boom: |see BST, BIT approach too| 30 September 2017 |
+02 | 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++](./315-CountOfSmallerNumbersAfterSelf.cpp) [Java](./java/315-CountOfSmallerNumbersAfterSelf.java)|:boom::boom::boom::boom::boom: |see BST, BIT approach too, count inversions| 30 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 03 | 208 | [ Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [C++](./208-ImplementTrie.cpp) [Java](./java/208-ImplementTrie.java)|:boom::boom::boom::boom::boom: |Trie| 3 October 2017 |
 04 | 211 | [ Add and Search Word - Data structure design ](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [C++](./211-AddAndSearchWord.cpp) [Java](./java/211-AddAndSearchWord.java)|:boom::boom::boom::boom::boom: |Trie| 5 October 2017 |
