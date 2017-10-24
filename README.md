@@ -1,4 +1,5 @@
 # Leetcode Algo Problem Solutions (Count = 244)
+# Leetcode SQL Problem Solutions (Count = 1)
 
 # Index
   01. [Math (Count = 14)](#01-math) 
@@ -16,6 +17,7 @@
   13. [Stack (Count = 06)](#13-stack) 
   14. [BFS, Graph, Union Find (Count = 07)](#14-bfs-graph) 
   15. [Miscellaneous (Count = 04)](#15-miscellaneous) 
+  16. [SQL (Count = 01)](#16-sql) 
 
 ## 01. Math
 
@@ -386,6 +388,14 @@
 -- | -- | -- | -- | -- | -- | -- |
 03 | 208 | [ Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [C++](./208-ImplementTrie.cpp) [Java](./java/208-ImplementTrie.java)|:boom::boom::boom::boom::boom: |Trie| 3 October 2017 |
 04 | 211 | [ Add and Search Word - Data structure design ](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [C++](./211-AddAndSearchWord.cpp) [Java](./java/211-AddAndSearchWord.java)|:boom::boom::boom::boom::boom: |Trie| 5 October 2017 |
+
+
+
+## 16. SQL 
+
+|  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
+|-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
+01 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](./mysql/175-CombineTwoTables.sql) | :star::star::star:|| 23 October 2017 |
 
 
 
