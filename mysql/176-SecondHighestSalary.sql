@@ -62,7 +62,9 @@ This gives error for 1 row table
 
 /*
 # SOLUTION 3
-# NOTE: LIMIT 1,1 == LIMIT 1 OFFSET 1
+# NOTE: LIMIT 1,1 == With two arguments, the first argument specifies the offset 
+#                    of the first row to return, and 
+#                    the second specifies the maximum number of rows to return. 
 
 SELECT
     (SELECT DISTINCT Salary
