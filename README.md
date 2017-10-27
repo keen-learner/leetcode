@@ -1,11 +1,11 @@
-# Leetcode Algo Problem Solutions (Count = 245)
+# Leetcode Algo Problem Solutions (Count = 246)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
   01. [Math (Count = 14)](#01-math) 
   02. [Arrays, General (Count = 43)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
-  04. [Sort (Count = 07)](#04-sort) 
+  04. [Sort (Count = 08)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
   06. [Trees (Count = 42)](#06-trees) 
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
@@ -127,6 +127,7 @@
 05 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [C++](./253-MeetingRoomsII.cpp) | :boom::boom::boom::boom::boom:|custom sorting | 16 July 2017 |
 06 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./165-CompareVersionNumbers.cpp) [Java](./java/165-CompareVersionNumbers.java)| | good sorting practice  | 1 August 2017 |
 07 | 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./406-QueueReconstructionByHeight.cpp) | :boom::boom::boom::boom::boom:| see effecient algo  | 30 September 2017 |
+08 | 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | [C++](./280-WiggleSort.cpp) | :boom::boom::boom:|paid | 30 September 2017 |
 
 
 ## 05. LinkedList
