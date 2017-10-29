@@ -1,9 +1,9 @@
-# Leetcode Algo Problem Solutions (Count = 249)
+# Leetcode Algo Problem Solutions (Count = 250)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
   01. [Math (Count = 14)](#01-math) 
-  02. [Arrays, General (Count = 44)](#02-arrays-general) 
+  02. [Arrays, General (Count = 45)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 09)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
@@ -99,6 +99,8 @@
 42 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./523-ContinuousSubarraySum.cpp) |:boom::boom::boom:| see 416 | 6 October 2017 |
 43 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [C++](./525-ContiguousArray.cpp) [Java](./java/525-ContiguousArray.java)|:boom::boom::boom:| | 26 October 2017 |
 44 | 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [C++](./325-MaximumSizeSubarraySumEqualsK.cpp) |:boom::boom::boom::boom::boom:|  | 6 October 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+45 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [C++](./581-ShortestUnsortedContinuousSubarray.cpp) [Java](./java/581-ShortestUnsortedContinuousSubarray.java)|:boom::boom::boom::boom::boom:|tricky with O(1) space | 27 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
