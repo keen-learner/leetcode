@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 251)
+# Leetcode Algo Problem Solutions (Count = 252)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -12,7 +12,7 @@
   08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 21)](#09-dfs-recursion) 
   10. [Strings (Count = 26)](#10-strings) 
-  11. [Dynamic Programming (Count = 20)](#11-dynamic-programming) 
+  11. [Dynamic Programming (Count = 21)](#11-dynamic-programming) 
   12. [Greedy (Count = 03)](#12-greedy) 
   13. [Stack (Count = 06)](#13-stack) 
   14. [BFS, Graph, Union Find (Count = 07)](#14-bfs-graph) 
@@ -348,7 +348,9 @@
 19 | 0 | [Largest rectangular sub-matrix whose sum is 0](http://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/) | [C++](./0-LargestRectangularSubMatrixWhoseSumIs0.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
 19 | 0 | [Largest area rectangular sub-matrix with equal number of 1’s and 0’s](http://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/) | [C++](./0-LargestRectangularSubMatrixWithEqual1And0.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-20 | 329 | [Longest Increasing Path in a Matrix](http://www.geeksforgeeks.org/longest-increasing-path-in-a-matrix/) | [C++](./329-LongestIncreasingPathInAMatrix.cpp) [Java](./java/329-LongestIncreasingPathInAMatrix.java)|:boom::boom::boom::boom::boom:|see 79| 26 October 2017 |
+20 | 329 | [Longest Increasing Path in a Matrix](http://www.leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./329-LongestIncreasingPathInAMatrix.cpp) [Java](./java/329-LongestIncreasingPathInAMatrix.java)|:boom::boom::boom::boom::boom:|see 79| 26 October 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+21 | 279 | [Perfect Squares](http://www.leetcode.com/problems/perfect-squares/) | [C++](./279-PerfectSquares.cpp) [Java](./java/279-PerfectSquares.java)|:boom::boom::boom::boom::boom:|see BFS, other DP, Math solutions| 29 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
