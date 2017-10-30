@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 253)
+# Leetcode Algo Problem Solutions (Count = 254)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -10,12 +10,12 @@
   06. [Trees (Count = 42)](#06-trees) 
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue) 
-  09. [DFS, Recursion (Count = 21)](#09-dfs-recursion) 
+  09. [DFS, Recursion (Count = 23)](#09-dfs-recursion) 
   10. [Strings (Count = 26)](#10-strings) 
   11. [Dynamic Programming (Count = 21)](#11-dynamic-programming) 
   12. [Greedy (Count = 03)](#12-greedy) 
   13. [Stack (Count = 06)](#13-stack) 
-  14. [BFS, Graph, Union Find (Count = 07)](#14-bfs-graph) 
+  14. [BFS, Graph, Union Find (Count = 06)](#14-bfs-graph) 
   15. [Miscellaneous (Count = 04)](#15-miscellaneous) 
   16. [SQL (Count = 03)](#16-sql) 
 
@@ -278,9 +278,14 @@
 16 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [C++](./216-CombinationSumIII.cpp) [Java](./java/216-CombinationSumIII.java)|:star::star::star::star::star:| dfs,recursion,tricky| 10 June 2017 |
 17 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./377-CombinationSumIV.cpp) [Java](./java/377-CombinationSumIV.java)|:boom::boom::boom::boom::boom:| DP, dfs,recursion,follow up tricky| 10 June 2017 |
 18 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [C++](./77-Combinations.cpp) | dfs,recursion,tricky | | 10 June 2017 |
+-- | -- | -- | -- | -- | -- | -- |
 19 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C++](./22-GenerateParentheses.cpp) |:boom::boom::boom: | dfs,recursion,tricky| 27 September 2017 |
 20 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](./17-LetterCombinationsOfAPhoneNumber.cpp) |:boom::boom::boom: | dfs,recursion,tricky| 27 September 2017 |
 21 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [C++](./494-TargetSum.cpp) |:boom::boom::boom: | dfs,recursion, DP approach -subset sum also| 11 October 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+22 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./200-NumberOfIslands.cpp) | :boom::boom::boom::boom::boom: | | 6 October 2017 |
+23 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [C++](./695-MaxAreaOfIsland.cpp) [Java](./java/695-MaxAreaOfIsland.java)| :star::star::star::star::star:| | 29 October 2017 |
+-- | -- | -- | -- | -- | -- | -- |
 
 
 ## 10. Strings
@@ -386,8 +391,7 @@
 04 | 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [C++](./261-GraphValidTree.cpp) | :boom::boom::boom::boom::boom: | | 6 October 2017 |
 04 | 0 | [Detect Cycle in a Graph](http://www.geeksforgeeks.org/detect-cycle-in-a-graph/) | [C++](./0-DetectCycleInGraph.cpp) | :boom::boom::boom::boom::boom: | | 15 October 2017 |
 05 | 547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) | [C++](./547-FriendCircles.cpp) [Java](./java/547-FriendCircles.java)| :boom::boom::boom::boom::boom: | | 6 October 2017 |
-06 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./200-NumberOfIslands.cpp) | :boom::boom::boom::boom::boom: | | 6 October 2017 |
-07 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C++](./79-WordSearch.cpp) | :boom::boom::boom::boom::boom: | | 7 October 2017 |
+06 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C++](./79-WordSearch.cpp) | :boom::boom::boom::boom::boom: | | 7 October 2017 |
 
 
 
