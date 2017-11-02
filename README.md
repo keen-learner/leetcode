@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 255)
+# Leetcode Algo Problem Solutions (Count = 256)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -7,7 +7,7 @@
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 09)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
-  06. [Trees (Count = 42)](#06-trees) 
+  06. [Trees (Count = 43)](#06-trees) 
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 23)](#09-dfs-recursion) 
@@ -216,6 +216,9 @@
 40 | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [C++](./501-FindModeInBinarySearchTree.cpp) [Java](./java/501-FindModeInBinarySearchTree.java)|:boom::boom::boom:|| 29 September 2017 |
 41 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [C++](./538-ConvertBSTToGreaterTree.cpp) [Java](./java/538-ConvertBSTToGreaterTree.java)|:star::star::star::star::star:|| 29 September 2017 |
 42 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [C++](./404-SumOfLeftLeaves.cpp) [Java](./java/404-SumOfLeftLeaves.java)|:star::star::star::star::star:|| 29 September 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+43 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [C++](./572-SubtreeOfAnotherTree.cpp) [Java](./java/572-SubtreeOfAnotherTree.java)|:star::star::star::star::star:|| 01 November 2017 |
+-- | -- | -- | -- | -- | -- | -- |
 
 
 ## 07. Search, Binary Search
