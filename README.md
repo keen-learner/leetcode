@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 254)
+# Leetcode Algo Problem Solutions (Count = 255)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -13,7 +13,7 @@
   09. [DFS, Recursion (Count = 23)](#09-dfs-recursion) 
   10. [Strings (Count = 26)](#10-strings) 
   11. [Dynamic Programming (Count = 21)](#11-dynamic-programming) 
-  12. [Greedy (Count = 03)](#12-greedy) 
+  12. [Greedy (Count = 04)](#12-greedy) 
   13. [Stack (Count = 06)](#13-stack) 
   14. [BFS, Graph, Union Find (Count = 06)](#14-bfs-graph) 
   15. [Miscellaneous (Count = 04)](#15-miscellaneous) 
@@ -366,7 +366,8 @@
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./11-ContainerWithMostWater.cpp) | greedy,nice | | 18 July 2017 |
 02 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./42-TrappingRainWater.cpp) | greedy,difficult | | 18 July 2017 |
-03 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./55-JumpGame.cpp) | greedy,tricky | | 25 July 2017 |
+03 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./55-JumpGame.cpp) |:boom::boom::boom:| | 25 July 2017 |
+04 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [C++](./134-GasStation.cpp) [Java](./java/134-GasStation.java)|:boom::boom::boom::boom::boom:| | 01 November 2017 |
 
 
 ## 13. Stack
