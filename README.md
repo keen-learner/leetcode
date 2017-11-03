@@ -1,9 +1,9 @@
-# Leetcode Algo Problem Solutions (Count = 258)
+# Leetcode Algo Problem Solutions (Count = 259)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
   01. [Math (Count = 15)](#01-math) 
-  02. [Arrays, General (Count = 46)](#02-arrays-general) 
+  02. [Arrays, General (Count = 47)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
   04. [Sort (Count = 09)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
@@ -103,6 +103,7 @@
 45 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [C++](./581-ShortestUnsortedContinuousSubarray.cpp) [Java](./java/581-ShortestUnsortedContinuousSubarray.java)|:boom::boom::boom::boom::boom:|tricky with O(1) space | 27 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 46 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./463-IslandPerimeter.cpp) [Java](./java/463-IslandPerimeter.java)|:boom::boom::boom:| | 29 October 2017 |
+47 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [C++](./277-FindTheCelebrity.cpp) |:boom::boom::boom:| | 2 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
