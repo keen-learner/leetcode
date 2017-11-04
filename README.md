@@ -77,11 +77,11 @@
 26 | 454 | [4 Sum II](https://leetcode.com/problems/4sum-ii/) | [C++](./454-4SumII.cpp) | | | 18 June 2017 |
 27 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./167-TwoSumII.cpp) | | | 27 September 2017 |
 28 | 170 | [Two Sum III - Data structure design ](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [C++](./170-TwoSumIII.cpp) | | | 27 September 2017 |
-29 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [C++](./653-TwoSumIV.cpp) | | | 27 September 2017 |
+29 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [C++](./653-TwoSumIV.cpp) |:boom::boom::boom:| | 27 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-30 | 532 | [K Diff Pairs In An Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [C++](./532-K-diffPairsInAnArray.cpp) | | | 22 August 2017 |
+30 | 532 | [K Diff Pairs In An Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [C++](./532-K-diffPairsInAnArray.cpp) | :boom::boom::boom::boom::boom:| | 22 August 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-31 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [C++](./674-LongestContinuousIncreasingSubsequence.cpp) [Java](./java/674-LongestContinuousIncreasingSubsequence.java)| :star::star::star::star::star:| | 16 September 2017 |
+31 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [C++](./674-LongestContinuousIncreasingSubsequence.cpp) [Java](./java/674-LongestContinuousIncreasingSubsequence.java)|:boom::boom::boom:| | 16 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 32 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./121-BestTimeToBuyAndSellStock.cpp) [Java](./java/121-BestTimeToBuyAndSellStock.java)|:boom::boom::boom:|only 1 transaction, if delta prices given then equals max contiguous subarray | 16 September 2017 |
 33 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./122-BestTimeToBuyAndSellStockII.cpp) [Java](./java/122-BestTimeToBuyAndSellStockII.java)|:boom::boom::boom:|any no.of txns, we want all positive deltas | 16 September 2017 |
@@ -172,6 +172,7 @@
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](./235-LowestCommonAncestorOfABinarySearchTree.cpp) [Java](./java/235-LowestCommonAncestorOfABinarySearchTree.java)| :star::star::star:| Trees, Recursion| 4 April 2017 |
 02 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++](./236-LowestCommonAncestorOfABinaryTree.cpp) [Java](./java/236-LowestCommonAncestorOfABinaryTree.java)| :star::star::star::star::star:| Trees, Recursion| 4 April 2017 |
+02 | 0 | [Lowest Common Ancestor of a Binary Tree Using Parent Pointer](http://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-tree-set-2-using-parent-pointer/) | [C++](./0-LowestCommonAncestorOfABinaryTreeUsingParentPointer.cpp) |:star::star::star::star::star:| Trees, Recursion| 4 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 03 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./100-SameTree.cpp) [Java](./java/100-SameTree.java) [Python](./python/100-SameTree.py) | :star::star::star:| Trees, Recursion| 4 April 2017 |
 04 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](./226-InvertBinaryTree.cpp) [Java](./java/226-InvertBinaryTree.java) |:star::star::star:| Trees, Recursion| 10 September 2017 |
@@ -202,6 +203,7 @@
 26 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [C++](./297-SerializeAndDeserializeBinaryTree.cpp) |good| | 30 August 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 27 | 114 | [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](./114-FlattenBinaryTreeToLinkedList.cpp) [Java](./java/114-FlattenBinaryTreeToLinkedList.java)|:boom::boom::boom::boom::boom:| | 29 July 2017 |
+-- | -- | -- | -- | -- | -- | -- |
 28 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [C++](./530-MinimumAbsoluteDifferenceInBST.cpp) [Java](./java/530-MinimumAbsoluteDifferenceInBST.java)|:star::star::star::star::star:|good, inorder traversal| 22 August 2017 |
 29 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [C++](./654-MaximumBinaryTree.cpp) [Java](./java/654-MaximumBinaryTree.java)|:star::star::star::star::star:|like 108| 16 September 2017 |
 30 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [C++](./563-BinaryTreeTilt.cpp) [Java](./java/563-BinaryTreeTilt.java)|:star::star::star::star::star:| | 16 September 2017 |
