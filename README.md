@@ -203,6 +203,7 @@
 26 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [C++](./297-SerializeAndDeserializeBinaryTree.cpp) |good| | 30 August 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 27 | 114 | [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [C++](./114-FlattenBinaryTreeToLinkedList.cpp) [Java](./java/114-FlattenBinaryTreeToLinkedList.java)|:boom::boom::boom::boom::boom:| | 29 July 2017 |
+27 | 0 | [Binary Tree to Doubly Linked List](http://www.geeksforgeeks.org/in-place-convert-a-given-binary-tree-to-doubly-linked-list/) | [C++](./0-BinaryTreeToDoublyLinkedList.cpp) |:boom::boom::boom::boom::boom:|[Link 2](http://www.geeksforgeeks.org/convert-a-given-binary-tree-to-doubly-linked-list-set-2/) [Link 3](http://www.geeksforgeeks.org/convert-given-binary-tree-doubly-linked-list-set-3/) [Link 4](http://www.geeksforgeeks.org/convert-a-given-binary-tree-to-doubly-linked-list-set-4/) | 4 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 28 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [C++](./530-MinimumAbsoluteDifferenceInBST.cpp) [Java](./java/530-MinimumAbsoluteDifferenceInBST.java)|:star::star::star::star::star:|good, inorder traversal| 22 August 2017 |
 29 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [C++](./654-MaximumBinaryTree.cpp) [Java](./java/654-MaximumBinaryTree.java)|:star::star::star::star::star:|like 108| 16 September 2017 |
