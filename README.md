@@ -128,11 +128,11 @@
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./56-MergeIntervals.cpp) [Java](./java/56-MergeIntervals.java)| :star::star::star::star::star:|used lambda fn; tricky  | 30 March 2017 |
 02 | 57 | [Insert Intervals](https://leetcode.com/problems/insert-interval/) | [C++](./57-InsertInterval.cpp) [Java](./java/57-InsertInterval.java)|:boom::boom::boom:| tricky  | 30 March 2017 |
-03 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./179-LargestNumber.cpp) [Java](./java/179-LargestNumber.java)| | tricky  | 16 July 2017 |
-04 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [C++](./252-MeetingRooms.cpp) | | find presence of overlapping interval, paid  | 16 July 2017 |
-05 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [C++](./253-MeetingRoomsII.cpp) | :boom::boom::boom::boom::boom:|custom sorting | 16 July 2017 |
-06 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./165-CompareVersionNumbers.cpp) [Java](./java/165-CompareVersionNumbers.java)| | good sorting practice  | 1 August 2017 |
-07 | 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./406-QueueReconstructionByHeight.cpp) | :boom::boom::boom::boom::boom:| see effecient algo  | 30 September 2017 |
+03 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./179-LargestNumber.cpp) [Java](./java/179-LargestNumber.java)| :boom::boom::boom:| tricky  | 16 July 2017 |
+04 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [C++](./252-MeetingRooms.cpp) | :star::star::star::star::star:| find presence of overlapping interval, paid  | 16 July 2017 |
+05 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [C++](./253-MeetingRoomsII.cpp) | :boom::boom::boom::boom::boom:|custom sorting, paid | 16 July 2017 |
+06 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./165-CompareVersionNumbers.cpp) [Java](./java/165-CompareVersionNumbers.java)|:boom::boom::boom:| | 1 August 2017 |
+07 | 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./406-QueueReconstructionByHeight.cpp) [Java](./java/406-QueueReconstructionByHeight.java)| :boom::boom::boom::boom::boom:| very tricky; see effecient algo  | 30 September 2017 |
 08 | 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | [C++](./280-WiggleSort.cpp) | :boom::boom::boom:|paid | 26 October 2017 |
 09 | 324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | [C++](./324-WiggleSortII.cpp) [Java](./java/324-WiggleSortII.java)| :boom::boom::boom::boom::boom:|see median and tri partition approach | 26 October 2017 |
 
