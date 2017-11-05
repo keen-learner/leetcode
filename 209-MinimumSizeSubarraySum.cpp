@@ -1,6 +1,8 @@
 /*
 
-Given an array of n positive integers and a positive integer s, find the minimal length of a contiguous subarray of which the sum ≥ s. If there isn't one, return 0 instead.
+Given an array of n positive integers and a positive integer s, find the 
+minimal length of a contiguous subarray of which the sum ≥ s. 
+If there isn't one, return 0 instead.
 
 For example, given the array [2,3,1,2,4,3] and s = 7,
 the subarray [4,3] has the minimal length under the problem constraint.
@@ -8,7 +10,8 @@ the subarray [4,3] has the minimal length under the problem constraint.
 click to show more practice.
 
 More practice:
-If you have figured out the O(n) solution, try coding another solution of which the time complexity is O(n log n).
+If you have figured out the O(n) solution, try coding another solution 
+of which the time complexity is O(n log n).
 
 */
 
@@ -71,4 +74,32 @@ private:
         }
         return sums[r] > target ? r : -1;
     }
+};
+
+// O(nlogn) time and O(n) space
+class Solution2 {
+public:
+
+  int minSubArrayLen(int s, vector<int>& nums) {
+      int n = nums.size();
+      if (n == 0)
+          return 0;
+      int ans = INT_MAX;
+      vector<int> sums(n + 1, 0); //size = n+1 for easier calculations
+      //sums[0]=0 : Meaning that it is the sum of first 0 elements
+      //sums[1]=A[0] : Sum of first 1 elements
+      //ans so on...
+      for (int i = 1; i <= n; i++)
+          sums[i] = sums[i - 1] + nums[i - 1];
+      for (int i = 1; i <= n; i++) {
+          int to_find = s + sums[i - 1];
+          auto bound = lower_bound(sums.begin(), sums.end(), to_find);
+          if (bound != sums.end()) {
+              ans = min(ans, static_cast<int>(bound - (sums.begin() + i - 1)));
+          }
+      }
+      return (ans != INT_MAX) ? ans : 0;
+
+  }
+
 };
