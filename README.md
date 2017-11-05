@@ -111,12 +111,12 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./75-SortColors.cpp) [Java](./java/75-SortColors.java)|Partition, 2 Pointers | | 6 May 2017 |
-02 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./283-MoveZeroes.cpp) [Java](./java/283-MoveZeroes.java)|Partition | | 6 May 2017 |
-03 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./27-RemoveElement.cpp) [Java](./java/27-RemoveElement.java)|Partition | | 6 May 2017 |
-04 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./88-MergeSortedArray.cpp) [Java](./java/88-MergeSortedArray.java)|Partition | | 6 May 2017 |
+01 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./75-SortColors.cpp) [Java](./java/75-SortColors.java)| :star::star::star::star::star:| | 6 May 2017 |
+02 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./283-MoveZeroes.cpp) [Java](./java/283-MoveZeroes.java)| :star::star::star::star::star:| | 6 May 2017 |
+03 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./27-RemoveElement.cpp) [Java](./java/27-RemoveElement.java)| :star::star::star::star::star:| | 6 May 2017 |
+04 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./88-MergeSortedArray.cpp) [Java](./java/88-MergeSortedArray.java)| :star::star::star::star::star:| | 6 May 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-05 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./26-RemoveDuplicatesFromSortedArray.cpp) [Java](./java/26-RemoveDuplicatesFromSortedArray.java)| | | 23 June 2017 |
+05 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./26-RemoveDuplicatesFromSortedArray.cpp) [Java](./java/26-RemoveDuplicatesFromSortedArray.java)| :boom::boom::boom:| | 23 June 2017 |
 06 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./80-RemoveDuplicatesFromSortedArrayII.cpp) [Java](./java/80-RemoveDuplicatesFromSortedArrayII.java)| :boom::boom::boom::boom::boom:| | 23 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 07 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./209-MinimumSizeSubarraySum.cpp) [Java](./java/209-MinimumSizeSubarraySum.java)| :boom::boom::boom: | sliding window, tricky| 23 August 2017 |
@@ -126,8 +126,8 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./56-MergeIntervals.cpp) [Java](./java/56-MergeIntervals.java)|Sort |used lambda fn; tricky  | 30 March 2017 |
-02 | 57 | [Insert Intervals](https://leetcode.com/problems/insert-interval/) | [C++](./57-InsertInterval.cpp) | | tricky  | 30 March 2017 |
+01 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./56-MergeIntervals.cpp) [Java](./java/56-MergeIntervals.java)| :star::star::star::star::star:|used lambda fn; tricky  | 30 March 2017 |
+02 | 57 | [Insert Intervals](https://leetcode.com/problems/insert-interval/) | [C++](./57-InsertInterval.cpp) [Java](./java/57-InsertInterval.java)|:boom::boom::boom:| tricky  | 30 March 2017 |
 03 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./179-LargestNumber.cpp) [Java](./java/179-LargestNumber.java)| | tricky  | 16 July 2017 |
 04 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [C++](./252-MeetingRooms.cpp) | | find presence of overlapping interval, paid  | 16 July 2017 |
 05 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [C++](./253-MeetingRoomsII.cpp) | :boom::boom::boom::boom::boom:|custom sorting | 16 July 2017 |
