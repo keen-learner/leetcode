@@ -16,6 +16,29 @@ class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {   
         const int n = nums.size();
+        if(n < 1) return 0;
+
+        int l = 0;
+        int r = n;
+        while(l < r) {
+            auto m = l + (r-l)/2;
+            
+            if(nums[m] < target) {
+                l = m+1;
+            } 
+            else {
+                r = m;
+            } 
+        }
+        
+        return l;
+    }
+};
+
+class Solution3 {
+public:
+    int searchInsert(vector<int>& nums, int target) {   
+        const int n = nums.size();
         if(n < 1) {
             return 0;
         }

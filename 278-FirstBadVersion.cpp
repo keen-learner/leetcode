@@ -36,7 +36,7 @@ public:
     }
 };
 
-class Solution {
+class Solution2 {
 public:
     int firstBadVersion(int n) {
         int left = 1, right = n;
@@ -50,5 +50,39 @@ public:
             }
         }
         return left;
+    }
+};
+
+class Solution3 {
+public:
+    int firstBadVersion(int n) {
+        long l = 1, r = (long)n+1;
+        while (l < r) {
+            auto m = l + (r - l) / 2;
+            if (!isBadVersion(m)) { //good version case
+                l = m + 1;
+            } 
+            else {
+                r = m;
+            }
+        }
+        return l;
+    }
+};
+
+class Solution {
+public:
+    int firstBadVersion(int n) {
+        long l = 1, r = n;
+        while (l < r) {
+            auto m = l + (r - l) / 2;
+            if (!isBadVersion(m)) { //good version case
+                l = m + 1;
+            } 
+            else {
+                r = m;
+            }
+        }
+        return l;
     }
 };
