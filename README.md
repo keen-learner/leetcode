@@ -246,7 +246,7 @@
 -- | -- | -- | -- | -- | -- | -- |
 10 | 04 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./4-MedianOfTwoSortedArrays.cpp) |:boom::boom::boom::boom::boom:| Binary Search| 9 July 2017 |
 11 | 34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [C++](./34-SearchForARange.cpp) [Java](./java/34-SearchForARange.java)|:boom::boom::boom::boom::boom:| Binary Search, own lower bound and upper bound implementation| 11 September 2017 |
-12 | 658 | [Find K Closest Points](https://leetcode.com/problems/find-k-closest-elements/) | [C++](./658-FindKClosestPoints.cpp) |:boom::boom::boom::boom::boom:| Binary Search| 17 September 2017 |
+12 | 658 | [Find K Closest Points](https://leetcode.com/problems/find-k-closest-elements/) | [C++](./658-FindKClosestPoints.cpp) [Java](./java/658-FindKClosestPoints.java)|:boom::boom::boom::boom::boom:| Binary Search| 17 September 2017 |
 13 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](./69-Sqrtx.cpp) [Java](./java/69-Sqrtx.java)|:boom::boom::boom::boom::boom:| Binary Search, last of N approach| 27 September 2017 |
 14 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [C++](./374-GuessNumberHigherOrLower.cpp) [Java](./java/374-GuessNumberHigherOrLower.java)|:star::star::star::star::star:| Binary Search, see 375| 28 September 2017 |
 15 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [C++](./367-ValidPerfectSquare.cpp) [Java](./java/367-ValidPerfectSquare.java)|:star::star::star::star::star:| Binary Search, see cases n is 0 and is 0 and is 1| 28 September 2017 |
