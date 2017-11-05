@@ -20,6 +20,23 @@ public:
         while(l < r) {
             if(nums[l] < nums[r]) return nums[l];
             int m = l + (r-l)/2;
+            if(nums[l] <= nums[m]) l = m+1;
+            else r = m;
+        }        
+        return nums[l];
+    }
+};
+
+class Solution3 {
+public:
+    int findMin(vector<int>& nums) {
+        if(nums.size() == 0) return -1;
+        int l = 0;
+        int r = nums.size()-1;
+        // if(nums[l] < nums[r]) return nums[l]; // no rotation; this works too
+        while(l < r) {
+            if(nums[l] < nums[r]) return nums[l];
+            int m = l + (r-l)/2;
             if(nums[m] <= nums[r]) r = m;
             else l = m+1;
         }        
