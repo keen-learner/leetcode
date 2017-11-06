@@ -261,7 +261,7 @@
 02 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [C++](./378-KthSmallestElementInASortedMatrix.cpp) [Java](./java/378-KthSmallestElementInASortedMatrix.java)| :boom::boom::boom: | Priority Q, see binary search approach| 24 June 2017 |
 03 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./347-TopKFrequentElements.cpp) [Java](./java/347-TopKFrequentElements.java)|:boom::boom::boom:|Note: both can be used, min and max pq | 24 June 2017 |
 04 | 295 | [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [C++](./295-FindMedianFromDataStream.cpp) [Java](./java/295-FindMedianFromDataStream.java)| :boom::boom::boom::boom::boom: | Priority Q, Multiset| 25 June 2017 |
-05 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [C++](./480-SlidingWindowMedian.cpp) |  | Priority Q, Multiset| 25 June 2017 |
+05 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [C++](./480-SlidingWindowMedian.cpp) [Java](./java/480-SlidingWindowMedian.java)| :boom::boom::boom::boom::boom: | Priority Q, Multiset; Java better as PQ has remove| 25 June 2017 |
 06 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [C++](./373-FindKPairsWithSmallestSums.cpp) | :boom::boom::boom::boom::boom: | Priority Q, very tricky| 29 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 07 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [C++](./346-MovingAverageFromDataStream.cpp) | Queue | | 25 June 2017 |
