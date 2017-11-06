@@ -257,9 +257,9 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C++](./215-KthLargestElementInAnArray.cpp) [Java](./java/215-KthLargestElementInAnArray.java)| Quick Select, Priority Q | | 24 June 2017 |
-02 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [C++](./378-KthSmallestElementInASortedMatrix.cpp) [Java](./java/378-KthSmallestElementInASortedMatrix.java)| Priority Q, see binary search approach | | 24 June 2017 |
-03 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./347-TopKFrequentElements.cpp) | Priority Q, Quick Select | | 24 June 2017 |
+01 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C++](./215-KthLargestElementInAnArray.cpp) [Java](./java/215-KthLargestElementInAnArray.java)|:boom::boom::boom:| Quick Select, Priority Q| 24 June 2017 |
+02 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [C++](./378-KthSmallestElementInASortedMatrix.cpp) [Java](./java/378-KthSmallestElementInASortedMatrix.java)| :boom::boom::boom: | Priority Q, see binary search approach| 24 June 2017 |
+03 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./347-TopKFrequentElements.cpp) [Java](./java/347-TopKFrequentElements.java)|:boom::boom::boom:|Note: both can be used, min and max pq | 24 June 2017 |
 04 | 295 | [Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [C++](./295-FindMedianFromDataStream.cpp) | Priority Q, Multiset | | 25 June 2017 |
 05 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [C++](./480-SlidingWindowMedian.cpp) | Priority Q, Multiset | | 25 June 2017 |
 06 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [C++](./346-MovingAverageFromDataStream.cpp) | Queue | | 25 June 2017 |
