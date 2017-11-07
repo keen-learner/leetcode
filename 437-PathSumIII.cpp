@@ -38,7 +38,46 @@ Return 3. The paths that sum to 8 are:
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
+
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+
+// Time : O(n^2)
+// Space: O(h)
 class Solution {
+public:
+    int pathSum(TreeNode* root, int sum) {
+        if (!root) return 0;
+        unordered_map<int, int> m; //sum, count
+        m[0] = 1;
+        return helper (root, 0, sum, m);
+    }
+
+private:
+    int helper(TreeNode* root, int curr, int& sum, unordered_map<int, int>& m) {
+        if(!root) return 0;
+        curr += root->val;
+
+        int res = m.count(curr-sum) ? m[curr-sum] :0;
+        m[curr]++;
+        res += helper(root->left, curr, sum, m);
+        res += helper(root->right, curr, sum, m);
+        m[curr]--;
+        if(m[curr] == 0) m.erase(curr);
+        return res;
+    }
+};
+
+// Time : O(n^2)
+// Space: O(h)
+class Solution2 {
 public:
     int pathSum(TreeNode* root, int sum) {
         if (!root) return 0;

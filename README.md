@@ -44,7 +44,7 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./268-MissingNumber.cpp) |  | | 7 June 2017 |
+01 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./268-MissingNumber.cpp) [Java](./java/268-MissingNumber.java)|:star::star::star::star::star:| | 7 June 2017 |
 02 | 287 | [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./287-FindTheDuplicateNumber.cpp) [Java](./java/287-FindTheDuplicateNumber.java)| tricky | | 7 June 2017 |
 03 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C++](./136-SingleNumber.cpp) |:star::star::star:| | 30 September 2017 |
 04 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./389-FindTheDifference.cpp) |:star::star::star::star::star:| | 27 September 2017 |
@@ -103,7 +103,7 @@
 45 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [C++](./581-ShortestUnsortedContinuousSubarray.cpp) [Java](./java/581-ShortestUnsortedContinuousSubarray.java)|:boom::boom::boom::boom::boom:|tricky with O(1) space | 27 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 46 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./463-IslandPerimeter.cpp) [Java](./java/463-IslandPerimeter.java)|:boom::boom::boom:| | 29 October 2017 |
-47 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [C++](./277-FindTheCelebrity.cpp) |:boom::boom::boom:| | 2 November 2017 |
+47 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [C++](./277-FindTheCelebrity.cpp) |:boom::boom::boom:|paid| 2 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
@@ -144,7 +144,7 @@
 01 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./21-MergeTwoSortedLists.cpp) [Java](./java/21-MergeTwoSortedLists.java)|:star::star::star::star::star:|iterative and recursive solutions | 6 May 2017 |
 02 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./23-MergeKSortedLists.cpp) [Java](./java/23-MergeKSortedLists.java)|:boom::boom::boom:| | 6 May 2017 |
 03 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](./141-LinkedListCycle.cpp) [Java](./java/141-LinkedListCycle.java)|:star::star::star:| | 1 July 2017 |
-04 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](./142-LinkedListCycleII.cpp) [Java](./java/142-LinkedListCycleII.java) :boom::boom::boom:| | 1 July 2017 |
+04 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](./142-LinkedListCycleII.cpp) [Java](./java/142-LinkedListCycleII.java) |:boom::boom::boom:| | 1 July 2017 |
 05 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./206-ReverseLinkedList.cpp) [Java](./java/206-ReverseLinkedList.java) [Python](./python/206-ReverseLinkedList.py) | :star::star::star::star::star:|recursive and iterative | 1 July 2017 |
 06 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [C++](./92-ReverseLinkedListII.cpp) [Java](./java/92-ReverseLinkedListII.java)|:boom::boom::boom:|tricky, reverse b/w m and n, case m ==1, see Java solution | 1 July 2017 |
 07 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [C++](./143-ReorderList.cpp) |:boom::boom::boom:|handle even/odd length case | 1 July 2017 |
@@ -264,9 +264,9 @@
 05 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [C++](./480-SlidingWindowMedian.cpp) [Java](./java/480-SlidingWindowMedian.java)| :boom::boom::boom::boom::boom: | Priority Q, Multiset; Java better as PQ has remove| 25 June 2017 |
 06 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [C++](./373-FindKPairsWithSmallestSums.cpp) [Java](./java/373-FindKPairsWithSmallestSums.java)| :boom::boom::boom::boom::boom: | Priority Q, very tricky, java better| 29 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-07 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [C++](./346-MovingAverageFromDataStream.cpp) | Queue | | 25 June 2017 |
-08 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./239-SlidingWindowMaximum.cpp) | Priority Q, Multiset | | 25 June 2017 |
-09 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [C++](./225-ImplementStackUsingQueues.cpp) | :boom::boom::boom::boom::boom: |Queue | 6 October 2017 |
+07 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [C++](./346-MovingAverageFromDataStream.cpp) |:boom::boom::boom:|Queue, paid| 25 June 2017 |
+08 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./239-SlidingWindowMaximum.cpp) |:boom::boom::boom::boom::boom:| Deque, Multiset| 25 June 2017 |
+09 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [C++](./225-ImplementStackUsingQueues.cpp) |:boom::boom::boom::boom::boom: |Queue | 6 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
@@ -276,8 +276,8 @@
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C++](./112-PathSum.cpp) [Java](./java/112-PathSum.java)|:star::star::star::star::star:| Trees DFS, Recursion| 31 March 2017 |
 02 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [C++](./113-PathSumII.cpp) [Java](./java/113-PathSumII.java)| :boom::boom::boom:| Trees DFS, Recursion| 31 March 2017 |
-03 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [C++](./437-PathSumIII.cpp) [Java](./java/437-PathSumIII.java)|:boom::boom::boom:| Trees DFS, Recursion| 8 June 2017 |
-04 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./124-BinaryTreeMaximumPathSum.cpp) [Java](./java/124-BinaryTreeMaximumPathSum.java)|:boom::boom::boom::boom::boom: | see: [http://www.geeksforgeeks.org/find-maximum-path-sum-two-leaves-binary-tree/] Trees DFS, Recursion| 30 July 2017 |
+03 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [C++](./437-PathSumIII.cpp) [Java](./java/437-PathSumIII.java)|:boom::boom::boom::boom::boom:| Trees DFS, Recursion| 8 June 2017 |
+04 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./124-BinaryTreeMaximumPathSum.cpp) [Java](./java/124-BinaryTreeMaximumPathSum.java)|:boom::boom::boom::boom::boom: | see: [http://www.geeksforgeeks.org/find-maximum-path-sum-two-leaves-binary-tree/] and [http://www.geeksforgeeks.org/find-the-maximum-sum-path-in-a-binary-tree/] Trees DFS, Recursion| 30 July 2017 |
 05 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./129-SumRootToLeafNumbers.cpp) [Java](./java/129-SumRootToLeafNumbers.java)| :boom::boom::boom::boom::boom:| Trees DFS, Recursion| 30 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 06 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [C++](./46-Permutations.cpp) [Java](./java/46-Permutations.java)| :star::star::star:| DFS, Recursion| 10 June 2017 |

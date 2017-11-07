@@ -37,7 +37,41 @@ Return 3. The paths that sum to 8 are:
  *     TreeNode(int x) { val = x; }
  * }
  */
-class Solution {
+
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+// Time: O(n); Space: O(h)
+class Solution{
+    public int pathSum(TreeNode root, int sum) {
+        HashMap<Integer, Integer> preSum = new HashMap();
+        preSum.put(0,1);
+        return helper(root, 0, sum, preSum);
+    }
+    
+    public int helper(TreeNode root, int currSum, int target, HashMap<Integer, Integer> preSum) {
+        if (root == null) {
+            return 0;
+        }
+        
+        currSum += root.val;
+        int res = preSum.getOrDefault(currSum - target, 0);
+        preSum.put(currSum, preSum.getOrDefault(currSum, 0) + 1);
+        
+        res += helper(root.left, currSum, target, preSum) + helper(root.right, currSum, target, preSum);
+        preSum.put(currSum, preSum.get(currSum) - 1);
+        return res;
+    }    
+}
+
+// Time: O(n^2); Space: O(h)
+class Solution2 {
     public int pathSum(TreeNode root, int sum) {
         if(root == null) return 0;
         return pathSum(root.left, sum) + pathSum(root.right, sum) + helper(root, 0, sum);
@@ -49,4 +83,3 @@ class Solution {
         return helper(root.left, curr, sum) + helper(root.right, curr, sum) + (curr==sum?1:0);
     }
 }
-

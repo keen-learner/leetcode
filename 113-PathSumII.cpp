@@ -28,7 +28,41 @@ return
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
+
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
 class Solution {
+public:
+    vector<vector<int>> pathSum(TreeNode* root, int sum) {
+        vector<vector<int>> res;
+        vector<int>path;
+        ps(root, sum, path, res);
+        return res;
+    }
+    
+    void ps(TreeNode* root, int sum, vector<int>& path, vector<vector<int>> &res){
+        if (!root) return;
+
+        path.push_back(root->val);
+        if (!root->left && !root->right && sum==root->val){
+            res.push_back(path);
+            path.erase(prev(path.end()));
+            return;
+        }
+        ps(root->left, sum - root->val, path, res);
+        ps(root->right, sum - root->val, path, res);
+        path.erase(prev(path.end()));
+    }
+};
+
+class Solution2 {
 public:
     void ps(TreeNode* root, int sum, vector<int> path, vector<vector<int>> &res){
         if (!root) return;
