@@ -48,7 +48,7 @@
 02 | 287 | [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./287-FindTheDuplicateNumber.cpp) [Java](./java/287-FindTheDuplicateNumber.java)| :boom::boom::boom: | | 7 June 2017 |
 03 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C++](./136-SingleNumber.cpp) [Java](./java/136-SingleNumber.java)|:star::star::star:| | 30 September 2017 |
 04 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./389-FindTheDifference.cpp) [Java](./java/389-FindTheDifference.java)|:star::star::star::star::star:| | 27 September 2017 |
-05 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [C++](./41-FindTheDuplicateNumber.cpp) | tricky,hard | | 7 June 2017 |
+05 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [C++](./41-FindTheDuplicateNumber.cpp) [Java](./java/41-FindTheDuplicateNumber.java)|:boom::boom::boom:| tricky,hard| 7 June 2017 |
 06 | 442 | [Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [C++](./442-FindAllDuplicatesInAnArray.cpp) | tricky,hard | | 7 June 2017 |
 07 | 448 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](./448-FindAllNumbersDisappearedInAnArray.cpp) | similar to 442 | | 7 June 2017 |
 08 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./217-ContainsDuplicate.cpp) |  | | 8 June 2017 |
