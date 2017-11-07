@@ -51,11 +51,11 @@
 05 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [C++](./41-FindTheDuplicateNumber.cpp) [Java](./java/41-FindTheDuplicateNumber.java)|:boom::boom::boom:| tricky,hard| 7 June 2017 |
 06 | 442 | [Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [C++](./442-FindAllDuplicatesInAnArray.cpp) [Java](./java/442-FindAllDuplicatesInAnArray.java)|:boom::boom::boom:| tricky,hard| 7 June 2017 |
 07 | 448 | [Find All Numbers Disappeared In An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](./448-FindAllNumbersDisappearedInAnArray.cpp) [Java](./java/448-FindAllNumbersDisappearedInAnArray.java)|:boom::boom::boom:| similar to 442| 7 June 2017 |
-08 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./217-ContainsDuplicate.cpp) [Java](./java/217-ContainsDuplicate.java)|  | | 8 June 2017 |
-09 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [C++](./219-ContainsDuplicateII.cpp) [Java](./java/219-ContainsDuplicateII.java)|  | | 8 June 2017 |
+08 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./217-ContainsDuplicate.cpp) [Java](./java/217-ContainsDuplicate.java)| :star::star::star::star::star:| | 8 June 2017 |
+09 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [C++](./219-ContainsDuplicateII.cpp) [Java](./java/219-ContainsDuplicateII.java)| :boom::boom::boom: | | 8 June 2017 |
 10 | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [C++](./220-ContainsDuplicateIII.cpp) [Java](./java/220-ContainsDuplicateIII.java)|:boom::boom::boom::boom::boom:| | 8 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-11 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./169-MajorityElement.cpp) | tricky | | 8 June 2017 |
+11 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./169-MajorityElement.cpp) [Java](./java/169-MajorityElement.java)| :boom::boom::boom: | tricky| 8 June 2017 |
 12 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [C++](./229-MajorityElementII.cpp) | tricky, generalise it | | 8 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 13 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./168-ExcelSheetColumnTitle.cpp) | num to excel col; math | | 8 June 2017 |
