@@ -79,7 +79,7 @@
 28 | 170 | [Two Sum III - Data structure design ](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [C++](./170-TwoSumIII.cpp) |:boom::boom::boom:|paid| 27 September 2017 |
 29 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [C++](./653-TwoSumIV.cpp) [Java](./java/653-TwoSumIV.java)|:boom::boom::boom::boom::boom:| | 27 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-30 | 532 | [K Diff Pairs In An Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [C++](./532-K-diffPairsInAnArray.cpp) | :boom::boom::boom::boom::boom:| | 22 August 2017 |
+30 | 532 | [K Diff Pairs In An Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [C++](./532-K-diffPairsInAnArray.cpp) [Java](./java/532-K-diffPairsInAnArray.java)| :boom::boom::boom::boom::boom:| | 22 August 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 31 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [C++](./674-LongestContinuousIncreasingSubsequence.cpp) [Java](./java/674-LongestContinuousIncreasingSubsequence.java)|:boom::boom::boom:| | 16 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
