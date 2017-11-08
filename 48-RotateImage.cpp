@@ -11,9 +11,6 @@ Could you do this in-place?
 
 
 // 90 degree clockwise rotation
-
-
-
 class Solution {
 public:
     void rotate(vector<vector<int>>& a) {
