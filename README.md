@@ -69,7 +69,7 @@
 19 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [C++](./59-SpiralMatrixII.cpp) [Java](./java/59-SpiralMatrixII.java)| :star::star::star::star::star:| | 18 June 2017 |
 20 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./73-SetMatrixZeroes.cpp) [Java](./java/73-SetMatrixZeroes.java)| :boom::boom::boom:| | 18 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-21 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./1-TwoSum.cpp) [Python](./python/1-TwoSum.py) | | | 18 June 2017 |
+21 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./1-TwoSum.cpp) [Java](./java/1-TwoSum.java) [Python](./python/1-TwoSum.py) | :star::star::star:|map, sort, brute force | 18 June 2017 |
 22 | 15 | [3 Sum](https://leetcode.com/problems/3sum/) | [C++](./15-3Sum.cpp) [Java](./java/15-3Sum.java)|:star::star::star::star::star:| | 18 June 2017 |
 23 | 18 | [4 Sum](https://leetcode.com/problems/4sum/) | [C++](./18-4Sum.cpp) |:star::star::star::star::star:| see multimap solution| 18 June 2017 |
 24 | 16 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./16-3SumClosest.cpp) | :star::star::star::star::star:| | 18 June 2017 |
