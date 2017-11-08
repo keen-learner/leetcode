@@ -91,7 +91,7 @@
 -- | -- | -- | -- | -- | -- | -- |
 37 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C++](./384-ShuffleAnArray.cpp) [Java](./java/384-ShuffleAnArray.java)|:boom::boom::boom::boom::boom:|Concept | 21 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-38 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./349-IntersectionOfTwoArrays.cpp) |:star::star::star:|return common elemnents, hash, 2 pointers and sort approach | 30 September 2017 |
+38 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./349-IntersectionOfTwoArrays.cpp) [Java](./java/349-IntersectionOfTwoArrays.java)|:star::star::star:|return common elements, hash, 2 pointers and sort approach | 30 September 2017 |
 39 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./350-IntersectionOfTwoArraysII.cpp) |:star::star::star:| | 30 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 40 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/) | [C++](./293-FlipGame.cpp) |:boom::boom::boom:| paid | 28 September 2017 |
