@@ -56,7 +56,7 @@
 10 | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [C++](./220-ContainsDuplicateIII.cpp) [Java](./java/220-ContainsDuplicateIII.java)|:boom::boom::boom::boom::boom:| | 8 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 11 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./169-MajorityElement.cpp) [Java](./java/169-MajorityElement.java)| :boom::boom::boom: | tricky| 8 June 2017 |
-12 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [C++](./229-MajorityElementII.cpp) | tricky, generalise it | | 8 June 2017 |
+12 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [C++](./229-MajorityElementII.cpp) [C++](./229-MajorityElementII.java)|:boom::boom::boom::boom::boom:| tricky, generalise it| 8 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 13 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./168-ExcelSheetColumnTitle.cpp) | num to excel col; math | | 8 June 2017 |
 14 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./171-ExcelSheetColumnNumber.cpp) | excel col to num; math | | 8 June 2017 |
