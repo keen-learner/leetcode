@@ -71,7 +71,7 @@
 -- | -- | -- | -- | -- | -- | -- |
 21 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./1-TwoSum.cpp) [Java](./java/1-TwoSum.java) [Python](./python/1-TwoSum.py) | :star::star::star:|map, sort, brute force | 18 June 2017 |
 22 | 15 | [3 Sum](https://leetcode.com/problems/3sum/) | [C++](./15-3Sum.cpp) [Java](./java/15-3Sum.java)|:star::star::star::star::star:| | 18 June 2017 |
-23 | 18 | [4 Sum](https://leetcode.com/problems/4sum/) | [C++](./18-4Sum.cpp) |:star::star::star::star::star:| see multimap solution| 18 June 2017 |
+23 | 18 | [4 Sum](https://leetcode.com/problems/4sum/) | [C++](./18-4Sum.cpp) [Java](./java/18-4Sum.java)|:star::star::star::star::star:| see multimap solution| 18 June 2017 |
 24 | 16 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./16-3SumClosest.cpp) | :star::star::star::star::star:| | 18 June 2017 |
 25 | 259 | [3 Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | [C++](./259-3SumSmaller.cpp) |:boom::boom::boom:|paid | 18 June 2017 |
 26 | 454 | [4 Sum II](https://leetcode.com/problems/4sum-ii/) | [C++](./454-4SumII.cpp) | :boom::boom::boom:| | 18 June 2017 |
