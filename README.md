@@ -75,7 +75,7 @@
 24 | 16 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./16-3SumClosest.cpp) [Java](./java/16-3SumClosest.java)| :star::star::star::star::star:| | 18 June 2017 |
 25 | 259 | [3 Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | [C++](./259-3SumSmaller.cpp) |:boom::boom::boom:|paid | 18 June 2017 |
 26 | 454 | [4 Sum II](https://leetcode.com/problems/4sum-ii/) | [C++](./454-4SumII.cpp) [Java](./java/454-4SumII.java)| :boom::boom::boom:| | 18 June 2017 |
-27 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./167-TwoSumII.cpp) | | | 27 September 2017 |
+27 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./167-TwoSumII.cpp) [Java](./java/167-TwoSumII.java)| :star::star::star:| | 27 September 2017 |
 28 | 170 | [Two Sum III - Data structure design ](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [C++](./170-TwoSumIII.cpp) | | | 27 September 2017 |
 29 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [C++](./653-TwoSumIV.cpp) |:boom::boom::boom:| | 27 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
