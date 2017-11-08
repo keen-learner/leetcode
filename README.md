@@ -64,8 +64,8 @@
 15 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](./189-RotateArray.cpp) [Java](./java/189-RotateArray.java)| | | 6 May 2017 |
 16 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](./61-RotateList.cpp) [Java](./java/61-RotateList.java)| | | 6 May 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-17 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [C++](./48-RotateImage.cpp) [Java](./java/48-RotateImage.java)| extra | | 18 June 2017 |
-18 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./54-SpiralMatrix.cpp) | | | 18 June 2017 |
+17 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [C++](./48-RotateImage.cpp) [Java](./java/48-RotateImage.java)|:star::star::star::star::star:| extra: 90 anticlockwise and 180 rotation| 18 June 2017 |
+18 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./54-SpiralMatrix.cpp) [Java](./java/54-SpiralMatrix.java)| :star::star::star::star::star:|see direction approach,[https://codereview.stackexchange.com/questions/38104/clockwise-and-counterclockwise-spiral-matrix-traversal], [https://stackoverflow.com/questions/21108695/how-do-i-change-the-directions-and-starting-points-of-this-matrix-spiral-travers], [https://gist.github.com/DaemonTails/8470408], [https://stackoverflow.com/questions/726756/print-two-dimensional-array-in-spiral-order/19625520#19625520] | 18 June 2017 |
 19 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [C++](./59-SpiralMatrixII.cpp) | | | 18 June 2017 |
 20 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./73-SetMatrixZeroes.cpp) | | | 18 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
