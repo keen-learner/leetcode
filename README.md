@@ -97,7 +97,7 @@
 40 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/) | [C++](./293-FlipGame.cpp) |:boom::boom::boom:| paid | 28 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 41 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./560-SubarraySumEqualsK.cpp) [Java](./java/560-SubarraySumEqualsK.java)|:boom::boom::boom:|  | 6 October 2017 |
-42 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./523-ContinuousSubarraySum.cpp) |:boom::boom::boom:| see 416 | 6 October 2017 |
+42 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [C++](./523-ContinuousSubarraySum.cpp) [Java](./java/523-ContinuousSubarraySum.java)|:boom::boom::boom:| see 416 | 6 October 2017 |
 43 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [C++](./525-ContiguousArray.cpp) [Java](./java/525-ContiguousArray.java)|:boom::boom::boom:| | 26 October 2017 |
 44 | 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [C++](./325-MaximumSizeSubarraySumEqualsK.cpp) |:boom::boom::boom::boom::boom:|  | 6 October 2017 |
 45 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [C++](./581-ShortestUnsortedContinuousSubarray.cpp) [Java](./java/581-ShortestUnsortedContinuousSubarray.java)|:boom::boom::boom::boom::boom:|tricky with O(1) space | 27 October 2017 |
