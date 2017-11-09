@@ -1,11 +1,11 @@
-# Leetcode Algo Problem Solutions (Count = 259)
+# Leetcode Algo Problem Solutions (Count = 260)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
   01. [Math (Count = 15)](#01-math) 
-  02. [Arrays, General (Count = 47)](#02-arrays-general) 
-  03. [Partition, 2 Pointers (Count = 07)](#03-partition-2-pointers) 
-  04. [Sort (Count = 09)](#04-sort) 
+  02. [Arrays, General (Count = 48)](#02-arrays-general) 
+  03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
+  04. [Sort (Count = 10)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
   06. [Trees (Count = 45)](#06-trees) 
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
@@ -99,11 +99,12 @@
 41 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./560-SubarraySumEqualsK.cpp) [Java](./java/560-SubarraySumEqualsK.java)|:boom::boom::boom:|  | 6 October 2017 |
 42 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [C++](./523-ContinuousSubarraySum.cpp) [Java](./java/523-ContinuousSubarraySum.java)|:boom::boom::boom:| see 416 | 6 October 2017 |
 43 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [C++](./525-ContiguousArray.cpp) [Java](./java/525-ContiguousArray.java)|:boom::boom::boom:| | 26 October 2017 |
-44 | 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [C++](./325-MaximumSizeSubarraySumEqualsK.cpp) |:boom::boom::boom::boom::boom:|  | 6 October 2017 |
-45 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [C++](./581-ShortestUnsortedContinuousSubarray.cpp) [Java](./java/581-ShortestUnsortedContinuousSubarray.java)|:boom::boom::boom::boom::boom:|tricky with O(1) space | 27 October 2017 |
+44 | 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [C++](./325-MaximumSizeSubarraySumEqualsK.cpp) |:boom::boom::boom::boom::boom:|paid| 6 October 2017 |
+45 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./209-MinimumSizeSubarraySum.cpp) [Java](./java/209-MinimumSizeSubarraySum.java)| :boom::boom::boom: | sliding window, tricky, NOTE:difference between this and 325| 23 August 2017 |
+46 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [C++](./581-ShortestUnsortedContinuousSubarray.cpp) [Java](./java/581-ShortestUnsortedContinuousSubarray.java)|:boom::boom::boom::boom::boom:|tricky with O(1) space | 27 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-46 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./463-IslandPerimeter.cpp) [Java](./java/463-IslandPerimeter.java)|:boom::boom::boom:| | 29 October 2017 |
-47 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [C++](./277-FindTheCelebrity.cpp) |:boom::boom::boom:|paid| 2 November 2017 |
+47 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./463-IslandPerimeter.cpp) [Java](./java/463-IslandPerimeter.java)|:boom::boom::boom:| | 29 October 2017 |
+48 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [C++](./277-FindTheCelebrity.cpp) |:boom::boom::boom:|paid| 2 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
@@ -119,7 +120,6 @@
 05 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./26-RemoveDuplicatesFromSortedArray.cpp) [Java](./java/26-RemoveDuplicatesFromSortedArray.java)| :boom::boom::boom:| | 23 June 2017 |
 06 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./80-RemoveDuplicatesFromSortedArrayII.cpp) [Java](./java/80-RemoveDuplicatesFromSortedArrayII.java)| :boom::boom::boom::boom::boom:| | 23 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-07 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./209-MinimumSizeSubarraySum.cpp) [Java](./java/209-MinimumSizeSubarraySum.java)| :boom::boom::boom: | sliding window, tricky| 23 August 2017 |
 
 
 ## 04. Sort
@@ -128,13 +128,14 @@
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./56-MergeIntervals.cpp) [Java](./java/56-MergeIntervals.java)| :star::star::star::star::star:|used lambda fn; tricky  | 30 March 2017 |
 02 | 57 | [Insert Intervals](https://leetcode.com/problems/insert-interval/) | [C++](./57-InsertInterval.cpp) [Java](./java/57-InsertInterval.java)|:boom::boom::boom:| tricky  | 30 March 2017 |
-03 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./179-LargestNumber.cpp) [Java](./java/179-LargestNumber.java)| :boom::boom::boom:| tricky  | 16 July 2017 |
-04 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [C++](./252-MeetingRooms.cpp) | :star::star::star::star::star:| find presence of overlapping interval, paid  | 16 July 2017 |
-05 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [C++](./253-MeetingRoomsII.cpp) | :boom::boom::boom::boom::boom:|custom sorting, paid | 16 July 2017 |
-06 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./165-CompareVersionNumbers.cpp) [Java](./java/165-CompareVersionNumbers.java)|:boom::boom::boom:| | 1 August 2017 |
-07 | 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./406-QueueReconstructionByHeight.cpp) [Java](./java/406-QueueReconstructionByHeight.java)| :boom::boom::boom::boom::boom:| very tricky; see effecient algo  | 30 September 2017 |
-08 | 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | [C++](./280-WiggleSort.cpp) | :boom::boom::boom:|paid | 26 October 2017 |
-09 | 324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | [C++](./324-WiggleSortII.cpp) [Java](./java/324-WiggleSortII.java)| :boom::boom::boom::boom::boom:|see median and tri partition approach | 26 October 2017 |
+03 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [C++](./495-TeemoAttacking.cpp) [Java](./java/495-TeemoAttacking.java)|:boom::boom::boom:| tricky  | 9 November 2017 |
+04 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./179-LargestNumber.cpp) [Java](./java/179-LargestNumber.java)| :boom::boom::boom:| tricky  | 16 July 2017 |
+05 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [C++](./252-MeetingRooms.cpp) | :star::star::star::star::star:| find presence of overlapping interval, paid  | 16 July 2017 |
+06 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [C++](./253-MeetingRoomsII.cpp) | :boom::boom::boom::boom::boom:|custom sorting, paid | 16 July 2017 |
+07 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./165-CompareVersionNumbers.cpp) [Java](./java/165-CompareVersionNumbers.java)|:boom::boom::boom:| | 1 August 2017 |
+08 | 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./406-QueueReconstructionByHeight.cpp) [Java](./java/406-QueueReconstructionByHeight.java)| :boom::boom::boom::boom::boom:| very tricky; see effecient algo  | 30 September 2017 |
+09 | 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | [C++](./280-WiggleSort.cpp) | :boom::boom::boom:|paid | 26 October 2017 |
+10 | 324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | [C++](./324-WiggleSortII.cpp) [Java](./java/324-WiggleSortII.java)| :boom::boom::boom::boom::boom:|see median and tri partition approach | 26 October 2017 |
 
 
 ## 05. LinkedList
