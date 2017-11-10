@@ -162,8 +162,8 @@
 17 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [C++](./234-PalindromeLinkedList.cpp) |LinkedList| | 1 July 2017 |
 18 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [C++](./86-PartitionList.cpp) [Java](./java/86-PartitionList.java)|:boom::boom::boom:|| 1 July 2017 |
 19 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./19-RemoveNthNodeFromEndOfList.cpp) [Java](./java/19-RemoveNthNodeFromEndOfList.java)|:boom::boom::boom:| | 1 July 2017 |
-20 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./2-AddTwoNumbers.cpp) [Java](./java/2-AddTwoNumbers.java)|| | 1 July 2017 |
-21 | 24 | [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./24-SwapNodesInPairs.cpp) |LinkedList|tricky | 1 July 2017 |
+20 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./2-AddTwoNumbers.cpp) [Java](./java/2-AddTwoNumbers.java)|:boom::boom::boom:| | 1 July 2017 |
+21 | 24 | [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./24-SwapNodesInPairs.cpp) [Java](./java/24-SwapNodesInPairs.java)|:boom::boom::boom:| tricky| 1 July 2017 |
 22 | 138 | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./138-CopyListWithRandomPointer.cpp) [Java](./java/138-CopyListWithRandomPointer.java)|:boom::boom::boom::boom::boom:|tricky | 15 September 2017 |
 
 
