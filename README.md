@@ -1,11 +1,11 @@
-# Leetcode Algo Problem Solutions (Count = 261)
+# Leetcode Algo Problem Solutions (Count = 262)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
   01. [Math (Count = 15)](#01-math) 
-  02. [Arrays, General (Count = 48)](#02-arrays-general) 
+  02. [Arrays, General (Count = 51)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
-  04. [Sort (Count = 11)](#04-sort) 
+  04. [Sort (Count = 9)](#04-sort) 
   05. [LinkedList (Count = 22)](#05-linkedlist) 
   06. [Trees (Count = 45)](#06-trees) 
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
@@ -106,6 +106,10 @@
 47 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./463-IslandPerimeter.cpp) [Java](./java/463-IslandPerimeter.java)|:boom::boom::boom:| | 29 October 2017 |
 48 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [C++](./277-FindTheCelebrity.cpp) |:boom::boom::boom:|paid| 2 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
+49 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [C++](./495-TeemoAttacking.cpp) [Java](./java/495-TeemoAttacking.java)|:boom::boom::boom:| tricky, similar to interval problems 56, 57 etc.  | 9 November 2017 |
+50 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [C++](./228-SummaryRanges.cpp) [Java](./java/228-SummaryRanges.java)|:boom::boom::boom:| tricky,similar to 495  | 9 November 2017 |
+51 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [C++](./163-MissingRanges.cpp) |:boom::boom::boom:| tricky,similar to 495, paid  | 9 November 2017 |
+-- | -- | -- | -- | -- | -- | -- |
 
 
 ## 03. Partition, 2 Pointers
@@ -128,15 +132,13 @@
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./56-MergeIntervals.cpp) [Java](./java/56-MergeIntervals.java)| :star::star::star::star::star:|used lambda fn; tricky  | 30 March 2017 |
 02 | 57 | [Insert Intervals](https://leetcode.com/problems/insert-interval/) | [C++](./57-InsertInterval.cpp) [Java](./java/57-InsertInterval.java)|:boom::boom::boom:| tricky  | 30 March 2017 |
-03 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [C++](./495-TeemoAttacking.cpp) [Java](./java/495-TeemoAttacking.java)|:boom::boom::boom:| tricky  | 9 November 2017 |
-04 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [C++](./228-SummaryRanges.cpp) [Java](./java/228-SummaryRanges.java)|:boom::boom::boom:| tricky,similar to 495  | 9 November 2017 |
-05 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./179-LargestNumber.cpp) [Java](./java/179-LargestNumber.java)| :boom::boom::boom:| tricky  | 16 July 2017 |
-06 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [C++](./252-MeetingRooms.cpp) | :star::star::star::star::star:| find presence of overlapping interval, paid  | 16 July 2017 |
-07 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [C++](./253-MeetingRoomsII.cpp) | :boom::boom::boom::boom::boom:|custom sorting, paid | 16 July 2017 |
-08 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./165-CompareVersionNumbers.cpp) [Java](./java/165-CompareVersionNumbers.java)|:boom::boom::boom:| | 1 August 2017 |
-09 | 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./406-QueueReconstructionByHeight.cpp) [Java](./java/406-QueueReconstructionByHeight.java)| :boom::boom::boom::boom::boom:| very tricky; see effecient algo  | 30 September 2017 |
-10 | 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | [C++](./280-WiggleSort.cpp) | :boom::boom::boom:|paid | 26 October 2017 |
-11 | 324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | [C++](./324-WiggleSortII.cpp) [Java](./java/324-WiggleSortII.java)| :boom::boom::boom::boom::boom:|see median and tri partition approach | 26 October 2017 |
+03 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./179-LargestNumber.cpp) [Java](./java/179-LargestNumber.java)| :boom::boom::boom:| tricky  | 16 July 2017 |
+04 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [C++](./252-MeetingRooms.cpp) | :star::star::star::star::star:| find presence of overlapping interval, paid  | 16 July 2017 |
+05 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [C++](./253-MeetingRoomsII.cpp) | :boom::boom::boom::boom::boom:|custom sorting, paid | 16 July 2017 |
+06 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./165-CompareVersionNumbers.cpp) [Java](./java/165-CompareVersionNumbers.java)|:boom::boom::boom:| | 1 August 2017 |
+07 | 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./406-QueueReconstructionByHeight.cpp) [Java](./java/406-QueueReconstructionByHeight.java)| :boom::boom::boom::boom::boom:| very tricky; see effecient algo  | 30 September 2017 |
+08 | 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | [C++](./280-WiggleSort.cpp) | :boom::boom::boom:|paid | 26 October 2017 |
+09 | 324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | [C++](./324-WiggleSortII.cpp) [Java](./java/324-WiggleSortII.java)| :boom::boom::boom::boom::boom:|see median and tri partition approach | 26 October 2017 |
 
 
 ## 05. LinkedList
