@@ -144,26 +144,33 @@
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./21-MergeTwoSortedLists.cpp) [Java](./java/21-MergeTwoSortedLists.java)|:star::star::star::star::star:|iterative and recursive solutions | 6 May 2017 |
 02 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./23-MergeKSortedLists.cpp) [Java](./java/23-MergeKSortedLists.java)|:boom::boom::boom:| | 6 May 2017 |
+-- | -- | -- | -- | -- | -- | -- |
 03 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](./141-LinkedListCycle.cpp) [Java](./java/141-LinkedListCycle.java)|:star::star::star:| | 1 July 2017 |
 04 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](./142-LinkedListCycleII.cpp) [Java](./java/142-LinkedListCycleII.java) |:boom::boom::boom:| | 1 July 2017 |
+-- | -- | -- | -- | -- | -- | -- |
 05 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./206-ReverseLinkedList.cpp) [Java](./java/206-ReverseLinkedList.java) [Python](./python/206-ReverseLinkedList.py) | :star::star::star::star::star:|recursive and iterative | 1 July 2017 |
 06 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [C++](./92-ReverseLinkedListII.cpp) [Java](./java/92-ReverseLinkedListII.java)|:boom::boom::boom:|tricky, reverse b/w m and n, case m ==1, see Java solution | 1 July 2017 |
-07 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [C++](./143-ReorderList.cpp) [Java](./java/143-ReorderList.java)|:boom::boom::boom:|handle even/odd length case | 1 July 2017 |
-07 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](./61-RotateList.cpp) [Java](./java/61-RotateList.java)|:boom::boom::boom:| LinkedList, in Group1| 6 May 2017 |
-08 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [C++](./148-SortList.cpp) [Java](./java/148-SortList.java)|:boom::boom::boom:| handle odd/even length case| 1 July 2017 |
-09 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [C++](./147-InsertionSortList.cpp) [Java](./java/147-InsertionSortList.java)|:boom::boom::boom:| | 1 July 2017 |
-10 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./160-IntersectionOfTwoLinkedLists.cpp) [Java](./java/160-IntersectionOfTwoLinkedLists.java)|:boom::boom::boom:| | 1 July 2017 |
-11 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [C++](./109-ConvertSortedListToBinarySearchTree.cpp) [Java](./java/109-ConvertSortedListToBinarySearchTree.java)|:boom::boom::boom:| | 1 July 2017 |
-12 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](./328-OddEvenLinkedList.cpp) [Java](./java/328-OddEvenLinkedList.java)|:boom::boom::boom:| | 1 July 2017 |
-13 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](./237-DeleteNodeInALinkedList.cpp) [Java](./java/237-DeleteNodeInALinkedList.java)| :star::star::star:| | 1 July 2017 |
-14 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](./203-RemoveLinkedListElements.cpp) [Java](./java/203-RemoveLinkedListElements.java)|:star::star::star::star::star:| | 1 July 2017 |
-15 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](./83-RemoveDuplicatesFromSortedList.cpp) [Java](./java/83-RemoveDuplicatesFromSortedList.java)|:star::star::star::star::star:| | 1 July 2017 |
-16 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](./82-RemoveDuplicatesFromSortedListII.cpp) [Java](./java/82-RemoveDuplicatesFromSortedListII.java)|:boom::boom::boom:|tricky| 1 July 2017 |
-17 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [C++](./234-PalindromeLinkedList.cpp) |LinkedList| | 1 July 2017 |
-18 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [C++](./86-PartitionList.cpp) [Java](./java/86-PartitionList.java)|:boom::boom::boom:|| 1 July 2017 |
-19 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./19-RemoveNthNodeFromEndOfList.cpp) [Java](./java/19-RemoveNthNodeFromEndOfList.java)|:boom::boom::boom:| | 1 July 2017 |
-20 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./2-AddTwoNumbers.cpp) [Java](./java/2-AddTwoNumbers.java)|:boom::boom::boom:| | 1 July 2017 |
+06 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](./61-RotateList.cpp) [Java](./java/61-RotateList.java)|:boom::boom::boom:| LinkedList, in Group1| 6 May 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+07 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [C++](./148-SortList.cpp) [Java](./java/148-SortList.java)|:boom::boom::boom:| handle odd/even length case| 1 July 2017 |
+08 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [C++](./147-InsertionSortList.cpp) [Java](./java/147-InsertionSortList.java)|:boom::boom::boom:| | 1 July 2017 |
+09 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./160-IntersectionOfTwoLinkedLists.cpp) [Java](./java/160-IntersectionOfTwoLinkedLists.java)|:boom::boom::boom:| | 1 July 2017 |
+10 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [C++](./109-ConvertSortedListToBinarySearchTree.cpp) [Java](./java/109-ConvertSortedListToBinarySearchTree.java)|:boom::boom::boom:| | 1 July 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+11 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](./237-DeleteNodeInALinkedList.cpp) [Java](./java/237-DeleteNodeInALinkedList.java)| :star::star::star:| | 1 July 2017 |
+12 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](./203-RemoveLinkedListElements.cpp) [Java](./java/203-RemoveLinkedListElements.java)|:star::star::star::star::star:| | 1 July 2017 |
+13 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](./83-RemoveDuplicatesFromSortedList.cpp) [Java](./java/83-RemoveDuplicatesFromSortedList.java)|:star::star::star::star::star:| | 1 July 2017 |
+14 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](./82-RemoveDuplicatesFromSortedListII.cpp) [Java](./java/82-RemoveDuplicatesFromSortedListII.java)|:boom::boom::boom:|tricky| 1 July 2017 |
+15 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./19-RemoveNthNodeFromEndOfList.cpp) [Java](./java/19-RemoveNthNodeFromEndOfList.java)|:boom::boom::boom:| | 1 July 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+16 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [C++](./234-PalindromeLinkedList.cpp) [Java](./java/234-PalindromeLinkedList.java)|:boom::boom::boom:| | 1 July 2017 |
+17 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./2-AddTwoNumbers.cpp) [Java](./java/2-AddTwoNumbers.java)|:boom::boom::boom:| | 1 July 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+18 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [C++](./143-ReorderList.cpp) [Java](./java/143-ReorderList.java)|:boom::boom::boom:|handle even/odd length case | 1 July 2017 |
+19 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [C++](./86-PartitionList.cpp) [Java](./java/86-PartitionList.java)|:boom::boom::boom:|| 1 July 2017 |
+20 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](./328-OddEvenLinkedList.cpp) [Java](./java/328-OddEvenLinkedList.java)|:boom::boom::boom:| | 1 July 2017 |
 21 | 24 | [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./24-SwapNodesInPairs.cpp) [Java](./java/24-SwapNodesInPairs.java)|:boom::boom::boom:| tricky| 1 July 2017 |
+-- | -- | -- | -- | -- | -- | -- |
 22 | 138 | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./138-CopyListWithRandomPointer.cpp) [Java](./java/138-CopyListWithRandomPointer.java)|:boom::boom::boom::boom::boom:|tricky | 15 September 2017 |
 
 
