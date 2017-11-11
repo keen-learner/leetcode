@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 263)
+# Leetcode Algo Problem Solutions (Count = 264)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -6,7 +6,7 @@
   02. [Arrays, General (Count = 51)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
   04. [Sort (Count = 9)](#04-sort) 
-  05. [LinkedList (Count = 23)](#05-linkedlist) 
+  05. [LinkedList (Count = 24)](#05-linkedlist) 
   06. [Trees (Count = 45)](#06-trees) 
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue) 
@@ -174,8 +174,9 @@
 20 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [C++](./86-PartitionList.cpp) [Java](./java/86-PartitionList.java)|:boom::boom::boom:|| 1 July 2017 |
 21 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](./328-OddEvenLinkedList.cpp) [Java](./java/328-OddEvenLinkedList.java)|:boom::boom::boom:| | 1 July 2017 |
 22 | 24 | [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./24-SwapNodesInPairs.cpp) [Java](./java/24-SwapNodesInPairs.java)|:boom::boom::boom:| tricky| 1 July 2017 |
+23 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [C++](./25-ReverseNodesInKGroup.cpp) [Java](./java/25-ReverseNodesInKGroup.java)|:boom::boom::boom::boom::boom:| tricky| 1 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-23 | 138 | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./138-CopyListWithRandomPointer.cpp) [Java](./java/138-CopyListWithRandomPointer.java)|:boom::boom::boom::boom::boom:|tricky | 15 September 2017 |
+24 | 138 | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./138-CopyListWithRandomPointer.cpp) [Java](./java/138-CopyListWithRandomPointer.java)|:boom::boom::boom::boom::boom:|tricky | 15 September 2017 |
 
 
 ## 06. Trees
@@ -330,7 +331,7 @@
 07 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./5-LongestPalindromicSubstring.cpp) [Java](./java/5-LongestPalindromicSubstring.java)| :star::star::star::star::star:|same as 647 | 24 August 2017 |
 08 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [C++](./647-PalindromicSubstrings.cpp) [Java](./java/647-PalindromicSubstrings.java)| :star::star::star::star::star:|same as 5 | 24 August 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-09 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./3-LongestSubstringWithoutRepeatingCharacters.cpp) [Java](./java/3-LongestSubstringWithoutRepeatingCharacters.java)| :boom::boom::boom::boom::boom:| sliding window| 30 July 2017 |
+09 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./3-LongestSubstringWithoutRepeatingCharacters.cpp) [Java](./java/3-LongestSubstringWithoutRepeatingCharacters.java)| :boom::boom::boom::boom::boom:| sliding window, same for arrays| 30 July 2017 |
 10 | 438 | [Find All Anagrams In a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [C++](./438-FindAllAnagramsInAString.cpp) [Java](./java/438-FindAllAnagramsInAString.java)|:boom::boom::boom::boom::boom:| sliding window| 20 August 2017 |
 11 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./76-MinimumWindowSubstring.cpp) [Java](./java/76-MinimumWindowSubstring.java)|:boom::boom::boom::boom::boom:|sliding window| 23 August 2017 |
 12 | 567 | [Permutation In String](https://leetcode.com/problems/permutation-in-string/) | [C++](./567-PermutationInString.cpp) [Java](./java/567-PermutationInString.java)|:boom::boom::boom::boom::boom:| sliding window| 23 August 2017 |
