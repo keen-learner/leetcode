@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 264)
+# Leetcode Algo Problem Solutions (Count = 265)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -6,7 +6,7 @@
   02. [Arrays, General (Count = 51)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
   04. [Sort (Count = 9)](#04-sort) 
-  05. [LinkedList (Count = 24)](#05-linkedlist) 
+  05. [LinkedList (Count = 25)](#05-linkedlist) 
   06. [Trees (Count = 45)](#06-trees) 
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue) 
@@ -169,14 +169,15 @@
 16 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [C++](./234-PalindromeLinkedList.cpp) [Java](./java/234-PalindromeLinkedList.java)|:boom::boom::boom:| | 1 July 2017 |
 17 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./2-AddTwoNumbers.cpp) [Java](./java/2-AddTwoNumbers.java)|:boom::boom::boom:| | 1 July 2017 |
 18 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [C++](./445-AddTwoNumbersII.cpp) [Java](./java/445-AddTwoNumbersII.java)|:boom::boom::boom:| | 9 November 2017 |
+19 | 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) | [C++](./369-PlusOneLinkedList.cpp) |:boom::boom::boom:|paid | 9 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-19 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [C++](./143-ReorderList.cpp) [Java](./java/143-ReorderList.java)|:boom::boom::boom:|handle even/odd length case | 1 July 2017 |
-20 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [C++](./86-PartitionList.cpp) [Java](./java/86-PartitionList.java)|:boom::boom::boom:|| 1 July 2017 |
-21 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](./328-OddEvenLinkedList.cpp) [Java](./java/328-OddEvenLinkedList.java)|:boom::boom::boom:| | 1 July 2017 |
-22 | 24 | [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./24-SwapNodesInPairs.cpp) [Java](./java/24-SwapNodesInPairs.java)|:boom::boom::boom:| tricky| 1 July 2017 |
-23 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [C++](./25-ReverseNodesInKGroup.cpp) [Java](./java/25-ReverseNodesInKGroup.java)|:boom::boom::boom::boom::boom:| tricky| 1 July 2017 |
+20 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [C++](./143-ReorderList.cpp) [Java](./java/143-ReorderList.java)|:boom::boom::boom:|handle even/odd length case | 1 July 2017 |
+21 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [C++](./86-PartitionList.cpp) [Java](./java/86-PartitionList.java)|:boom::boom::boom:|| 1 July 2017 |
+22 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](./328-OddEvenLinkedList.cpp) [Java](./java/328-OddEvenLinkedList.java)|:boom::boom::boom:| | 1 July 2017 |
+23 | 24 | [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./24-SwapNodesInPairs.cpp) [Java](./java/24-SwapNodesInPairs.java)|:boom::boom::boom:| tricky| 1 July 2017 |
+24 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [C++](./25-ReverseNodesInKGroup.cpp) [Java](./java/25-ReverseNodesInKGroup.java)|:boom::boom::boom::boom::boom:| tricky| 1 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-24 | 138 | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./138-CopyListWithRandomPointer.cpp) [Java](./java/138-CopyListWithRandomPointer.java)|:boom::boom::boom::boom::boom:|tricky | 15 September 2017 |
+25 | 138 | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./138-CopyListWithRandomPointer.cpp) [Java](./java/138-CopyListWithRandomPointer.java)|:boom::boom::boom::boom::boom:|tricky | 15 September 2017 |
 
 
 ## 06. Trees
