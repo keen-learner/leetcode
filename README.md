@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 265)
+# Leetcode Algo Problem Solutions (Count = 266)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -6,7 +6,7 @@
   02. [Arrays, General (Count = 51)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
   04. [Sort (Count = 9)](#04-sort) 
-  05. [LinkedList (Count = 25)](#05-linkedlist) 
+  05. [LinkedList (Count = 26)](#05-linkedlist) 
   06. [Trees (Count = 45)](#06-trees) 
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue) 
@@ -178,6 +178,7 @@
 24 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [C++](./25-ReverseNodesInKGroup.cpp) [Java](./java/25-ReverseNodesInKGroup.java)|:boom::boom::boom::boom::boom:| tricky| 1 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 25 | 138 | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./138-CopyListWithRandomPointer.cpp) [Java](./java/138-CopyListWithRandomPointer.java)|:boom::boom::boom::boom::boom:|tricky | 15 September 2017 |
+26 | 379 | [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) | [C++](./379-DesignPhoneDirectory.cpp) [Java](./java/379-DesignPhoneDirectory.java)|:boom::boom::boom::boom::boom:|tricky, harsh time constraints, paid, see both | 10 November 2017 |
 
 
 ## 06. Trees
