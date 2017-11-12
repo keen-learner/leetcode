@@ -197,7 +197,7 @@
 -- | -- | -- | -- | -- | -- | -- |
 08 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [C++](./450-DeleteNodeInABst.cpp) [Java](./java/450-DeleteNodeInABst.java)| :boom::boom::boom:| | 4 April 2017 |
 09 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./173-BinarySearchTreeIterator.cpp) [Java](./java/173-BinarySearchTreeIterator.java)| :boom::boom::boom::boom::boom: | | 12 April 2017 |
-10 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./94-BinaryTreeInorderTraversal.cpp) | | | 12 April 2017 |
+10 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./94-BinaryTreeInorderTraversal.cpp) [Java](./java/94-BinaryTreeInorderTraversal.java)| :boom::boom::boom:|see morris traversal, stack solutions | 12 April 2017 |
 11 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](./144-BinaryTreePreorderTraversal.cpp) | | | 12 April 2017 |
 12 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./145-BinaryTreePostorderTraversal.cpp) | | | 12 April 2017 |
 13 | 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [C++](./285-InorderSuccessorInBST.cpp) |:star::star::star::star::star:| | 12 April 2017 |
