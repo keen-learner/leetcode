@@ -1,9 +1,9 @@
-# Leetcode Algo Problem Solutions (Count = 266)
+# Leetcode Algo Problem Solutions (Count = 267)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
   01. [Math (Count = 15)](#01-math) 
-  02. [Arrays, General (Count = 51)](#02-arrays-general) 
+  02. [Arrays, General (Count = 52)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
   04. [Sort (Count = 9)](#04-sort) 
   05. [LinkedList (Count = 26)](#05-linkedlist) 
@@ -109,6 +109,7 @@
 49 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [C++](./495-TeemoAttacking.cpp) [Java](./java/495-TeemoAttacking.java)|:boom::boom::boom:| tricky, similar to interval problems 56, 57 etc.  | 9 November 2017 |
 50 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [C++](./228-SummaryRanges.cpp) [Java](./java/228-SummaryRanges.java)|:boom::boom::boom:| tricky,similar to 495  | 9 November 2017 |
 51 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [C++](./163-MissingRanges.cpp) |:boom::boom::boom:| tricky,similar to 495, paid  | 9 November 2017 |
+52 | 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [C++](./436-FindRightInterval.cpp) [Java](./java/436-FindRightInterval.java)|:boom::boom::boom:| tricky,see 56, 57 etc  | 12 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
@@ -130,7 +131,7 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./56-MergeIntervals.cpp) [Java](./java/56-MergeIntervals.java)| :star::star::star::star::star:|used lambda fn; tricky  | 30 March 2017 |
+01 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](./56-MergeIntervals.cpp) [Java](./java/56-MergeIntervals.java)| :star::star::star::star::star:|used lambda fn; tricky, see 495  | 30 March 2017 |
 02 | 57 | [Insert Intervals](https://leetcode.com/problems/insert-interval/) | [C++](./57-InsertInterval.cpp) [Java](./java/57-InsertInterval.java)|:boom::boom::boom:| tricky  | 30 March 2017 |
 03 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./179-LargestNumber.cpp) [Java](./java/179-LargestNumber.java)| :boom::boom::boom:| tricky  | 16 July 2017 |
 04 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [C++](./252-MeetingRooms.cpp) | :star::star::star::star::star:| find presence of overlapping interval, paid  | 16 July 2017 |
