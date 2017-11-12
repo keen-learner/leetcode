@@ -15,7 +15,6 @@ Note: Recursive solution is trivial, could you do it iteratively?
 
 */
 
-
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
