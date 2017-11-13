@@ -323,7 +323,7 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./14-LongestCommonPrefix.cpp) |  | | 19 July 2017 |
+01 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./14-LongestCommonPrefix.cpp) [Java](./java/14-LongestCommonPrefix.java)| :star::star::star::star::star: | | 19 July 2017 |
 02 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./38-CountAndSay.cpp) |  | | 19 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 03 | 151 | [Reverse Words In a String ](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](./151-ReverseWordsInAString.cpp) [Java](./java/151-ReverseWordsInAString.java)|:boom::boom::boom::boom::boom:| | 12 June 2017 |
