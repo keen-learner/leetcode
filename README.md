@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 268)
+# Leetcode Algo Problem Solutions (Count = 269)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -11,7 +11,7 @@
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 23)](#09-dfs-recursion) 
-  10. [Strings (Count = 27)](#10-strings) 
+  10. [Strings (Count = 28)](#10-strings) 
   11. [Dynamic Programming (Count = 21)](#11-dynamic-programming) 
   12. [Greedy (Count = 04)](#12-greedy) 
   13. [Stack (Count = 06)](#13-stack) 
@@ -353,7 +353,8 @@
 24 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./345-ReverseVowelsOfAString.cpp) |:star::star::star:| | 27 September 2017 |
 25 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C++](./392-IsSubsequence.cpp) |:boom::boom::boom:| | 30 September 2017 |
 26 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./58-LengthOfLastWord.cpp) [Java](./java/58-LengthOfLastWord.java)|:star::star::star:| | 26 October 2017 |
-27 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [C++](./621-TaskScheduler.cpp) [Java](./java/621-TaskScheduler.java)|:boom::boom::boom::boom::boom:|| 26 October 2017 |
+27 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [C++](./621-TaskScheduler.cpp) [Java](./java/621-TaskScheduler.java)|:boom::boom::boom::boom::boom:|| 12 November 2017 |
+28 | 358 | [Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [C++](./358-RearrangeStringKDistanceApart.cpp) |:boom::boom::boom::boom::boom:|paid| 12 November 2017 |
 
 
 ## 11. Dynamic Programming
