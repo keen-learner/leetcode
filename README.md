@@ -351,7 +351,7 @@
 22 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./387-FirstUniqueCharacterInAString.cpp) [Java](./java/387-FirstUniqueCharacterInAString.java)|:star::star::star::star::star:|we can traverse string or map twice | 27 September 2017 |
 23 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./344-ReverseString.cpp) [Java](./java/344-ReverseString.java)|:star::star::star:| | 27 September 2017 |
 24 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./345-ReverseVowelsOfAString.cpp) [Java](./java/345-ReverseVowelsOfAString.java)|:star::star::star:| | 27 September 2017 |
-25 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C++](./392-IsSubsequence.cpp) |:boom::boom::boom:| | 30 September 2017 |
+25 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C++](./392-IsSubsequence.cpp) [Java](./java/392-IsSubsequence.java)|:boom::boom::boom:| | 30 September 2017 |
 26 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./58-LengthOfLastWord.cpp) [Java](./java/58-LengthOfLastWord.java)|:star::star::star:| | 26 October 2017 |
 27 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [C++](./621-TaskScheduler.cpp) [Java](./java/621-TaskScheduler.java)|:boom::boom::boom::boom::boom:|| 12 November 2017 |
 28 | 358 | [Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [C++](./358-RearrangeStringKDistanceApart.cpp) |:boom::boom::boom::boom::boom:|paid| 12 November 2017 |
