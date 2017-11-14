@@ -23,8 +23,27 @@ Reduce them to a single space in the reversed string.
 // Time:  O(n)
 // Space: O(1)
 
-// This and Solution 0 are same; only Sol 0 has own reverse
 class Solution {
+public:
+    void reverseWords(string &s) {
+        int i = 0;
+        while(i<s.size() && s[i] == ' ') i++;
+        if(i == s.size()) {s = "";return;}
+        int j = 0;
+        while(i<s.size()) {
+            int k = j;
+            while(i<s.size() && s[i] != ' ') s[j++] = s[i++];
+            reverse(s.begin() + k, s.begin() + j);
+            while(i<s.size() && s[i] == ' ') i++; 
+            if(i<s.size()) s[j++] = ' ';
+        }
+        s.resize(j);
+        reverse(s.begin(), s.end());
+    }
+};
+
+// This and Solution 0 are same; only Sol 0 has own reverse
+class Solution00 {
 public:
     void reverseWords(string &s) {
         

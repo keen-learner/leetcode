@@ -327,7 +327,7 @@
 02 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./38-CountAndSay.cpp) [Java](./java/38-CountAndSay.java)|  | | 19 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 03 | 151 | [Reverse Words In a String ](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](./151-ReverseWordsInAString.cpp) [Java](./java/151-ReverseWordsInAString.java)|:boom::boom::boom::boom::boom:| | 12 June 2017 |
-04 | 557 | [Reverse Words In a String III ](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [C++](./557-ReverseWordsInAStringIII.cpp) | tricky | | 12 June 2017 |
+04 | 557 | [Reverse Words In a String III ](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [C++](./557-ReverseWordsInAStringIII.cpp) [Java](./java/557-ReverseWordsInAStringIII.java)| :boom::boom::boom: | tricky| 12 June 2017 |
 05 | 161 | [One Edit Distance ](https://leetcode.com/problems/one-edit-distance/) | [C++](./161-OneEditDistance.cpp) | tricky, paid | | 12 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 06 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./409-LongestPalindrome.cpp) [Java](./java/409-LongestPalindrome.java)| | | 11 August 2017 |
