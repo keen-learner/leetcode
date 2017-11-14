@@ -16,7 +16,43 @@ Return the array [2, 1, 1, 0].
 
 */
 
+// Binary Search Tree
 class Solution {
+public:
+    struct Node {
+        int val, smaller;
+        Node *left, *right;
+        Node(int v, int s) : val(v), smaller(s), left(NULL), right(NULL) {}
+    };
+    
+    int insert(Node *&root, int v) {
+        if (!root) {
+            root = new Node(v, 0); 
+            return 0;
+        }
+        
+        if (v < root->val) {
+            root->smaller++; 
+            return insert(root->left, v);
+        }
+        
+        else {
+            return insert(root->right, v) + root->smaller + (v > root->val ? 1 : 0);
+        }
+    }
+    
+    vector<int> countSmaller(vector<int>& nums) {
+        vector<int> res(nums.size());
+        Node *root = NULL;
+        for (int i = nums.size() - 1; i >= 0; --i) {
+            res[i] = insert(root, nums[i]);
+        }
+        return res;
+    }
+};
+
+
+class Solution1 {
 public:
     vector<int> count;
     vector<int> countSmaller(vector<int>& nums) {    
