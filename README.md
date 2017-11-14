@@ -348,7 +348,7 @@
 19 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./290-WordPattern.cpp) [Java](./java/290-WordPattern.java)|:boom::boom::boom::boom::boom:| | 27 September 2017 |
 20 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./125-ValidPalindrome.cpp) [Java](./java/125-ValidPalindrome.java)|:boom::boom::boom:| | 27 September 2017 |
 21 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./242-ValidAnagram.cpp) [Java](./java/242-ValidAnagram.java)|:star::star::star::star::star:|hash and sort approach | 27 September 2017 |
-22 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./387-FirstUniqueCharacterInAString.cpp) |:star::star::star::star::star:| | 27 September 2017 |
+22 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./387-FirstUniqueCharacterInAString.cpp) [Java](./java/387-FirstUniqueCharacterInAString.java)|:star::star::star::star::star:|we can traverse string or map twice | 27 September 2017 |
 23 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./344-ReverseString.cpp) |:star::star::star:| | 27 September 2017 |
 24 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./345-ReverseVowelsOfAString.cpp) |:star::star::star:| | 27 September 2017 |
 25 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C++](./392-IsSubsequence.cpp) |:boom::boom::boom:| | 30 September 2017 |
