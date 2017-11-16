@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 270)
+# Leetcode Algo Problem Solutions (Count = 271)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -11,7 +11,7 @@
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 23)](#09-dfs-recursion) 
-  10. [Strings (Count = 29)](#10-strings) 
+  10. [Strings (Count = 30)](#10-strings) 
   11. [Dynamic Programming (Count = 21)](#11-dynamic-programming) 
   12. [Greedy (Count = 04)](#12-greedy) 
   13. [Stack (Count = 06)](#13-stack) 
@@ -356,6 +356,7 @@
 27 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [C++](./621-TaskScheduler.cpp) [Java](./java/621-TaskScheduler.java)|:boom::boom::boom::boom::boom:|| 12 November 2017 |
 28 | 358 | [Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [C++](./358-RearrangeStringKDistanceApart.cpp) |:boom::boom::boom::boom::boom:|paid| 12 November 2017 |
 29 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | [C++](./443-StringCompression.cpp) [Java](./java/443-StringCompression.java)|:boom::boom::boom:|tricky for cases when cnt=1 and cnt>=10| 14 November 2017 |
+30 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/string-compression/) | [C++](./386-LexicographicalNumbers.cpp) [Java](./java/386-LexicographicalNumbers.java)|:boom::boom::boom:|tricky cases, see dfs approach and iterative one| 16 November 2017 |
 
 
 ## 11. Dynamic Programming
