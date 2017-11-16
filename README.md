@@ -420,10 +420,10 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [C++](./207-CourseSchedule.cpp) |  | | 14 August 2017 |
+01 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [C++](./207-CourseSchedule.cpp) [Java](./java/207-CourseSchedule.java)|  | | 14 August 2017 |
 02 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [C++](./210-CourseScheduleII.cpp) [Java](./java/210-CourseScheduleII.java) | :boom::boom::boom::boom::boom: | | 14 August 2017 |
 03 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [C++](./133-CloneGraph.cpp) [Java](./java/133-CloneGraph.java) | :boom::boom::boom::boom::boom: | | 17 September 2017 |
-04 | 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [C++](./261-GraphValidTree.cpp) | :boom::boom::boom::boom::boom: | | 6 October 2017 |
+04 | 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [C++](./261-GraphValidTree.cpp) | :boom::boom::boom::boom::boom: |paid| 6 October 2017 |
 04 | 0 | [Detect Cycle in a Graph](http://www.geeksforgeeks.org/detect-cycle-in-a-graph/) | [C++](./extras/0-DetectCycleInGraph.cpp) | :boom::boom::boom::boom::boom: | | 15 October 2017 |
 05 | 547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) | [C++](./547-FriendCircles.cpp) [Java](./java/547-FriendCircles.java)| :boom::boom::boom::boom::boom: | | 6 October 2017 |
 06 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C++](./79-WordSearch.cpp) [Java](./java/79-WordSearch.java)| :boom::boom::boom::boom::boom: |two approach, visited matrix and change orig matrix | 7 October 2017 |
