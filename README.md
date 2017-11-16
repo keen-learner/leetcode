@@ -400,7 +400,7 @@
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./11-ContainerWithMostWater.cpp) [Java](./java/11-ContainerWithMostWater.java)| :boom::boom::boom::boom::boom: | greedy,nice| 18 July 2017 |
 02 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./42-TrappingRainWater.cpp) [Java](./java/42-TrappingRainWater.java)| :boom::boom::boom::boom::boom: | greedy,difficult| 18 July 2017 |
-03 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./55-JumpGame.cpp) |:boom::boom::boom:| | 25 July 2017 |
+03 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./55-JumpGame.cpp) [Java](./java/55-JumpGame.java)|:boom::boom::boom:| | 25 July 2017 |
 04 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [C++](./134-GasStation.cpp) [Java](./java/134-GasStation.java)|:boom::boom::boom::boom::boom:| | 01 November 2017 |
 
 
