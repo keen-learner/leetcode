@@ -398,8 +398,8 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./11-ContainerWithMostWater.cpp) | greedy,nice | | 18 July 2017 |
-02 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./42-TrappingRainWater.cpp) | greedy,difficult | | 18 July 2017 |
+01 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./11-ContainerWithMostWater.cpp) | :boom::boom::boom::boom::boom: | greedy,nice| 18 July 2017 |
+02 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./42-TrappingRainWater.cpp) | :boom::boom::boom::boom::boom: | greedy,difficult| 18 July 2017 |
 03 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./55-JumpGame.cpp) |:boom::boom::boom:| | 25 July 2017 |
 04 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [C++](./134-GasStation.cpp) [Java](./java/134-GasStation.java)|:boom::boom::boom::boom::boom:| | 01 November 2017 |
 
@@ -420,8 +420,8 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [C++](./207-CourseSchedule.cpp) [Java](./java/207-CourseSchedule.java)|  | | 14 August 2017 |
-02 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [C++](./210-CourseScheduleII.cpp) [Java](./java/210-CourseScheduleII.java) | :boom::boom::boom::boom::boom: | | 14 August 2017 |
+01 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [C++](./207-CourseSchedule.cpp) [Java](./java/207-CourseSchedule.java)| :boom::boom::boom::boom::boom: |topological sort | 14 August 2017 |
+02 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [C++](./210-CourseScheduleII.cpp) [Java](./java/210-CourseScheduleII.java) | :boom::boom::boom::boom::boom: | topological sort| 14 August 2017 |
 03 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [C++](./133-CloneGraph.cpp) [Java](./java/133-CloneGraph.java) | :boom::boom::boom::boom::boom: | | 17 September 2017 |
 04 | 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [C++](./261-GraphValidTree.cpp) | :boom::boom::boom::boom::boom: |paid| 6 October 2017 |
 04 | 0 | [Detect Cycle in a Graph](http://www.geeksforgeeks.org/detect-cycle-in-a-graph/) | [C++](./extras/0-DetectCycleInGraph.cpp) | :boom::boom::boom::boom::boom: | | 15 October 2017 |
