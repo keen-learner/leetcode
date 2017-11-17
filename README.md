@@ -373,10 +373,10 @@
 05 | 53 | [ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | [C++](./53-MaximumSubarray.cpp) [Java](./java/53-MaximumSubarray.java)| :star::star::star::star::star:| | 18 July 2017 |
 06 | 70 | [ Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/) | [C++](./70-ClimbingStairs.cpp) [Java](./java/70-ClimbingStairs.java)|:star::star::star::star::star:|note case n = 0 | 18 July 2017 |
 07 | 91 | [ Decode Ways ](https://leetcode.com/problems/decode-ways/) | [C++](./91-DecodeWays.cpp) [Java](./java/91-DecodeWays.java)|:boom::boom::boom::boom::boom:| | 18 July 2017 |
+08 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](./198-HouseRobber.cpp) [Java](./java/198-HouseRobber.java)| | | 30 July 2017 |
+09 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./152-MaximumProductSubarray.cpp) [Java](./java/152-MaximumProductSubarray.java)| | | 1 August 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-08 | 322 | [ Coin Change ](https://leetcode.com/problems/coin-change/) | [C++](./322-CoinChange.cpp) [Java](./java/322-CoinChange.java)| | | 29 July 2017 |
-09 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](./198-HouseRobber.cpp) [Java](./java/198-HouseRobber.java)| | | 30 July 2017 |
-10 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./152-MaximumProductSubarray.cpp) [Java](./java/152-MaximumProductSubarray.java)| | | 1 August 2017 |
+10 | 322 | [ Coin Change ](https://leetcode.com/problems/coin-change/) | [C++](./322-CoinChange.cpp) [Java](./java/322-CoinChange.java)| | | 29 July 2017 |
 11 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./416-PartitionEqualSubsetSum.cpp) [Java](./java/416-PartitionEqualSubsetSum.java)|:boom::boom::boom::boom::boom:|see subset sum problem, like 0-1 knapsack, see O(n) space soln | 13 September 2017 |
 12 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [C++](./64-MinimumPathSum.cpp) [Java](./java/64-MinimumPathSum.java)|:boom::boom::boom:|| 13 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |

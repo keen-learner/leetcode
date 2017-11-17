@@ -13,7 +13,23 @@ Follow up: Could you improve it to O(n log n) time complexity?
 
 */
 
+// http://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/
+//Time: O(nlogn)
 class Solution {
+public:
+    int lengthOfLIS(vector<int>& nums) { //also giving the sequence
+        vector<int> res;
+        for(int i=0; i<nums.size(); i++) {
+            auto it = std::lower_bound(res.begin(), res.end(), nums[i]);
+            if(it==res.end()) res.push_back(nums[i]);
+            else *it = nums[i];
+        }
+        return res.size();
+    }
+};
+
+// Time: O(n^2)
+class Solution1 {
 public:
     int lengthOfLIS(vector<int>& nums) {
         if(nums.size() == 0) return 0;
