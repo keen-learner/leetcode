@@ -299,16 +299,17 @@
 06 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [C++](./46-Permutations.cpp) [Java](./java/46-Permutations.java)| :star::star::star:| DFS, Recursion| 10 June 2017 |
 07 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [C++](./47-PermutationsII.cpp) [Java](./java/47-PermutationsII.java)|:star::star::star::star::star: | DFS, Recursion| 10 June 2017 |
 08 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++](./31-NextPermutation.cpp) [Java](./java/31-NextPermutation.java)| :star::star::star::star::star:| DFS, Recursion| 10 June 2017 |
-09 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [C++](./60-PermutationSequence.cpp) |Tricky | | 10 June 2017 |
-10 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | [C++](./266-PalindromePermutation.cpp) |PAID | | 10 June 2017 |
-11 | 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | [C++](./267-PalindromePermutationII.cpp) |PAID | | 10 June 2017 |
+09 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [C++](./60-PermutationSequence.cpp) | :boom::boom::boom::boom::boom:| Tricky| 10 June 2017 |
+10 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | [C++](./266-PalindromePermutation.cpp) | :boom::boom::boom:| PAID| 10 June 2017 |
+11 | 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | [C++](./267-PalindromePermutationII.cpp) | :boom::boom::boom::boom::boom:| PAID| 10 June 2017 |
+-- | -- | -- | -- | -- | -- | -- |
 12 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [C++](./78-Subsets.cpp) [Java](./java/78-Subsets.java)| :star::star::star: | dfs,recursion| 10 June 2017 |
 13 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [C++](./90-SubsetsII.cpp) [Java](./java/90-SubsetsII.java)|:star::star::star::star::star:| dfs,recursion,tricky| 10 June 2017 |
 14 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [C++](./39-CombinationSum.cpp) [Java](./java/39-CombinationSum.java)|:star::star::star::star::star: | dfs,recursion,tricky| 10 June 2017 |
 15 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [C++](./40-CombinationSumII.cpp) [Java](./java/40-CombinationSumII.java)|:star::star::star::star::star: | dfs,recursion,tricky| 10 June 2017 |
 16 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [C++](./216-CombinationSumIII.cpp) [Java](./java/216-CombinationSumIII.java)|:star::star::star::star::star:| dfs,recursion,tricky| 10 June 2017 |
 17 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./377-CombinationSumIV.cpp) [Java](./java/377-CombinationSumIV.java)|:boom::boom::boom::boom::boom:| DP, dfs,recursion,follow up tricky| 10 June 2017 |
-18 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [C++](./77-Combinations.cpp) | dfs,recursion,tricky | | 10 June 2017 |
+18 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [C++](./77-Combinations.cpp) | :boom::boom::boom::boom::boom: |see bit approach: next number with k set bits; dfs,recursion,tricky| 10 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 19 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C++](./22-GenerateParentheses.cpp) |:boom::boom::boom: | dfs,recursion,tricky| 27 September 2017 |
 20 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](./17-LetterCombinationsOfAPhoneNumber.cpp) |:boom::boom::boom: | dfs,recursion,tricky| 27 September 2017 |
@@ -365,11 +366,14 @@
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 72 | [Edit Distance ](https://leetcode.com/problems/edit-distance/) | [C++](./72-EditDistance.cpp) [Java](./java/72-EditDistance.java)|:boom::boom::boom::boom::boom:| | 22 June 2017 |
 02 | 583 | [ Delete Operation for Two Strings ](https://leetcode.com/problems/delete-operation-for-two-strings/) | [C++](./583-DeleteOperationForTwoStrings.cpp) [Java](./java/583-DeleteOperationForTwoStrings.java)|:boom::boom::boom::boom::boom:| tricky, similar to 72| 22 June 2017 |
+-- | -- | -- | -- | -- | -- | -- |
 03 | 10 | [ Regular Expression Matching ](https://leetcode.com/problems/regular-expression-matching/) | [C++](./10-RegularExpressionMatching.cpp) [Java](./java/10-RegularExpressionMatching.java)|:boom::boom::boom::boom::boom:| | 28 June 2017 |
 04 | 44 | [ Wildcard Matching ](https://leetcode.com/problems/wildcard-matching/) | [C++](./44-WildcardMatching.cpp) [Java](./java/44-WildcardMatching.java)|:boom::boom::boom::boom::boom:| | 14 September 2017 |
+-- | -- | -- | -- | -- | -- | -- |
 05 | 53 | [ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | [C++](./53-MaximumSubarray.cpp) [Java](./java/53-MaximumSubarray.java)| :star::star::star::star::star:| | 18 July 2017 |
 06 | 70 | [ Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/) | [C++](./70-ClimbingStairs.cpp) [Java](./java/70-ClimbingStairs.java)|:star::star::star::star::star:|note case n = 0 | 18 July 2017 |
 07 | 91 | [ Decode Ways ](https://leetcode.com/problems/decode-ways/) | [C++](./91-DecodeWays.cpp) [Java](./java/91-DecodeWays.java)|:boom::boom::boom::boom::boom:| | 18 July 2017 |
+-- | -- | -- | -- | -- | -- | -- |
 08 | 322 | [ Coin Change ](https://leetcode.com/problems/coin-change/) | [C++](./322-CoinChange.cpp) [Java](./java/322-CoinChange.java)| | | 29 July 2017 |
 09 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](./198-HouseRobber.cpp) [Java](./java/198-HouseRobber.java)| | | 30 July 2017 |
 10 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./152-MaximumProductSubarray.cpp) [Java](./java/152-MaximumProductSubarray.java)| | | 1 August 2017 |

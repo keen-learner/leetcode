@@ -23,7 +23,8 @@ If nums = [1,2,3], a solution is:
 // Iterative 
 
 /*
-This problem can also be solved iteratively. Take [1, 2, 3] in the problem statement as an example. The process of generating all the subsets is like:
+This problem can also be solved iteratively. Take [1, 2, 3] in the problem 
+statement as an example. The process of generating all the subsets is like:
 
 Initially: [[]]
 Adding the first number to all the existed subsets: [[], [1]];
