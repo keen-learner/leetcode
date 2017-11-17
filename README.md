@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 271)
+# Leetcode Algo Problem Solutions (Count = 272)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -12,7 +12,7 @@
   08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 23)](#09-dfs-recursion) 
   10. [Strings (Count = 30)](#10-strings) 
-  11. [Dynamic Programming (Count = 21)](#11-dynamic-programming) 
+  11. [Dynamic Programming (Count = 22)](#11-dynamic-programming) 
   12. [Greedy (Count = 04)](#12-greedy) 
   13. [Stack (Count = 06)](#13-stack) 
   14. [BFS, Graph, Union Find (Count = 06)](#14-bfs-graph) 
@@ -373,29 +373,30 @@
 05 | 53 | [ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | [C++](./53-MaximumSubarray.cpp) [Java](./java/53-MaximumSubarray.java)| :star::star::star::star::star:| | 18 July 2017 |
 06 | 70 | [ Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/) | [C++](./70-ClimbingStairs.cpp) [Java](./java/70-ClimbingStairs.java)|:star::star::star::star::star:|note case n = 0 | 18 July 2017 |
 07 | 91 | [ Decode Ways ](https://leetcode.com/problems/decode-ways/) | [C++](./91-DecodeWays.cpp) [Java](./java/91-DecodeWays.java)|:boom::boom::boom::boom::boom:| | 18 July 2017 |
-08 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](./198-HouseRobber.cpp) [Java](./java/198-HouseRobber.java)| | | 30 July 2017 |
-09 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./152-MaximumProductSubarray.cpp) [Java](./java/152-MaximumProductSubarray.java)| | | 1 August 2017 |
+08 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](./198-HouseRobber.cpp) [Java](./java/198-HouseRobber.java)| :boom::boom::boom:| | 30 July 2017 |
+09 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [C++](./152-MaximumProductSubarray.cpp) [Java](./java/152-MaximumProductSubarray.java)| :boom::boom::boom:| | 1 August 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-10 | 322 | [ Coin Change ](https://leetcode.com/problems/coin-change/) | [C++](./322-CoinChange.cpp) [Java](./java/322-CoinChange.java)| | | 29 July 2017 |
+10 | 322 | [ Coin Change ](https://leetcode.com/problems/coin-change/) | [C++](./322-CoinChange.cpp) [Java](./java/322-CoinChange.java)| :boom::boom::boom:| | 29 July 2017 |
 11 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./416-PartitionEqualSubsetSum.cpp) [Java](./java/416-PartitionEqualSubsetSum.java)|:boom::boom::boom::boom::boom:|see subset sum problem, like 0-1 knapsack, see O(n) space soln | 13 September 2017 |
 12 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [C++](./64-MinimumPathSum.cpp) [Java](./java/64-MinimumPathSum.java)|:boom::boom::boom:|| 13 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 13 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C++](./300-LongestIncreasingSubsequence.cpp) [Java](./java/300-LongestIncreasingSubsequence.java)|:boom::boom::boom:|| 16 September 2017 |
 14 | 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [C++](./673-NumberOfLongestIncreasingSubsequence.cpp) [Java](./java/673-NumberOfLongestIncreasingSubsequence.java)|:boom::boom::boom:|| 16 September 2017 |
+15 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](./334-IncreasingTripletSubsequence.cpp) [Java](./java/334-IncreasingTripletSubsequence.java)|:boom::boom::boom:|| 16 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-15 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [C++](./62-UniquePaths.cpp) |:boom::boom::boom:|| 3 October 2017 |
-16 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C++](./63-UniquePathsII.cpp) |:boom::boom::boom:|| 3 October 2017 |
+16 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [C++](./62-UniquePaths.cpp) |:boom::boom::boom:|| 3 October 2017 |
+17 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C++](./63-UniquePathsII.cpp) |:boom::boom::boom:|| 3 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-17 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [C++](./221-MaximalSquare.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
-18 | 84 | [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./84-LargestRectangleInHistogram.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
-19 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [C++](./85-MaximalRectangle.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
-19 | 0 | [Maximum sum rectangle in a 2D matrix](http://www.geeksforgeeks.org/dynamic-programming-set-27-max-sum-rectangle-in-a-2d-matrix/) | [C++](./extras/0-MaximumSumRectangleIn2DMatrix.cpp) |:boom::boom::boom::boom::boom:|Dynamic Programming, Kadane Algo| 5 October 2017 |
-19 | 0 | [Largest rectangular sub-matrix whose sum is 0](http://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/) | [C++](./extras/0-LargestRectangularSubMatrixWhoseSumIs0.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
-19 | 0 | [Largest area rectangular sub-matrix with equal number of 1’s and 0’s](http://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/) | [C++](./extras/0-LargestRectangularSubMatrixWithEqual1And0.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
+18 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [C++](./221-MaximalSquare.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
+19 | 84 | [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./84-LargestRectangleInHistogram.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
+20 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [C++](./85-MaximalRectangle.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
+20 | 0 | [Maximum sum rectangle in a 2D matrix](http://www.geeksforgeeks.org/dynamic-programming-set-27-max-sum-rectangle-in-a-2d-matrix/) | [C++](./extras/0-MaximumSumRectangleIn2DMatrix.cpp) |:boom::boom::boom::boom::boom:|Dynamic Programming, Kadane Algo| 5 October 2017 |
+20 | 0 | [Largest rectangular sub-matrix whose sum is 0](http://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/) | [C++](./extras/0-LargestRectangularSubMatrixWhoseSumIs0.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
+20 | 0 | [Largest area rectangular sub-matrix with equal number of 1’s and 0’s](http://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/) | [C++](./extras/0-LargestRectangularSubMatrixWithEqual1And0.cpp) |:boom::boom::boom::boom::boom:|| 5 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-20 | 329 | [Longest Increasing Path in a Matrix](http://www.leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./329-LongestIncreasingPathInAMatrix.cpp) [Java](./java/329-LongestIncreasingPathInAMatrix.java)|:boom::boom::boom::boom::boom:|see 79| 26 October 2017 |
+21 | 329 | [Longest Increasing Path in a Matrix](http://www.leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](./329-LongestIncreasingPathInAMatrix.cpp) [Java](./java/329-LongestIncreasingPathInAMatrix.java)|:boom::boom::boom::boom::boom:|see 79| 26 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-21 | 279 | [Perfect Squares](http://www.leetcode.com/problems/perfect-squares/) | [C++](./279-PerfectSquares.cpp) [Java](./java/279-PerfectSquares.java)|:boom::boom::boom::boom::boom:|see BFS, other DP, Math solutions| 29 October 2017 |
+22 | 279 | [Perfect Squares](http://www.leetcode.com/problems/perfect-squares/) | [C++](./279-PerfectSquares.cpp) [Java](./java/279-PerfectSquares.java)|:boom::boom::boom::boom::boom:|see BFS, other DP, Math solutions| 29 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
