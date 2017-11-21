@@ -7,15 +7,7 @@ from the root node down to the nearest leaf node.
 
 */
 
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {

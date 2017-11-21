@@ -23,11 +23,11 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./7-ReverseInteger.cpp) [Java](./java/7-ReverseInteger.java)| good | | 16 July 2017 |
-02 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./12-IntegerToRoman.cpp) [Java](./java/12-IntegerToRoman.java)|  | | 16 July 2017 |
-03 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./13-RomanToInteger.cpp) [Java](./java/13-RomanToInteger.java)|  | | 16 July 2017 |
-04 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](./190-ReverseBits.cpp) [Java](./java/190-ReverseBits.java) |  | | 27 July 2017 |
-05 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./9-PalindromeNumber.cpp) | good | | 24 August 2017 |
+01 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./7-ReverseInteger.cpp) [Java](./java/7-ReverseInteger.java)| :boom::boom::boom: | good| 16 July 2017 |
+02 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./12-IntegerToRoman.cpp) [Java](./java/12-IntegerToRoman.java)| :star::star::star::star::star: | | 16 July 2017 |
+03 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./13-RomanToInteger.cpp) [Java](./java/13-RomanToInteger.java)| :star::star::star::star::star: | | 16 July 2017 |
+04 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](./190-ReverseBits.cpp) [Java](./java/190-ReverseBits.java) |:star::star::star::star::star:| | 27 July 2017 |
+05 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./9-PalindromeNumber.cpp) [Java](./java/9-PalindromeNumber.java)| :boom::boom::boom: | good; case negative numbers| 24 August 2017 |
 06 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./29-DivideTwoIntegers.cpp) [Java](./java/29-DivideTwoIntegers.java)| :boom::boom::boom::boom::boom:|tricky, see 371 | 27 September 2017 |
 07 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](./43-MultiplyStrings.cpp) [Java](./java/43-MultiplyStrings.java)| :boom::boom::boom::boom::boom:|tricky | 27 September 2017 |
 08 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [C++](./66-PlusOne.cpp) [Java](./java/66-PlusOne.java)| :star::star::star::star::star:|tricky | 27 September 2017 |
