@@ -35,7 +35,7 @@
 10 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](./461-HammingDistance.cpp) [Java](./java/461-HammingDistance.java)| :star::star::star::star::star:| | 28 September 2017 |
 11 | 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [C++](./477-TotalHammingDistance.cpp) [Java](./java/477-TotalHammingDistance.java)|:boom::boom::boom:|nice approach | 28 September 2017 |
 12 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [C++](./633-SumOfSquareNumbers.cpp) [Java](./java/633-SumOfSquareNumbers.java)|:star::star::star::star::star:|cases less 0/equal 0/1/2 | 28 September 2017 |
-13 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./371-SumOfTwoIntegers.cpp) |:boom::boom::boom:|[https://discuss.leetcode.com/topic/50315/a-summary-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently], see 29 | 30 September 2017 |
+13 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./371-SumOfTwoIntegers.cpp) [Java](./java/371-SumOfTwoIntegers.java)|:boom::boom::boom:|[https://discuss.leetcode.com/topic/50315/a-summary-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently], see 29 | 30 September 2017 |
 14 | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [C++](./260-SingleNumberIII.cpp) [Java](./java/260-SingleNumberIII.java)|:boom::boom::boom:| | 30 September 2017 |
 15 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C++](./204-CountPrimes.cpp) [Java](./java/204-CountPrimes.java)|:star::star::star::star::star:| | 29 October 2017 |
  
