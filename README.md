@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 272)
+# Leetcode Algo Problem Solutions (Count = 273)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -6,7 +6,7 @@
   02. [Arrays, General (Count = 52)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
   04. [Sort (Count = 9)](#04-sort) 
-  05. [LinkedList (Count = 26)](#05-linkedlist) 
+  05. [LinkedList (Count = 27)](#05-linkedlist) 
   06. [Trees (Count = 45)](#06-trees) 
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue) 
@@ -56,10 +56,10 @@
 10 | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [C++](./220-ContainsDuplicateIII.cpp) [Java](./java/220-ContainsDuplicateIII.java)|:boom::boom::boom::boom::boom:| | 8 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 11 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./169-MajorityElement.cpp) [Java](./java/169-MajorityElement.java)| :boom::boom::boom: | tricky| 8 June 2017 |
-12 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [C++](./229-MajorityElementII.cpp) [C++](./229-MajorityElementII.java)|:boom::boom::boom::boom::boom:| tricky, generalise it| 8 June 2017 |
+12 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [C++](./229-MajorityElementII.cpp) [Java](./java/229-MajorityElementII.java)|:boom::boom::boom::boom::boom:| tricky, generalise it| 8 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 13 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./168-ExcelSheetColumnTitle.cpp) [Java](./java/168-ExcelSheetColumnTitle.java)| :boom::boom::boom: | num to excel col; math; note string concat operation| 8 June 2017 |
-14 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./171-ExcelSheetColumnNumber.cpp) | [Java](./java/171-ExcelSheetColumnNumber.java) | excel col to num; math| 8 June 2017 |
+14 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./171-ExcelSheetColumnNumber.cpp) [Java](./java/171-ExcelSheetColumnNumber.java)|:boom::boom::boom:| excel col to num; math| 8 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 15 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](./189-RotateArray.cpp) [Java](./java/189-RotateArray.java)| | | 6 May 2017 |
 16 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](./61-RotateList.cpp) [Java](./java/61-RotateList.java)| | | 6 May 2017 |
@@ -175,11 +175,12 @@
 20 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [C++](./143-ReorderList.cpp) [Java](./java/143-ReorderList.java)|:boom::boom::boom:|handle even/odd length case | 1 July 2017 |
 21 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [C++](./86-PartitionList.cpp) [Java](./java/86-PartitionList.java)|:boom::boom::boom:|| 1 July 2017 |
 22 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](./328-OddEvenLinkedList.cpp) [Java](./java/328-OddEvenLinkedList.java)|:boom::boom::boom:| | 1 July 2017 |
-23 | 24 | [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./24-SwapNodesInPairs.cpp) [Java](./java/24-SwapNodesInPairs.java)|:boom::boom::boom:| tricky| 1 July 2017 |
-24 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [C++](./25-ReverseNodesInKGroup.cpp) [Java](./java/25-ReverseNodesInKGroup.java)|:boom::boom::boom::boom::boom:| tricky| 1 July 2017 |
+23 | 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [C++](./725-SplitLinkedListInParts.cpp) [Java](./java/725-SplitLinkedListInParts.java)|:boom::boom::boom::boom::boom:|tricky | 20 November 2017 |
+24 | 24 | [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./24-SwapNodesInPairs.cpp) [Java](./java/24-SwapNodesInPairs.java)|:boom::boom::boom:| tricky| 1 July 2017 |
+25 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [C++](./25-ReverseNodesInKGroup.cpp) [Java](./java/25-ReverseNodesInKGroup.java)|:boom::boom::boom::boom::boom:| tricky| 1 July 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-25 | 138 | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./138-CopyListWithRandomPointer.cpp) [Java](./java/138-CopyListWithRandomPointer.java)|:boom::boom::boom::boom::boom:|tricky | 15 September 2017 |
-26 | 379 | [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) | [C++](./379-DesignPhoneDirectory.cpp) [Java](./java/379-DesignPhoneDirectory.java)|:boom::boom::boom::boom::boom:|tricky, harsh time constraints, paid, see both | 10 November 2017 |
+26 | 138 | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./138-CopyListWithRandomPointer.cpp) [Java](./java/138-CopyListWithRandomPointer.java)|:boom::boom::boom::boom::boom:|tricky | 15 September 2017 |
+27 | 379 | [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) | [C++](./379-DesignPhoneDirectory.cpp) [Java](./java/379-DesignPhoneDirectory.java)|:boom::boom::boom::boom::boom:|tricky, harsh time constraints, paid, see both | 10 November 2017 |
 
 
 ## 06. Trees
