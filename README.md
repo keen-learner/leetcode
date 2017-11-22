@@ -1,9 +1,9 @@
-# Leetcode Algo Problem Solutions (Count = 273)
+# Leetcode Algo Problem Solutions (Count = 274)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
   01. [Math (Count = 15)](#01-math) 
-  02. [Arrays, General (Count = 52)](#02-arrays-general) 
+  02. [Arrays, General (Count = 53)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
   04. [Sort (Count = 9)](#04-sort) 
   05. [LinkedList (Count = 27)](#05-linkedlist) 
@@ -110,6 +110,8 @@
 50 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [C++](./228-SummaryRanges.cpp) [Java](./java/228-SummaryRanges.java)|:boom::boom::boom:| tricky,similar to 495  | 9 November 2017 |
 51 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [C++](./163-MissingRanges.cpp) |:boom::boom::boom:| tricky,similar to 495, paid  | 9 November 2017 |
 52 | 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [C++](./436-FindRightInterval.cpp) [Java](./java/436-FindRightInterval.java)|:boom::boom::boom:| tricky,see 56, 57 etc  | 12 November 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+53 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [C++](./303-RangeSumQuery-Immutable.cpp) [Java](./java/303-RangeSumQuery-Immutable.java)|:boom::boom::boom:| | 21 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
