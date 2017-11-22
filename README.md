@@ -1,9 +1,9 @@
-# Leetcode Algo Problem Solutions (Count = 278)
+# Leetcode Algo Problem Solutions (Count = 279)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
   01. [Math (Count = 15)](#01-math) 
-  02. [Arrays, General (Count = 57)](#02-arrays-general) 
+  02. [Arrays, General (Count = 58)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
   04. [Sort (Count = 9)](#04-sort) 
   05. [LinkedList (Count = 27)](#05-linkedlist) 
@@ -116,6 +116,7 @@
 55 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./307-RangeSumQuery-Mutable.cpp) |:boom::boom::boom:|Binary Indexed Tree, Segment tree | 21 November 2017 |
 56 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | [C++](./308-RangeSumQuery2D-Mutable.cpp) |:boom::boom::boom:|Binary Indexed Tree, Segment tree, paid | 21 November 2017 |
 57 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/) | [C++](./370-RangeAddition.cpp) |:boom::boom::boom:|paid| 21 November 2017 |
+58 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [C++](./598-RangeAdditionII.cpp) [Java](./java/598-RangeAdditionII.java)|:boom::boom::boom:|| 21 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
