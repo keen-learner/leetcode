@@ -1,9 +1,9 @@
-# Leetcode Algo Problem Solutions (Count = 275)
+# Leetcode Algo Problem Solutions (Count = 276)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
   01. [Math (Count = 15)](#01-math) 
-  02. [Arrays, General (Count = 54)](#02-arrays-general) 
+  02. [Arrays, General (Count = 55)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
   04. [Sort (Count = 9)](#04-sort) 
   05. [LinkedList (Count = 27)](#05-linkedlist) 
@@ -113,6 +113,7 @@
 -- | -- | -- | -- | -- | -- | -- |
 53 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [C++](./303-RangeSumQuery-Immutable.cpp) [Java](./java/303-RangeSumQuery-Immutable.java)|:star::star::star::star::star:| | 21 November 2017 |
 54 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./304-RangeSumQuery2D-Immutable.cpp) [Java](./java/304-RangeSumQuery2D-Immutable.java)|:boom::boom::boom:| | 21 November 2017 |
+55 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./307-RangeSumQuery-Mutable.cpp) |:boom::boom::boom:|Binary Indexed Tree, Segment tree | 21 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
