@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 284)
+# Leetcode Algo Problem Solutions (Count = 285)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -15,7 +15,7 @@
   11. [Dynamic Programming (Count = 22)](#11-dynamic-programming) 
   12. [Greedy (Count = 04)](#12-greedy) 
   13. [Stack (Count = 06)](#13-stack) 
-  14. [BFS, Graph, Union Find (Count = 06)](#14-bfs-graph) 
+  14. [BFS, Graph, Union Find (Count = 07)](#14-bfs-graph) 
   15. [Miscellaneous (Count = 04)](#15-miscellaneous) 
   16. [SQL (Count = 03)](#16-sql) 
 
@@ -447,6 +447,7 @@
 04 | 0 | [Detect Cycle in a Graph](http://www.geeksforgeeks.org/detect-cycle-in-a-graph/) | [C++](./extras/0-DetectCycleInGraph.cpp) | :boom::boom::boom::boom::boom: | | 15 October 2017 |
 05 | 547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) | [C++](./547-FriendCircles.cpp) [Java](./java/547-FriendCircles.java)| :boom::boom::boom::boom::boom: | | 6 October 2017 |
 06 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C++](./79-WordSearch.cpp) [Java](./java/79-WordSearch.java)| :boom::boom::boom::boom::boom: |two approach, visited matrix and change orig matrix | 7 October 2017 |
+07 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [C++](./127-WordLadder.cpp) [Java](./java/127-WordLadder.java)| :boom::boom::boom::boom::boom: | | 24 November 2017 |
 
 
 
