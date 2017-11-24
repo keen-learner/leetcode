@@ -1,9 +1,9 @@
-# Leetcode Algo Problem Solutions (Count = 280)
+# Leetcode Algo Problem Solutions (Count = 281)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
   01. [Math (Count = 15)](#01-math) 
-  02. [Arrays, General (Count = 58)](#02-arrays-general) 
+  02. [Arrays, General (Count = 59)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
   04. [Sort (Count = 9)](#04-sort) 
   05. [LinkedList (Count = 27)](#05-linkedlist) 
@@ -117,6 +117,8 @@
 56 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | [C++](./308-RangeSumQuery2D-Mutable.cpp) |:boom::boom::boom:|Binary Indexed Tree, Segment tree, paid | 21 November 2017 |
 57 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/) | [C++](./370-RangeAddition.cpp) |:boom::boom::boom:|paid| 21 November 2017 |
 58 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [C++](./598-RangeAdditionII.cpp) [Java](./java/598-RangeAdditionII.java)|:boom::boom::boom:|| 21 November 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+59 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-subsequence/) | [C++](./128-LongestConsecutiveSequence.cpp) [Java](./java/128-LongestConsecutiveSequence.java)|:boom::boom::boom:|also see 300-LongestIncreasingSubsequence| 23 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
