@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 283)
+# Leetcode Algo Problem Solutions (Count = 284)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -7,7 +7,7 @@
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
   04. [Sort (Count = 9)](#04-sort) 
   05. [LinkedList (Count = 27)](#05-linkedlist) 
-  06. [Trees (Count = 46)](#06-trees) 
+  06. [Trees (Count = 47)](#06-trees) 
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 23)](#09-dfs-recursion) 
@@ -252,7 +252,8 @@
 44 | 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | [C++](./508-MostFrequentSubtreeSum.cpp) [Java](./java/508-MostFrequentSubtreeSum.java)|:star::star::star::star::star:|| 01 November 2017 |
 45 | 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | [C++](./250-CountUnivalueSubtrees.cpp) |:star::star::star::star::star:|paid| 01 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-46 | 298 | [Binary Tree Longest Consecutive Sequence ](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | [C++](./298-BinaryTreeLongestConsecutiveSequence.cpp) |:boom::boom::boom:|paid| 24 November 2017 |
+46 | 298 | [Binary Tree Longest Consecutive Sequence ](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | [C++](./298-BinaryTreeLongestConsecutiveSequence.cpp) |:boom::boom::boom:|paid, see path sum and diameter problems| 24 November 2017 |
+47 | 549 | [Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/) | [C++](./549-BinaryTreeLongestConsecutiveSequenceII.cpp) |:boom::boom::boom:|paid| 24 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
