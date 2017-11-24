@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 281)
+# Leetcode Algo Problem Solutions (Count = 283)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -7,7 +7,7 @@
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
   04. [Sort (Count = 9)](#04-sort) 
   05. [LinkedList (Count = 27)](#05-linkedlist) 
-  06. [Trees (Count = 45)](#06-trees) 
+  06. [Trees (Count = 46)](#06-trees) 
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 23)](#09-dfs-recursion) 
@@ -118,7 +118,7 @@
 57 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/) | [C++](./370-RangeAddition.cpp) |:boom::boom::boom:|paid| 21 November 2017 |
 58 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [C++](./598-RangeAdditionII.cpp) [Java](./java/598-RangeAdditionII.java)|:boom::boom::boom:|| 21 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-59 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-subsequence/) | [C++](./128-LongestConsecutiveSequence.cpp) [Java](./java/128-LongestConsecutiveSequence.java)|:boom::boom::boom:|also see 300-LongestIncreasingSubsequence| 23 November 2017 |
+59 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-subsequence/) | [C++](./128-LongestConsecutiveSequence.cpp) [Java](./java/128-LongestConsecutiveSequence.java)|:boom::boom::boom::boom::boom:|also see 300-LongestIncreasingSubsequence| 23 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
@@ -251,6 +251,8 @@
 43 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [C++](./572-SubtreeOfAnotherTree.cpp) [Java](./java/572-SubtreeOfAnotherTree.java)|:star::star::star::star::star:|| 01 November 2017 |
 44 | 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | [C++](./508-MostFrequentSubtreeSum.cpp) [Java](./java/508-MostFrequentSubtreeSum.java)|:star::star::star::star::star:|| 01 November 2017 |
 45 | 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | [C++](./250-CountUnivalueSubtrees.cpp) |:star::star::star::star::star:|paid| 01 November 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+46 | 298 | [Binary Tree Longest Consecutive Sequence ](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | [C++](./298-BinaryTreeLongestConsecutiveSequence.cpp) |:boom::boom::boom:|paid| 24 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
