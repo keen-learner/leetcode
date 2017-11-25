@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 287)
+# Leetcode Algo Problem Solutions (Count = 288)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -14,7 +14,7 @@
   10. [Strings (Count = 31)](#10-strings) 
   11. [Dynamic Programming (Count = 23)](#11-dynamic-programming) 
   12. [Greedy (Count = 04)](#12-greedy) 
-  13. [Stack (Count = 06)](#13-stack) 
+  13. [Stack (Count = 07)](#13-stack) 
   14. [BFS, Graph, Union Find (Count = 08)](#14-bfs-graph) 
   15. [Miscellaneous (Count = 04)](#15-miscellaneous) 
   16. [SQL (Count = 03)](#16-sql) 
@@ -435,6 +435,7 @@
 04 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [C++](./32-LongestValidParentheses.cpp) | :boom::boom::boom::boom::boom: | | 23 August 2017 |
 05 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [C++](./71-SimplifyPath.cpp) [Java](./java/71-SimplifyPath.java)|:boom::boom::boom::boom::boom:| | 16 September 2017 |
 06 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](./232-ImplementQueueUsingStacks.cpp) |:boom::boom::boom:| | 6 October 2017 |
+07 | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | [C++](./339-NestedListWeightSum.cpp) |:boom::boom::boom:|paid, like 394 decode string | 24 November 2017 |
 
 
 ## 14. BFS, graph, Union Find 
