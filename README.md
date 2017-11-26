@@ -1,9 +1,9 @@
-# Leetcode Algo Problem Solutions (Count = 295)
+# Leetcode Algo Problem Solutions (Count = 296)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
   01. [Math (Count = 15)](#01-math) 
-  02. [Arrays, General (Count = 61)](#02-arrays-general) 
+  02. [Arrays, General (Count = 62)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
   04. [Sort (Count = 9)](#04-sort) 
   05. [LinkedList (Count = 27)](#05-linkedlist) 
@@ -96,30 +96,31 @@
 -- | -- | -- | -- | -- | -- | -- |
 40 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/) | [C++](./293-FlipGame.cpp) |:boom::boom::boom:| paid | 28 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-41 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./560-SubarraySumEqualsK.cpp) [Java](./java/560-SubarraySumEqualsK.java)|:boom::boom::boom:|  | 6 October 2017 |
-42 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [C++](./523-ContinuousSubarraySum.cpp) [Java](./java/523-ContinuousSubarraySum.java)|:boom::boom::boom:| see 416 | 6 October 2017 |
-43 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [C++](./525-ContiguousArray.cpp) [Java](./java/525-ContiguousArray.java)|:boom::boom::boom:| | 26 October 2017 |
-44 | 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [C++](./325-MaximumSizeSubarraySumEqualsK.cpp) |:boom::boom::boom::boom::boom:|paid| 6 October 2017 |
-45 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./209-MinimumSizeSubarraySum.cpp) [Java](./java/209-MinimumSizeSubarraySum.java)| :boom::boom::boom: | sliding window, tricky, NOTE:difference between this and 325| 23 August 2017 |
-46 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [C++](./581-ShortestUnsortedContinuousSubarray.cpp) [Java](./java/581-ShortestUnsortedContinuousSubarray.java)|:boom::boom::boom::boom::boom:|tricky with O(1) space | 27 October 2017 |
+41 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](./724-FindPivotIndex.cpp) [Java](./java/724-FindPivotIndex.java)|:star::star::star::star::star:| | 26 November 2017 |
+42 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./560-SubarraySumEqualsK.cpp) [Java](./java/560-SubarraySumEqualsK.java)|:boom::boom::boom:|  | 6 October 2017 |
+43 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [C++](./523-ContinuousSubarraySum.cpp) [Java](./java/523-ContinuousSubarraySum.java)|:boom::boom::boom:| see 416 | 6 October 2017 |
+44 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [C++](./525-ContiguousArray.cpp) [Java](./java/525-ContiguousArray.java)|:boom::boom::boom:| | 26 October 2017 |
+45 | 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [C++](./325-MaximumSizeSubarraySumEqualsK.cpp) |:boom::boom::boom::boom::boom:|paid| 6 October 2017 |
+46 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./209-MinimumSizeSubarraySum.cpp) [Java](./java/209-MinimumSizeSubarraySum.java)| :boom::boom::boom: | sliding window, tricky, NOTE:difference between this and 325| 23 August 2017 |
+47 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [C++](./581-ShortestUnsortedContinuousSubarray.cpp) [Java](./java/581-ShortestUnsortedContinuousSubarray.java)|:boom::boom::boom::boom::boom:|tricky with O(1) space | 27 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-47 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./463-IslandPerimeter.cpp) [Java](./java/463-IslandPerimeter.java)|:boom::boom::boom:| | 29 October 2017 |
-48 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [C++](./277-FindTheCelebrity.cpp) |:boom::boom::boom:|paid| 2 November 2017 |
+48 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./463-IslandPerimeter.cpp) [Java](./java/463-IslandPerimeter.java)|:boom::boom::boom:| | 29 October 2017 |
+49 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [C++](./277-FindTheCelebrity.cpp) |:boom::boom::boom:|paid| 2 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-49 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [C++](./495-TeemoAttacking.cpp) [Java](./java/495-TeemoAttacking.java)|:boom::boom::boom:| tricky, similar to interval problems 56, 57 etc.  | 9 November 2017 |
-50 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [C++](./228-SummaryRanges.cpp) [Java](./java/228-SummaryRanges.java)|:boom::boom::boom:| tricky,similar to 495  | 9 November 2017 |
-51 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [C++](./163-MissingRanges.cpp) |:boom::boom::boom:| tricky,similar to 495, paid  | 9 November 2017 |
-52 | 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [C++](./436-FindRightInterval.cpp) [Java](./java/436-FindRightInterval.java)|:boom::boom::boom:| tricky,see 56, 57 etc  | 12 November 2017 |
+50 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [C++](./495-TeemoAttacking.cpp) [Java](./java/495-TeemoAttacking.java)|:boom::boom::boom:| tricky, similar to interval problems 56, 57 etc.  | 9 November 2017 |
+51 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [C++](./228-SummaryRanges.cpp) [Java](./java/228-SummaryRanges.java)|:boom::boom::boom:| tricky,similar to 495  | 9 November 2017 |
+52 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [C++](./163-MissingRanges.cpp) |:boom::boom::boom:| tricky,similar to 495, paid  | 9 November 2017 |
+53 | 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [C++](./436-FindRightInterval.cpp) [Java](./java/436-FindRightInterval.java)|:boom::boom::boom:| tricky,see 56, 57 etc  | 12 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-53 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [C++](./303-RangeSumQuery-Immutable.cpp) [Java](./java/303-RangeSumQuery-Immutable.java)|:star::star::star::star::star:| | 21 November 2017 |
-54 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./304-RangeSumQuery2D-Immutable.cpp) [Java](./java/304-RangeSumQuery2D-Immutable.java)|:boom::boom::boom:| | 21 November 2017 |
-55 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./307-RangeSumQuery-Mutable.cpp) |:boom::boom::boom:|Binary Indexed Tree, Segment tree | 21 November 2017 |
-56 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | [C++](./308-RangeSumQuery2D-Mutable.cpp) |:boom::boom::boom:|Binary Indexed Tree, Segment tree, paid | 21 November 2017 |
-57 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/) | [C++](./370-RangeAddition.cpp) |:boom::boom::boom:|paid| 21 November 2017 |
-58 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [C++](./598-RangeAdditionII.cpp) [Java](./java/598-RangeAdditionII.java)|:boom::boom::boom:|| 21 November 2017 |
+54 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [C++](./303-RangeSumQuery-Immutable.cpp) [Java](./java/303-RangeSumQuery-Immutable.java)|:star::star::star::star::star:| | 21 November 2017 |
+55 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./304-RangeSumQuery2D-Immutable.cpp) [Java](./java/304-RangeSumQuery2D-Immutable.java)|:boom::boom::boom:| | 21 November 2017 |
+56 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./307-RangeSumQuery-Mutable.cpp) |:boom::boom::boom:|Binary Indexed Tree, Segment tree | 21 November 2017 |
+57 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | [C++](./308-RangeSumQuery2D-Mutable.cpp) |:boom::boom::boom:|Binary Indexed Tree, Segment tree, paid | 21 November 2017 |
+58 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/) | [C++](./370-RangeAddition.cpp) |:boom::boom::boom:|paid| 21 November 2017 |
+59 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [C++](./598-RangeAdditionII.cpp) [Java](./java/598-RangeAdditionII.java)|:boom::boom::boom:|| 21 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-59 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-subsequence/) | [C++](./128-LongestConsecutiveSequence.cpp) [Java](./java/128-LongestConsecutiveSequence.java)|:boom::boom::boom::boom::boom:|also see 300-LongestIncreasingSubsequence| 23 November 2017 |
-60 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./289-GameOfLife.cpp) [Java](./java/289-GameOfLife.java)|:boom::boom::boom::boom::boom:| | 23 November 2017 |
+60 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-subsequence/) | [C++](./128-LongestConsecutiveSequence.cpp) [Java](./java/128-LongestConsecutiveSequence.java)|:boom::boom::boom::boom::boom:|also see 300-LongestIncreasingSubsequence| 23 November 2017 |
+61 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./289-GameOfLife.cpp) [Java](./java/289-GameOfLife.java)|:boom::boom::boom::boom::boom:| | 23 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
