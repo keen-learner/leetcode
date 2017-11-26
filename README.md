@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 291)
+# Leetcode Algo Problem Solutions (Count = 292)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -10,7 +10,7 @@
   06. [Trees (Count = 47)](#06-trees) 
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue) 
-  09. [DFS, Recursion (Count = 23)](#09-dfs-recursion) 
+  09. [DFS, Recursion (Count = 24)](#09-dfs-recursion) 
   10. [Strings (Count = 31)](#10-strings) 
   11. [Dynamic Programming (Count = 23)](#11-dynamic-programming) 
   12. [Greedy (Count = 04)](#12-greedy) 
@@ -331,6 +331,8 @@
 -- | -- | -- | -- | -- | -- | -- |
 22 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./200-NumberOfIslands.cpp) | :boom::boom::boom::boom::boom: | | 6 October 2017 |
 23 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [C++](./695-MaxAreaOfIsland.cpp) [Java](./java/695-MaxAreaOfIsland.java)| :star::star::star::star::star:| | 29 October 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+24 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [C++](./131-PalindromePartitioning.cpp) [Java](./java/131-PalindromePartitioning.java)|:boom::boom::boom:| | 25 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
