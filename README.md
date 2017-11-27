@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 298)
+# Leetcode Algo Problem Solutions (Count = 299)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -11,7 +11,7 @@
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
   08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue) 
   09. [DFS, Recursion (Count = 27)](#09-dfs-recursion) 
-  10. [Strings (Count = 31)](#10-strings) 
+  10. [Strings (Count = 32)](#10-strings) 
   11. [Dynamic Programming (Count = 23)](#11-dynamic-programming) 
   12. [Greedy (Count = 04)](#12-greedy) 
   13. [Stack (Count = 10)](#13-stack) 
@@ -356,29 +356,30 @@
 08 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [C++](./647-PalindromicSubstrings.cpp) [Java](./java/647-PalindromicSubstrings.java)| :star::star::star::star::star:|same as 5 | 24 August 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 09 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./3-LongestSubstringWithoutRepeatingCharacters.cpp) [Java](./java/3-LongestSubstringWithoutRepeatingCharacters.java)| :boom::boom::boom::boom::boom:| sliding window, same for arrays| 30 July 2017 |
-10 | 438 | [Find All Anagrams In a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [C++](./438-FindAllAnagramsInAString.cpp) [Java](./java/438-FindAllAnagramsInAString.java)|:boom::boom::boom::boom::boom:| sliding window| 20 August 2017 |
-11 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./76-MinimumWindowSubstring.cpp) [Java](./java/76-MinimumWindowSubstring.java)|:boom::boom::boom::boom::boom:|sliding window| 23 August 2017 |
-12 | 567 | [Permutation In String](https://leetcode.com/problems/permutation-in-string/) | [C++](./567-PermutationInString.cpp) [Java](./java/567-PermutationInString.java)|:boom::boom::boom::boom::boom:| sliding window| 23 August 2017 |
-13 | 340 | [Longest Substring with At Most K Distinct Characters ](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [C++](./340-LongestSubstringWithAtMostKDistinctCharacters.cpp) [Java](./java/340-LongestSubstringWithAtMostKDistinctCharacters.java)| :boom::boom::boom::boom::boom:| sliding window, paid| 23 August 2017 |
+10 | 340 | [Longest Substring with At Most K Distinct Characters ](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [C++](./340-LongestSubstringWithAtMostKDistinctCharacters.cpp) [Java](./java/340-LongestSubstringWithAtMostKDistinctCharacters.java)| :boom::boom::boom::boom::boom:| sliding window, paid| 23 August 2017 |
+11 | 395 | [Longest Substring with At Least K Repeating Characters ](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [C++](./395-LongestSubstringWithAtLeastKRepeatingCharacters.cpp) [Java](./java/395-LongestSubstringWithAtLeastKRepeatingCharacters.java)| :boom::boom::boom::boom::boom:|recursion| 26 November 2017 |
+12 | 438 | [Find All Anagrams In a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [C++](./438-FindAllAnagramsInAString.cpp) [Java](./java/438-FindAllAnagramsInAString.java)|:boom::boom::boom::boom::boom:| sliding window| 20 August 2017 |
+13 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./76-MinimumWindowSubstring.cpp) [Java](./java/76-MinimumWindowSubstring.java)|:boom::boom::boom::boom::boom:|sliding window| 23 August 2017 |
+14 | 567 | [Permutation In String](https://leetcode.com/problems/permutation-in-string/) | [C++](./567-PermutationInString.cpp) [Java](./java/567-PermutationInString.java)|:boom::boom::boom::boom::boom:| sliding window| 23 August 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-14 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [C++](./139-WordBreak.cpp) [Java](./java/139-WordBreak.java)|:boom::boom::boom::boom::boom: || 30 August 2017 |
-15 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](./49-GroupAnagrams.cpp) [Java](./java/49-GroupAnagrams.java)| :star::star::star:|| 1 September 2017 |
-16 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./8-StringToIntegerAtoi.cpp) [Java](./java/8-StringToIntegerAtoi.java)| :boom::boom::boom:|see test cases:leading space, sign, overflow| 27 September 2017 |
-17 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./28-ImplementStrStr.cpp) [Java](./java/28-ImplementStrStr.java)|:boom::boom::boom::boom::boom:|see KMP Algo and the test cases | 27 September 2017 |
-18 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C++](./205-IsomorphicStrings.cpp) [Java](./java/205-IsomorphicStrings.java)|:boom::boom::boom::boom::boom:| | 27 September 2017 |
-19 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./290-WordPattern.cpp) [Java](./java/290-WordPattern.java)|:boom::boom::boom::boom::boom:| | 27 September 2017 |
-20 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./125-ValidPalindrome.cpp) [Java](./java/125-ValidPalindrome.java)|:boom::boom::boom:| | 27 September 2017 |
-21 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./242-ValidAnagram.cpp) [Java](./java/242-ValidAnagram.java)|:star::star::star::star::star:|hash and sort approach | 27 September 2017 |
-22 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./387-FirstUniqueCharacterInAString.cpp) [Java](./java/387-FirstUniqueCharacterInAString.java)|:star::star::star::star::star:|we can traverse string or map twice | 27 September 2017 |
-23 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./344-ReverseString.cpp) [Java](./java/344-ReverseString.java)|:star::star::star:| | 27 September 2017 |
-24 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./345-ReverseVowelsOfAString.cpp) [Java](./java/345-ReverseVowelsOfAString.java)|:star::star::star:| | 27 September 2017 |
-25 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C++](./392-IsSubsequence.cpp) [Java](./java/392-IsSubsequence.java)|:boom::boom::boom:|follow up important: if many strings to check, use binary search | 30 September 2017 |
-26 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./58-LengthOfLastWord.cpp) [Java](./java/58-LengthOfLastWord.java)|:star::star::star:| | 26 October 2017 |
-27 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [C++](./621-TaskScheduler.cpp) [Java](./java/621-TaskScheduler.java)|:boom::boom::boom::boom::boom:|| 12 November 2017 |
-28 | 358 | [Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [C++](./358-RearrangeStringKDistanceApart.cpp) |:boom::boom::boom::boom::boom:|paid| 12 November 2017 |
-29 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | [C++](./443-StringCompression.cpp) [Java](./java/443-StringCompression.java)|:boom::boom::boom:|tricky for cases when cnt=1 and cnt>=10| 14 November 2017 |
-30 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/string-compression/) | [C++](./386-LexicographicalNumbers.cpp) [Java](./java/386-LexicographicalNumbers.java)|:boom::boom::boom:|tricky cases, see dfs approach and iterative one| 16 November 2017 |
-31 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [C++](./394-DecodeString.cpp) [Java](./java/394-DecodeString.java)|:boom::boom::boom:|stack, recursion| 23 November 2017 |
+15 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [C++](./139-WordBreak.cpp) [Java](./java/139-WordBreak.java)|:boom::boom::boom::boom::boom: || 30 August 2017 |
+16 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](./49-GroupAnagrams.cpp) [Java](./java/49-GroupAnagrams.java)| :star::star::star:|| 1 September 2017 |
+17 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./8-StringToIntegerAtoi.cpp) [Java](./java/8-StringToIntegerAtoi.java)| :boom::boom::boom:|see test cases:leading space, sign, overflow| 27 September 2017 |
+18 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./28-ImplementStrStr.cpp) [Java](./java/28-ImplementStrStr.java)|:boom::boom::boom::boom::boom:|see KMP Algo and the test cases | 27 September 2017 |
+19 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C++](./205-IsomorphicStrings.cpp) [Java](./java/205-IsomorphicStrings.java)|:boom::boom::boom::boom::boom:| | 27 September 2017 |
+20 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./290-WordPattern.cpp) [Java](./java/290-WordPattern.java)|:boom::boom::boom::boom::boom:| | 27 September 2017 |
+21 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./125-ValidPalindrome.cpp) [Java](./java/125-ValidPalindrome.java)|:boom::boom::boom:| | 27 September 2017 |
+22 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./242-ValidAnagram.cpp) [Java](./java/242-ValidAnagram.java)|:star::star::star::star::star:|hash and sort approach | 27 September 2017 |
+23 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./387-FirstUniqueCharacterInAString.cpp) [Java](./java/387-FirstUniqueCharacterInAString.java)|:star::star::star::star::star:|we can traverse string or map twice | 27 September 2017 |
+24 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./344-ReverseString.cpp) [Java](./java/344-ReverseString.java)|:star::star::star:| | 27 September 2017 |
+25 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./345-ReverseVowelsOfAString.cpp) [Java](./java/345-ReverseVowelsOfAString.java)|:star::star::star:| | 27 September 2017 |
+26 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C++](./392-IsSubsequence.cpp) [Java](./java/392-IsSubsequence.java)|:boom::boom::boom:|follow up important: if many strings to check, use binary search | 30 September 2017 |
+27 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./58-LengthOfLastWord.cpp) [Java](./java/58-LengthOfLastWord.java)|:star::star::star:| | 26 October 2017 |
+28 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [C++](./621-TaskScheduler.cpp) [Java](./java/621-TaskScheduler.java)|:boom::boom::boom::boom::boom:|| 12 November 2017 |
+29 | 358 | [Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | [C++](./358-RearrangeStringKDistanceApart.cpp) |:boom::boom::boom::boom::boom:|paid| 12 November 2017 |
+30 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | [C++](./443-StringCompression.cpp) [Java](./java/443-StringCompression.java)|:boom::boom::boom:|tricky for cases when cnt=1 and cnt>=10| 14 November 2017 |
+31 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/string-compression/) | [C++](./386-LexicographicalNumbers.cpp) [Java](./java/386-LexicographicalNumbers.java)|:boom::boom::boom:|tricky cases, see dfs approach and iterative one| 16 November 2017 |
+32 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [C++](./394-DecodeString.cpp) [Java](./java/394-DecodeString.java)|:boom::boom::boom:|stack, recursion| 23 November 2017 |
 
 
 ## 11. Dynamic Programming
