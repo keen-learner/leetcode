@@ -1,4 +1,4 @@
-# Leetcode Algo Problem Solutions (Count = 297)
+# Leetcode Algo Problem Solutions (Count = 298)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
@@ -14,7 +14,7 @@
   10. [Strings (Count = 31)](#10-strings) 
   11. [Dynamic Programming (Count = 23)](#11-dynamic-programming) 
   12. [Greedy (Count = 04)](#12-greedy) 
-  13. [Stack (Count = 09)](#13-stack) 
+  13. [Stack (Count = 10)](#13-stack) 
   14. [BFS, Graph, Union Find (Count = 08)](#14-bfs-graph) 
   15. [Miscellaneous (Count = 04)](#15-miscellaneous) 
   16. [SQL (Count = 03)](#16-sql) 
@@ -440,11 +440,12 @@
 02 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [C++](./150-EvaluateReversePolishNotation.cpp) [Java](./java/150-EvaluateReversePolishNotation.java) |  | | 30 July 2017 |
 03 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./20-ValidParentheses.cpp) [Java](./java/20-ValidParentheses.java) |  | | 11 August 2017 |
 04 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [C++](./32-LongestValidParentheses.cpp) | :boom::boom::boom::boom::boom: | | 23 August 2017 |
-05 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [C++](./71-SimplifyPath.cpp) [Java](./java/71-SimplifyPath.java)|:boom::boom::boom::boom::boom:| | 16 September 2017 |
-06 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](./232-ImplementQueueUsingStacks.cpp) |:boom::boom::boom:| | 6 October 2017 |
-07 | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | [C++](./339-NestedListWeightSum.cpp) |:boom::boom::boom:|paid, like 394 decode string | 24 November 2017 |
-08 | 364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [C++](./364-NestedListWeightSumII.cpp) |:boom::boom::boom:|paid, like 394 decode string | 24 November 2017 |
-09 | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [C++](./341-FlattenNestedListIterator.cpp) [Java](./java/341-FlattenNestedListIterator.java)|:boom::boom::boom:|  | 24 November 2017 |
+05 | 678 | [Valid Parentheses String](https://leetcode.com/problems/valid-parentheses-string/) | [C++](./678-ValidParenthesesString.cpp) [Java](./java/678-ValidParenthesesString.java)| :boom::boom::boom::boom::boom: | | 26 November 2017 |
+06 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [C++](./71-SimplifyPath.cpp) [Java](./java/71-SimplifyPath.java)|:boom::boom::boom::boom::boom:| | 16 September 2017 |
+07 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](./232-ImplementQueueUsingStacks.cpp) |:boom::boom::boom:| | 6 October 2017 |
+08 | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | [C++](./339-NestedListWeightSum.cpp) |:boom::boom::boom:|paid, like 394 decode string | 24 November 2017 |
+09 | 364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [C++](./364-NestedListWeightSumII.cpp) |:boom::boom::boom:|paid, like 394 decode string | 24 November 2017 |
+10 | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [C++](./341-FlattenNestedListIterator.cpp) [Java](./java/341-FlattenNestedListIterator.java)|:boom::boom::boom:|  | 24 November 2017 |
 
 
 ## 14. BFS, graph, Union Find 
