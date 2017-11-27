@@ -1,9 +1,9 @@
-# Leetcode Algo Problem Solutions (Count = 299)
+# Leetcode Algo Problem Solutions (Count = 300)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
   01. [Math (Count = 15)](#01-math) 
-  02. [Arrays, General (Count = 62)](#02-arrays-general) 
+  02. [Arrays, General (Count = 63)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
   04. [Sort (Count = 9)](#04-sort) 
   05. [LinkedList (Count = 27)](#05-linkedlist) 
@@ -121,6 +121,8 @@
 -- | -- | -- | -- | -- | -- | -- |
 60 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-subsequence/) | [C++](./128-LongestConsecutiveSequence.cpp) [Java](./java/128-LongestConsecutiveSequence.java)|:boom::boom::boom::boom::boom:|also see 300-LongestIncreasingSubsequence| 23 November 2017 |
 61 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./289-GameOfLife.cpp) [Java](./java/289-GameOfLife.java)|:boom::boom::boom::boom::boom:| | 23 November 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+62 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./414-ThirdMaximumNumber.cpp) [Java](./java/414-ThirdMaximumNumber.java)|:boom::boom::boom::boom::boom:|tricky when number equal to INT-MIN, see 215 | 26 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
