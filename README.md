@@ -1,9 +1,9 @@
-# Leetcode Algo Problem Solutions (Count = 302)
+# Leetcode Algo Problem Solutions (Count = 303)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
   01. [Math (Count = 15)](#01-math) 
-  02. [Arrays, General (Count = 63)](#02-arrays-general) 
+  02. [Arrays, General (Count = 64)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
   04. [Sort (Count = 9)](#04-sort) 
   05. [LinkedList (Count = 27)](#05-linkedlist) 
@@ -123,6 +123,8 @@
 61 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./289-GameOfLife.cpp) [Java](./java/289-GameOfLife.java)|:boom::boom::boom::boom::boom:| | 23 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 62 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./414-ThirdMaximumNumber.cpp) [Java](./java/414-ThirdMaximumNumber.java)|:boom::boom::boom::boom::boom:|tricky when number equal to INT-MIN, see 215 | 26 November 2017 |
+-- | -- | -- | -- | -- | -- | -- |
+63 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./36-ValidSudoku.cpp) [Java](./java/36-ValidSudoku.java)|:boom::boom::boom:|tricky, when using 3 types of flags | 29 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
