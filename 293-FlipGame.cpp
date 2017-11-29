@@ -18,6 +18,23 @@ If there is no valid move, return an empty list [].
 
 */
 
+class Solution {
+public:
+    vector<string> generatePossibleNextMoves(string s) {
+        vector<string> moves;
+        int n = s.length();
+        for (int i = 0; i < n - 1; i++) {
+            if (s[i] == '+' && s[i + 1] == '+') { 
+                s[i] = s[i + 1] = '-';
+                moves.push_back(s);
+                s[i] = s[i + 1] = '+';
+            }
+        }
+        return moves;
+    }
+};
+
+
 // Time:  O(c * n + n) = O(n * (c+1)), n is length of string, c is count of "++"
 // Space: O(1), no extra space excluding the result which requires at most O(n^2) space
 class Solution {
