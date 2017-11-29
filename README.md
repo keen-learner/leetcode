@@ -1,8 +1,8 @@
-# Leetcode Algo Problem Solutions (Count = 303)
+# Leetcode Algo Problem Solutions (Count = 304)
 # Leetcode SQL Problem Solutions (Count = 3)
 
 # Index
-  01. [Math (Count = 15)](#01-math) 
+  01. [Math (Count = 16)](#01-math) 
   02. [Arrays, General (Count = 64)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
   04. [Sort (Count = 9)](#04-sort) 
@@ -38,6 +38,7 @@
 13 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./371-SumOfTwoIntegers.cpp) [Java](./java/371-SumOfTwoIntegers.java)|:boom::boom::boom:|[https://discuss.leetcode.com/topic/50315/a-summary-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently], see 29 | 30 September 2017 |
 14 | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [C++](./260-SingleNumberIII.cpp) [Java](./java/260-SingleNumberIII.java)|:boom::boom::boom:| | 30 September 2017 |
 15 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C++](./204-CountPrimes.cpp) [Java](./java/204-CountPrimes.java)|:star::star::star::star::star:| | 29 October 2017 |
+16 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [C++](./476-NumberComplement.cpp) [Java](./java/476-NumberComplement.java)|:boom::boom::boom:|tricky | 29 October 2017 |
  
 
 ## 02. Arrays, General
