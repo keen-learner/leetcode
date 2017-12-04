@@ -52,3 +52,22 @@ public:
         return true;
     }
 };
+
+/*
+
+// check if valid postorder of bst
+
+public static bool IsValidPostOrderBst(int[] nums) {
+    int i = nums.Count();
+    int root = int.MaxValue;
+    for (int j = nums.Count() - 1; j >= 0; j--) {
+        if (nums[j] > root) return false;
+        while (i <= nums.Count() - 1 && nums[j] > nums[i])
+            root = nums[i++];
+        nums[--i] = nums[j];
+    }
+    return true;
+}
+
+
+*/
