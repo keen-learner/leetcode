@@ -45,7 +45,7 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./268-MissingNumber.cpp) [Java](./java/268-MissingNumber.java)|:star::star::star::star::star:| | 7 June 2017 |
+01 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./268-MissingNumber.cpp) [Java](./java/268-MissingNumber.java) [C#](./c-sharp/268-MissingNumber.cs)|:star::star::star::star::star:| | 7 June 2017 |
 02 | 287 | [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](./287-FindTheDuplicateNumber.cpp) [Java](./java/287-FindTheDuplicateNumber.java)| :boom::boom::boom: | | 7 June 2017 |
 03 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C++](./136-SingleNumber.cpp) [Java](./java/136-SingleNumber.java)|:star::star::star:| | 30 September 2017 |
 04 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./389-FindTheDifference.cpp) [Java](./java/389-FindTheDifference.java)|:star::star::star::star::star:| | 27 September 2017 |
