@@ -1,11 +1,11 @@
-# Leetcode Algo Problem Solutions (Count = 304)
+# Leetcode Algo Problem Solutions (Count = 305)
 # Leetcode SQL Problem Solutions (Count = 4)
 
 # Index
   01. [Math (Count = 16)](#01-math) 
   02. [Arrays, General (Count = 64)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
-  04. [Sort (Count = 9)](#04-sort) 
+  04. [Sort (Count = 10)](#04-sort) 
   05. [LinkedList (Count = 27)](#05-linkedlist) 
   06. [Trees (Count = 49)](#06-trees) 
   07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
@@ -157,6 +157,7 @@
 07 | 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./406-QueueReconstructionByHeight.cpp) [Java](./java/406-QueueReconstructionByHeight.java)| :boom::boom::boom::boom::boom:| very tricky; see effecient algo  | 30 September 2017 |
 08 | 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | [C++](./280-WiggleSort.cpp) | :boom::boom::boom:|paid | 26 October 2017 |
 09 | 324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | [C++](./324-WiggleSortII.cpp) [Java](./java/324-WiggleSortII.java)| :boom::boom::boom::boom::boom:|see median and tri partition approach | 26 October 2017 |
+10 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [C++](./451-SortCharactersByFrequency.cpp) [Java](./java/451-SortCharactersByFrequency.java)| :boom::boom::boom:|see both, java and c++ | 28 December 2017 |
 
 
 ## 05. LinkedList
