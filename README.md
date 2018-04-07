@@ -1,5 +1,5 @@
 # Leetcode Algo Problem Solutions (Count = 305)
-# Leetcode SQL Problem Solutions (Count = 4)
+# Leetcode SQL Problem Solutions (Count = 5)
 
 # Index
   01. [Math (Count = 16)](#01-math) 
@@ -17,7 +17,7 @@
   13. [Stack (Count = 10)](#13-stack) 
   14. [BFS, Graph, Union Find (Count = 08)](#14-bfs-graph) 
   15. [Miscellaneous (Count = 04)](#15-miscellaneous) 
-  16. [SQL (Count = 03)](#16-sql) 
+  16. [SQL (Count = 05)](#16-sql) 
 
 ## 01. Math
 
@@ -494,6 +494,7 @@
 02 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](./mysql/176-SecondHighestSalary.sql) | :star::star::star:|| 23 October 2017 |
 03 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [MySQL](./mysql/177-NthHighestSalary.sql) |:boom::boom::boom:|| 25 October 2017 |
 04 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [MySQL](./mysql/596-ClassesMoreThan5Students.sql) |:star::star::star::star::star:|| 3 December 2017 |
+05 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](./mysql/595-BigCountries.sql) |:star::star::star::star::star:|union/union all concept| 7 April 2018 |
 
 
 
