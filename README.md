@@ -1,5 +1,5 @@
 # Leetcode Algo Problem Solutions (Count = 305)
-# Leetcode SQL Problem Solutions (Count = 6)
+# Leetcode SQL Problem Solutions (Count = 7)
 
 # Index
   01. [Math (Count = 16)](#01-math) 
@@ -17,7 +17,7 @@
   13. [Stack (Count = 10)](#13-stack) 
   14. [BFS, Graph, Union Find (Count = 08)](#14-bfs-graph) 
   15. [Miscellaneous (Count = 04)](#15-miscellaneous) 
-  16. [SQL (Count = 06)](#16-sql) 
+  16. [SQL (Count = 07)](#16-sql) 
 
 ## 01. Math
 
@@ -496,6 +496,7 @@
 04 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [MySQL](./mysql/596-ClassesMoreThan5Students.sql) |:star::star::star::star::star:|| 3 December 2017 |
 05 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](./mysql/595-BigCountries.sql) |:star::star::star::star::star:|union/union all concept| 7 April 2018 |
 06 | 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | [MySQL](./mysql/613-ShortestDistanceInALine.sql) |:boom::boom::boom::boom::boom:|paid, see solutions| 7 April 2018 |
+07 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [MySQL](./mysql/627-SwapSalary.sql) |:boom::boom::boom:|concept: if/case..when..then| 7 April 2018 |
 
 
 
