@@ -1,5 +1,5 @@
 # Leetcode Algo Problem Solutions (Count = 305)
-# Leetcode SQL Problem Solutions (Count = 10)
+# Leetcode SQL Problem Solutions (Count = 11)
 
 # Index
   01. [Math (Count = 16)](#01-math) 
@@ -17,7 +17,7 @@
   13. [Stack (Count = 10)](#13-stack) 
   14. [BFS, Graph, Union Find (Count = 08)](#14-bfs-graph) 
   15. [Miscellaneous (Count = 04)](#15-miscellaneous) 
-  16. [SQL (Count = 10)](#16-sql) 
+  16. [SQL (Count = 11)](#16-sql) 
 
 ## 01. Math
 
@@ -500,6 +500,7 @@
 08 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [MySQL](./mysql/584-FindCustomerReferee.sql) |:boom::boom::boom::boom::boom:|paid, see solutions, concept of 3 value logic - is null and is not null| 7 April 2018 |
 09 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customers-placing-the-largest-number-of-orders/) | [MySQL](./mysql/586-CustomerPlacingTheLargestNumberOfOrders.sql) |:boom::boom::boom::boom::boom:|paid,limit/offset concept see solutions,similar to 176, 177 | 8 April 2018 |
 10 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](./mysql/620-NotBoringMovies.sql) |:star::star::star:|MOD()/LOWER() concept| 8 April 2018 |
+11 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [MySQL](./mysql/610-TriangleJudgement.sql) |:boom::boom::boom:|paid, concept: if/case..when..then, similar to 627| 8 April 2018 |
 
 
 
