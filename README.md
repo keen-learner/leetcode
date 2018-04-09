@@ -1,5 +1,5 @@
 # Leetcode Algo Problem Solutions (Count = 305)
-# Leetcode SQL Problem Solutions (Count = 8)
+# Leetcode SQL Problem Solutions (Count = 9)
 
 # Index
   01. [Math (Count = 16)](#01-math) 
@@ -17,7 +17,7 @@
   13. [Stack (Count = 10)](#13-stack) 
   14. [BFS, Graph, Union Find (Count = 08)](#14-bfs-graph) 
   15. [Miscellaneous (Count = 04)](#15-miscellaneous) 
-  16. [SQL (Count = 08)](#16-sql) 
+  16. [SQL (Count = 09)](#16-sql) 
 
 ## 01. Math
 
@@ -491,13 +491,14 @@
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
 01 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](./mysql/175-CombineTwoTables.sql) | :star::star::star:|| 23 October 2017 |
-02 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](./mysql/176-SecondHighestSalary.sql) | :star::star::star:|| 23 October 2017 |
-03 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [MySQL](./mysql/177-NthHighestSalary.sql) |:boom::boom::boom:|| 25 October 2017 |
+02 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](./mysql/176-SecondHighestSalary.sql) | :star::star::star:|limit/offset concept| 23 October 2017 |
+03 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [MySQL](./mysql/177-NthHighestSalary.sql) |:boom::boom::boom:|function concept| 25 October 2017 |
 04 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [MySQL](./mysql/596-ClassesMoreThan5Students.sql) |:star::star::star::star::star:|| 3 December 2017 |
 05 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](./mysql/595-BigCountries.sql) |:star::star::star::star::star:|union/union all concept| 7 April 2018 |
 06 | 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | [MySQL](./mysql/613-ShortestDistanceInALine.sql) |:boom::boom::boom::boom::boom:|paid, see solutions| 7 April 2018 |
 07 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [MySQL](./mysql/627-SwapSalary.sql) |:boom::boom::boom:|concept: if/case..when..then| 7 April 2018 |
 08 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [MySQL](./mysql/584-FindCustomerReferee.sql) |:boom::boom::boom::boom::boom:|paid, see solutions, concept of 3 value logic - is null and is not null| 7 April 2018 |
+09 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customers-placing-the-largest-number-of-orders/) | [MySQL](./mysql/586-CustomerPlacingTheLargestNumberOfOrders.sql) |:boom::boom::boom::boom::boom:|paid,limit/offset concept see solutions,similar to 176, 177 | 8 April 2018 |
 
 
 
