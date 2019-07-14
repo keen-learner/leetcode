@@ -1,9 +1,9 @@
-# Leetcode Algo Problem Solutions (Count = 305)
+# Leetcode Algo Problem Solutions (Count = 306)
 # Leetcode SQL Problem Solutions (Count = 11)
 
 # Index
   01. [Math (Count = 16)](#01-math) 
-  02. [Arrays, General (Count = 64)](#02-arrays-general) 
+  02. [Arrays, General (Count = 65)](#02-arrays-general) 
   03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
   04. [Sort (Count = 10)](#04-sort) 
   05. [LinkedList (Count = 27)](#05-linkedlist) 
@@ -79,54 +79,55 @@
 27 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./167-TwoSumII.cpp) [Java](./java/167-TwoSumII.java)| :star::star::star:| | 27 September 2017 |
 28 | 170 | [Two Sum III - Data structure design ](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [C++](./170-TwoSumIII.cpp) |:boom::boom::boom:|paid| 27 September 2017 |
 29 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [C++](./653-TwoSumIV.cpp) [Java](./java/653-TwoSumIV.java)|:boom::boom::boom::boom::boom:| | 27 September 2017 |
+30 | 1099 | [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/) | [C++](./1099-TwoSumLessThanK.cpp) |:boom::boom::boom:| | 13 July 2019 |
 -- | -- | -- | -- | -- | -- | -- |
-30 | 532 | [K Diff Pairs In An Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [C++](./532-K-diffPairsInAnArray.cpp) [Java](./java/532-K-diffPairsInAnArray.java)| :boom::boom::boom::boom::boom:| | 22 August 2017 |
+31 | 532 | [K Diff Pairs In An Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [C++](./532-K-diffPairsInAnArray.cpp) [Java](./java/532-K-diffPairsInAnArray.java)| :boom::boom::boom::boom::boom:| | 22 August 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-31 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [C++](./674-LongestContinuousIncreasingSubsequence.cpp) [Java](./java/674-LongestContinuousIncreasingSubsequence.java)|:boom::boom::boom:| | 16 September 2017 |
+32 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [C++](./674-LongestContinuousIncreasingSubsequence.cpp) [Java](./java/674-LongestContinuousIncreasingSubsequence.java)|:boom::boom::boom:| | 16 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-32 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./121-BestTimeToBuyAndSellStock.cpp) [Java](./java/121-BestTimeToBuyAndSellStock.java)|:boom::boom::boom:|only 1 transaction, if delta prices given then equals max contiguous subarray | 16 September 2017 |
-33 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./122-BestTimeToBuyAndSellStockII.cpp) [Java](./java/122-BestTimeToBuyAndSellStockII.java)|:boom::boom::boom:|any no.of txns, we want all positive deltas | 16 September 2017 |
-34 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [C++](./188-BestTimeToBuyAndSellStockIV.cpp) [Java](./java/188-BestTimeToBuyAndSellStockIV.java)|:boom::boom::boom::boom::boom:|atmost k txns | 16 September 2017 |
-35 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](./123-BestTimeToBuyAndSellStockIII.cpp) [Java](./java/123-BestTimeToBuyAndSellStockIII.java)|:boom::boom::boom::boom::boom:|same as 188, k = 2 and atmost k txns | 16 September 2017 |
-36 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./309-BestTimeToBuyAndSellStockWithCooldown.cpp) [Java](./java/309-BestTimeToBuyAndSellStockWithCooldown.java)|:boom::boom::boom::boom::boom:|with cooldown | 16 September 2017 |
+33 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./121-BestTimeToBuyAndSellStock.cpp) [Java](./java/121-BestTimeToBuyAndSellStock.java)|:boom::boom::boom:|only 1 transaction, if delta prices given then equals max contiguous subarray | 16 September 2017 |
+34 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./122-BestTimeToBuyAndSellStockII.cpp) [Java](./java/122-BestTimeToBuyAndSellStockII.java)|:boom::boom::boom:|any no.of txns, we want all positive deltas | 16 September 2017 |
+35 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [C++](./188-BestTimeToBuyAndSellStockIV.cpp) [Java](./java/188-BestTimeToBuyAndSellStockIV.java)|:boom::boom::boom::boom::boom:|atmost k txns | 16 September 2017 |
+36 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](./123-BestTimeToBuyAndSellStockIII.cpp) [Java](./java/123-BestTimeToBuyAndSellStockIII.java)|:boom::boom::boom::boom::boom:|same as 188, k = 2 and atmost k txns | 16 September 2017 |
+37 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./309-BestTimeToBuyAndSellStockWithCooldown.cpp) [Java](./java/309-BestTimeToBuyAndSellStockWithCooldown.java)|:boom::boom::boom::boom::boom:|with cooldown | 16 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-37 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C++](./384-ShuffleAnArray.cpp) [Java](./java/384-ShuffleAnArray.java)|:boom::boom::boom::boom::boom:|Concept | 21 September 2017 |
+38 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C++](./384-ShuffleAnArray.cpp) [Java](./java/384-ShuffleAnArray.java)|:boom::boom::boom::boom::boom:|Concept | 21 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-38 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./349-IntersectionOfTwoArrays.cpp) [Java](./java/349-IntersectionOfTwoArrays.java)|:star::star::star:|return common elements, hash(remove element afterwards), 2 pointers and sort approach | 30 September 2017 |
-39 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./350-IntersectionOfTwoArraysII.cpp) [Java](./java/350-IntersectionOfTwoArraysII.java)|:star::star::star:| | 30 September 2017 |
+39 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./349-IntersectionOfTwoArrays.cpp) [Java](./java/349-IntersectionOfTwoArrays.java)|:star::star::star:|return common elements, hash(remove element afterwards), 2 pointers and sort approach | 30 September 2017 |
+40 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./350-IntersectionOfTwoArraysII.cpp) [Java](./java/350-IntersectionOfTwoArraysII.java)|:star::star::star:| | 30 September 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-40 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/) | [C++](./293-FlipGame.cpp) |:boom::boom::boom:| paid | 28 September 2017 |
-41 | 294 | [Flip Game II](https://leetcode.com/problems/flip-game-ii/) | [C++](./294-FlipGameII.cpp) |:boom::boom::boom:| paid | 29 November 2017 |
+41 | 293 | [Flip Game](https://leetcode.com/problems/flip-game/) | [C++](./293-FlipGame.cpp) |:boom::boom::boom:| paid | 28 September 2017 |
+42 | 294 | [Flip Game II](https://leetcode.com/problems/flip-game-ii/) | [C++](./294-FlipGameII.cpp) |:boom::boom::boom:| paid | 29 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-42 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](./724-FindPivotIndex.cpp) [Java](./java/724-FindPivotIndex.java)|:star::star::star::star::star:| | 26 November 2017 |
-43 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./560-SubarraySumEqualsK.cpp) [Java](./java/560-SubarraySumEqualsK.java)|:boom::boom::boom:|  | 6 October 2017 |
-44 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [C++](./523-ContinuousSubarraySum.cpp) [Java](./java/523-ContinuousSubarraySum.java)|:boom::boom::boom:| see 416 | 6 October 2017 |
-45 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [C++](./525-ContiguousArray.cpp) [Java](./java/525-ContiguousArray.java)|:boom::boom::boom:| | 26 October 2017 |
-46 | 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [C++](./325-MaximumSizeSubarraySumEqualsK.cpp) |:boom::boom::boom::boom::boom:|paid| 6 October 2017 |
-47 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./209-MinimumSizeSubarraySum.cpp) [Java](./java/209-MinimumSizeSubarraySum.java)| :boom::boom::boom: | sliding window, tricky, NOTE:difference between this and 325| 23 August 2017 |
-48 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [C++](./581-ShortestUnsortedContinuousSubarray.cpp) [Java](./java/581-ShortestUnsortedContinuousSubarray.java)|:boom::boom::boom::boom::boom:|tricky with O(1) space | 27 October 2017 |
+43 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](./724-FindPivotIndex.cpp) [Java](./java/724-FindPivotIndex.java)|:star::star::star::star::star:| | 26 November 2017 |
+44 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](./560-SubarraySumEqualsK.cpp) [Java](./java/560-SubarraySumEqualsK.java)|:boom::boom::boom:|  | 6 October 2017 |
+45 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [C++](./523-ContinuousSubarraySum.cpp) [Java](./java/523-ContinuousSubarraySum.java)|:boom::boom::boom:| see 416 | 6 October 2017 |
+46 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [C++](./525-ContiguousArray.cpp) [Java](./java/525-ContiguousArray.java)|:boom::boom::boom:| | 26 October 2017 |
+47 | 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [C++](./325-MaximumSizeSubarraySumEqualsK.cpp) |:boom::boom::boom::boom::boom:|paid| 6 October 2017 |
+48 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./209-MinimumSizeSubarraySum.cpp) [Java](./java/209-MinimumSizeSubarraySum.java)| :boom::boom::boom: | sliding window, tricky, NOTE:difference between this and 325| 23 August 2017 |
+49 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [C++](./581-ShortestUnsortedContinuousSubarray.cpp) [Java](./java/581-ShortestUnsortedContinuousSubarray.java)|:boom::boom::boom::boom::boom:|tricky with O(1) space | 27 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-49 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./463-IslandPerimeter.cpp) [Java](./java/463-IslandPerimeter.java)|:boom::boom::boom:| | 29 October 2017 |
-50 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [C++](./277-FindTheCelebrity.cpp) |:boom::boom::boom:|paid| 2 November 2017 |
+50 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./463-IslandPerimeter.cpp) [Java](./java/463-IslandPerimeter.java)|:boom::boom::boom:| | 29 October 2017 |
+51 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [C++](./277-FindTheCelebrity.cpp) |:boom::boom::boom:|paid| 2 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-51 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [C++](./495-TeemoAttacking.cpp) [Java](./java/495-TeemoAttacking.java)|:boom::boom::boom:| tricky, similar to interval problems 56, 57 etc.  | 9 November 2017 |
-52 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [C++](./228-SummaryRanges.cpp) [Java](./java/228-SummaryRanges.java)|:boom::boom::boom:| tricky,similar to 495  | 9 November 2017 |
-53 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [C++](./163-MissingRanges.cpp) |:boom::boom::boom:| tricky,similar to 495, paid  | 9 November 2017 |
-54 | 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [C++](./436-FindRightInterval.cpp) [Java](./java/436-FindRightInterval.java)|:boom::boom::boom:| tricky,see 56, 57 etc  | 12 November 2017 |
+52 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [C++](./495-TeemoAttacking.cpp) [Java](./java/495-TeemoAttacking.java)|:boom::boom::boom:| tricky, similar to interval problems 56, 57 etc.  | 9 November 2017 |
+53 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [C++](./228-SummaryRanges.cpp) [Java](./java/228-SummaryRanges.java)|:boom::boom::boom:| tricky,similar to 495  | 9 November 2017 |
+54 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [C++](./163-MissingRanges.cpp) |:boom::boom::boom:| tricky,similar to 495, paid  | 9 November 2017 |
+55 | 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [C++](./436-FindRightInterval.cpp) [Java](./java/436-FindRightInterval.java)|:boom::boom::boom:| tricky,see 56, 57 etc  | 12 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-55 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [C++](./303-RangeSumQuery-Immutable.cpp) [Java](./java/303-RangeSumQuery-Immutable.java)|:star::star::star::star::star:| | 21 November 2017 |
-56 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./304-RangeSumQuery2D-Immutable.cpp) [Java](./java/304-RangeSumQuery2D-Immutable.java)|:boom::boom::boom:| | 21 November 2017 |
-57 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./307-RangeSumQuery-Mutable.cpp) |:boom::boom::boom:|Binary Indexed Tree, Segment tree | 21 November 2017 |
-58 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | [C++](./308-RangeSumQuery2D-Mutable.cpp) |:boom::boom::boom:|Binary Indexed Tree, Segment tree, paid | 21 November 2017 |
-59 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/) | [C++](./370-RangeAddition.cpp) |:boom::boom::boom:|paid| 21 November 2017 |
-60 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [C++](./598-RangeAdditionII.cpp) [Java](./java/598-RangeAdditionII.java)|:boom::boom::boom:|| 21 November 2017 |
+56 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [C++](./303-RangeSumQuery-Immutable.cpp) [Java](./java/303-RangeSumQuery-Immutable.java)|:star::star::star::star::star:| | 21 November 2017 |
+57 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./304-RangeSumQuery2D-Immutable.cpp) [Java](./java/304-RangeSumQuery2D-Immutable.java)|:boom::boom::boom:| | 21 November 2017 |
+58 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./307-RangeSumQuery-Mutable.cpp) |:boom::boom::boom:|Binary Indexed Tree, Segment tree | 21 November 2017 |
+59 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) | [C++](./308-RangeSumQuery2D-Mutable.cpp) |:boom::boom::boom:|Binary Indexed Tree, Segment tree, paid | 21 November 2017 |
+60 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/) | [C++](./370-RangeAddition.cpp) |:boom::boom::boom:|paid| 21 November 2017 |
+61 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [C++](./598-RangeAdditionII.cpp) [Java](./java/598-RangeAdditionII.java)|:boom::boom::boom:|| 21 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-61 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-subsequence/) | [C++](./128-LongestConsecutiveSequence.cpp) [Java](./java/128-LongestConsecutiveSequence.java)|:boom::boom::boom::boom::boom:|also see 300-LongestIncreasingSubsequence| 23 November 2017 |
-62 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./289-GameOfLife.cpp) [Java](./java/289-GameOfLife.java)|:boom::boom::boom::boom::boom:| | 23 November 2017 |
+62 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-subsequence/) | [C++](./128-LongestConsecutiveSequence.cpp) [Java](./java/128-LongestConsecutiveSequence.java)|:boom::boom::boom::boom::boom:|also see 300-LongestIncreasingSubsequence| 23 November 2017 |
+63 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./289-GameOfLife.cpp) [Java](./java/289-GameOfLife.java)|:boom::boom::boom::boom::boom:| | 23 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-63 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./414-ThirdMaximumNumber.cpp) [Java](./java/414-ThirdMaximumNumber.java)|:boom::boom::boom::boom::boom:|tricky when number equal to INT-MIN, see 215 | 26 November 2017 |
+64 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./414-ThirdMaximumNumber.cpp) [Java](./java/414-ThirdMaximumNumber.java)|:boom::boom::boom::boom::boom:|tricky when number equal to INT-MIN, see 215 | 26 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
-64 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./36-ValidSudoku.cpp) [Java](./java/36-ValidSudoku.java)|:boom::boom::boom:|tricky, when using 3 types of flags | 29 November 2017 |
+65 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./36-ValidSudoku.cpp) [Java](./java/36-ValidSudoku.java)|:boom::boom::boom:|tricky, when using 3 types of flags | 29 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
 
