@@ -1,6 +1,6 @@
 # Leetcode Algo Problem Solutions (Count = 306)
 # Leetcode SQL Problem Solutions (Count = 11)
-[C++](./c++/
+
 # Index
   01. [Math (Count = 16)](#01-math) 
   02. [Arrays, General (Count = 65)](#02-arrays-general) 
