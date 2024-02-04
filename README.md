@@ -2,22 +2,22 @@
 # Leetcode SQL Problem Solutions (Count = 11)
 
 # Index
-  01. [Math (Count = 16)](#01-math) 
-  02. [Arrays, General (Count = 65)](#02-arrays-general) 
-  03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers) 
-  04. [Sort (Count = 10)](#04-sort) 
-  05. [LinkedList (Count = 27)](#05-linkedlist) 
-  06. [Trees (Count = 49)](#06-trees) 
-  07. [Search, Binary Search (Count = 16)](#07-search-binary-search) 
-  08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue) 
-  09. [DFS, Recursion (Count = 27)](#09-dfs-recursion) 
-  10. [Strings (Count = 32)](#10-strings) 
-  11. [Dynamic Programming (Count = 23)](#11-dynamic-programming) 
-  12. [Greedy (Count = 04)](#12-greedy) 
-  13. [Stack (Count = 10)](#13-stack) 
-  14. [BFS, Graph, Union Find (Count = 08)](#14-bfs-graph) 
-  15. [Miscellaneous (Count = 04)](#15-miscellaneous) 
-  16. [SQL (Count = 11)](#16-sql) 
+  01. [Math (Count = 16)](#01-math)
+  02. [Arrays, General (Count = 65)](#02-arrays-general)
+  03. [Partition, 2 Pointers (Count = 06)](#03-partition-2-pointers)
+  04. [Sort (Count = 10)](#04-sort)
+  05. [LinkedList (Count = 27)](#05-linkedlist)
+  06. [Trees (Count = 49)](#06-trees)
+  07. [Search, Binary Search (Count = 16)](#07-search-binary-search)
+  08. [Queue, Priority Queue (Count = 09)](#08-queue-priority-queue)
+  09. [DFS, Recursion (Count = 27)](#09-dfs-recursion)
+  10. [Strings (Count = 32)](#10-strings)
+  11. [Dynamic Programming (Count = 23)](#11-dynamic-programming)
+  12. [Greedy (Count = 04)](#12-greedy)
+  13. [Stack (Count = 10)](#13-stack)
+  14. [BFS, Graph, Union Find (Count = 08)](#14-bfs-graph)
+  15. [Miscellaneous (Count = 04)](#15-miscellaneous)
+  16. [SQL (Count = 11)](#16-sql)
 
 ## 01. Math
 
@@ -40,6 +40,11 @@
 15 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C++](./c++/204-CountPrimes.cpp) [Java](./java/204-CountPrimes.java)|:star::star::star::star::star:| | 29 October 2017 |
 16 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [C++](./c++/476-NumberComplement.cpp) [Java](./java/476-NumberComplement.java)|:boom::boom::boom:|tricky | 29 October 2017 |
  
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 02. Arrays, General
 
@@ -130,6 +135,11 @@
 65 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./c++/36-ValidSudoku.cpp) [Java](./java/36-ValidSudoku.java)|:boom::boom::boom:|tricky, when using 3 types of flags | 29 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 03. Partition, 2 Pointers
 
@@ -144,6 +154,11 @@
 06 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./c++/80-RemoveDuplicatesFromSortedArrayII.cpp) [Java](./java/80-RemoveDuplicatesFromSortedArrayII.java)| :boom::boom::boom::boom::boom:| | 23 June 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 04. Sort
 
@@ -160,6 +175,11 @@
 09 | 324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | [C++](./c++/324-WiggleSortII.cpp) [Java](./java/324-WiggleSortII.java)| :boom::boom::boom::boom::boom:|see median and tri partition approach | 26 October 2017 |
 10 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [C++](./c++/451-SortCharactersByFrequency.cpp) [Java](./java/451-SortCharactersByFrequency.java)| :boom::boom::boom:|see both, java and c++ | 28 December 2017 |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 05. LinkedList
 
@@ -201,6 +221,12 @@
 26 | 138 | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./c++/138-CopyListWithRandomPointer.cpp) [Java](./java/138-CopyListWithRandomPointer.java)|:boom::boom::boom::boom::boom:|tricky | 15 September 2017 |
 27 | 379 | [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) | [C++](./c++/379-DesignPhoneDirectory.cpp) [Java](./java/379-DesignPhoneDirectory.java)|:boom::boom::boom::boom::boom:|tricky, harsh time constraints, paid, see both | 10 November 2017 |
 
+
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 06. Trees
 
@@ -268,6 +294,11 @@
 49 | 549 | [Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/) | [C++](./c++/549-BinaryTreeLongestConsecutiveSequenceII.cpp) |:boom::boom::boom:|paid| 24 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 07. Search, Binary Search
 
@@ -293,6 +324,11 @@
 15 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [C++](./c++/367-ValidPerfectSquare.cpp) [Java](./java/367-ValidPerfectSquare.java)|:star::star::star::star::star:| Binary Search, see cases n is 0 and is 0 and is 1| 28 September 2017 |
 16 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [C++](./c++/540-SingleElementInASortedArray.cpp) [Java](./java/540-SingleElementInASortedArray.java)|:boom::boom::boom:| Binary Search, tricky, see single number problems| 30 September 2017 |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 08. Queue, Priority Queue
 
@@ -310,6 +346,11 @@
 09 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [C++](./c++/225-ImplementStackUsingQueues.cpp) |:boom::boom::boom::boom::boom: |Queue | 6 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 09. DFS, recursion
 
@@ -349,6 +390,11 @@
 27 | 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [C++](./c++/132-PalindromePartitioningII.cpp) [Java](./java/132-PalindromePartitioningII.java)|:boom::boom::boom:| | 25 November 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 10. Strings
 
@@ -391,6 +437,11 @@
 31 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/string-compression/) | [C++](./c++/386-LexicographicalNumbers.cpp) [Java](./java/386-LexicographicalNumbers.java)|:boom::boom::boom:|tricky cases, see dfs approach and iterative one| 16 November 2017 |
 32 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [C++](./c++/394-DecodeString.cpp) [Java](./java/394-DecodeString.java)|:boom::boom::boom:|stack, recursion| 23 November 2017 |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 11. Dynamic Programming
 
@@ -432,6 +483,11 @@
 23 | 279 | [Perfect Squares](http://www.leetcode.com/problems/perfect-squares/) | [C++](./c++/279-PerfectSquares.cpp) [Java](./java/279-PerfectSquares.java)|:boom::boom::boom::boom::boom:|see BFS, other DP, Math solutions| 29 October 2017 |
 -- | -- | -- | -- | -- | -- | -- |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 12. Greedy
 
@@ -442,6 +498,11 @@
 03 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./c++/55-JumpGame.cpp) [Java](./java/55-JumpGame.java)|:boom::boom::boom:| | 25 July 2017 |
 04 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [C++](./c++/134-GasStation.cpp) [Java](./java/134-GasStation.java)|:boom::boom::boom::boom::boom:| | 01 November 2017 |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 13. Stack
 
@@ -458,6 +519,11 @@
 09 | 364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [C++](./c++/364-NestedListWeightSumII.cpp) |:boom::boom::boom:|paid, like 394 decode string | 24 November 2017 |
 10 | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [C++](./c++/341-FlattenNestedListIterator.cpp) [Java](./java/341-FlattenNestedListIterator.java)|:boom::boom::boom:|  | 24 November 2017 |
 
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 14. BFS, graph, Union Find 
 
@@ -473,7 +539,11 @@
 07 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [C++](./c++/127-WordLadder.cpp) [Java](./java/127-WordLadder.java)| :boom::boom::boom::boom::boom: | | 24 November 2017 |
 08 | 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [C++](./c++/126-WordLadderII.cpp) [Java](./java/126-WordLadder.java)| :boom::boom::boom::boom::boom: | | 24 November 2017 |
 
-
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 15. Miscellaneous 
 
@@ -485,7 +555,11 @@
 03 | 208 | [ Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [C++](./c++/208-ImplementTrie.cpp) [Java](./java/208-ImplementTrie.java)|:boom::boom::boom::boom::boom: |Trie| 3 October 2017 |
 04 | 211 | [ Add and Search Word - Data structure design ](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [C++](./c++/211-AddAndSearchWord.cpp) [Java](./java/211-AddAndSearchWord.java)|:boom::boom::boom::boom::boom: |Trie| 5 October 2017 |
 
-
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## 16. SQL 
 
@@ -503,5 +577,9 @@
 10 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](./mysql/620-NotBoringMovies.sql) |:star::star::star:|MOD()/LOWER() concept| 8 April 2018 |
 11 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [MySQL](./mysql/610-TriangleJudgement.sql) |:boom::boom::boom:|paid, concept: if/case..when..then, similar to 627| 8 April 2018 |
 
-
+<br/>
+<div align="right">
+    <b><a href="#index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
