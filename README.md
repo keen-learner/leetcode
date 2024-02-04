@@ -23,7 +23,7 @@
 
 |  S.No  |  Prob #  | Title                         |  Solution       | Tag          | Note                                  | Added on | 
 |-----|-----|------------------------------ | --------------- |--------------|-------------------------------------- |----------|
-01 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./c++/7-ReverseInteger.cpp) [Java](./java/7-ReverseInteger.java)| :boom::boom::boom: | good| 16 July 2017 |
+01 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./c++/7-ReverseInteger.cpp) [Java](./java/7-ReverseInteger.java)| :boom: :boom: :boom: | good| 16 July 2017 |
 02 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./c++/12-IntegerToRoman.cpp) [Java](./java/12-IntegerToRoman.java)| :star::star::star::star::star: | | 16 July 2017 |
 03 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./c++/13-RomanToInteger.cpp) [Java](./java/13-RomanToInteger.java)| :star::star::star::star::star: | | 16 July 2017 |
 04 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](./c++/190-ReverseBits.cpp) [Java](./java/190-ReverseBits.java) |:star::star::star::star::star:| | 27 July 2017 |
